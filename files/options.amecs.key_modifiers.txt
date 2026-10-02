@@ -1,0 +1,19 @@
+key_modifiers_key.drop: shift
+key_modifiers_key.swapOffhand: shift
+key_modifiers_key.cobblemon.throwpartypokemon: shift
+key_modifiers_key.epicfight.switch_mode: shift
+key_modifiers_key.sword_soaring.switch_mode: shift
+key_modifiers_Toggle Battle Conditions: control
+key_modifiers_key.journeymap.map_toggle_alt: control
+key_modifiers_key.cobblemon-battle-extras.battle_logs: control
+key_modifiers_key.parcool.Crawl: control
+key_modifiers_key.irons_spellbooks.spellbook_cast: control
+key_modifiers_key.irons_spellbooks.spell_quick_cast_1: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_2: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_3: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_4: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_5: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_6: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_7: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_8: alt
+key_modifiers_key.irons_spellbooks.spell_quick_cast_9: alt

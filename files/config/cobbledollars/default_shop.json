@@ -1,0 +1,130 @@
+[
+  {
+    "name": "Poké Balls",
+    "offers": [
+      {
+        "item": "cobblemon:great_ball",
+        "price": "600"
+      },
+      {
+        "item": "cobblemon:poke_ball",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:premier_ball",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:ultra_ball",
+        "price": "800"
+      }
+    ]
+  },
+  {
+    "name": "Healing",
+    "offers": [
+      {
+        "item": "cobblemon:antidote",
+        "price": "100"
+      },
+      {
+        "item": "cobblemon:awakening",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:burn_heal",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:full_heal",
+        "price": "400"
+      },
+      {
+        "item": "cobblemon:full_restore",
+        "price": "3000"
+      },
+      {
+        "item": "cobblemon:hyper_potion",
+        "price": "1500"
+      },
+      {
+        "item": "cobblemon:ice_heal",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:max_potion",
+        "price": "2500"
+      },
+      {
+        "item": "cobblemon:max_revive",
+        "price": "4000"
+      },
+      {
+        "item": "cobblemon:paralyze_heal",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:potion",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:revive",
+        "price": "2000"
+      },
+      {
+        "item": "cobblemon:super_potion",
+        "price": "700"
+      }
+    ]
+  },
+  {
+    "name": "Remedies",
+    "offers": [
+      {
+        "item": "cobblemon:energy_root",
+        "price": "300"
+      },
+      {
+        "item": "cobblemon:fine_remedy",
+        "price": "500"
+      },
+      {
+        "item": "cobblemon:heal_powder",
+        "price": "200"
+      },
+      {
+        "item": "cobblemon:medicinal_brew",
+        "price": "500"
+      },
+      {
+        "item": "cobblemon:remedy",
+        "price": "500"
+      },
+      {
+        "item": "cobblemon:superb_remedy",
+        "price": "500"
+      }
+    ]
+  },
+  {
+    "name": "PP Recovery",
+    "offers": [
+      {
+        "item": "cobblemon:elixir",
+        "price": "3000"
+      },
+      {
+        "item": "cobblemon:ether",
+        "price": "1000"
+      },
+      {
+        "item": "cobblemon:max_elixir",
+        "price": "4000"
+      },
+      {
+        "item": "cobblemon:max_ether",
+        "price": "2000"
+      }
+    ]
+  }
+]

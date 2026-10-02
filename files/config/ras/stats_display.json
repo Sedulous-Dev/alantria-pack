@@ -1,0 +1,12 @@
+{
+  "header_color": "#FFD700",
+  "bonus_positive_color": "#55FF55",
+  "bonus_neutral_color": "#AAAAAA",
+  "gui_shadow_color": "#80F3E1B5",
+  "totals": [
+    "[label]Total Health Bonus[labelEnd][ids]1[idsEnd][mode]bonus[modeEnd]",
+    "[label]Total Damage Bonus[labelEnd][ids]2[idsEnd][mode]bonus[modeEnd]",
+    "[label]Total Mana Bonus[labelEnd][ids]3[idsEnd][mode]bonus[modeEnd]",
+    "[label]Total Defense Bonus[labelEnd][ids]4[idsEnd][mode]bonus[modeEnd]"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "balm:wthit": true,
+  "waila:core": true,
+  "waila:vanilla": true,
+  "waila:harvest": true,
+  "waila:extra": true,
+  "waila:neo": true,
+  "generations_core:general": true,
+  "waystones:plugin": true,
+  "biomeswevegone:plugin": true
+}

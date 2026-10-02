@@ -1,0 +1,174 @@
+{
+  "weapons": {
+    "iron_gauntlet": {
+      "attack_damage": 5.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "golden_gauntlet": {
+      "attack_damage": 4.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "diamond_gauntlet": {
+      "attack_damage": 6.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    },
+    "netherite_gauntlet": {
+      "attack_damage": 7.0,
+      "attack_speed": -2.4,
+      "attributes": []
+    }
+  },
+  "armor_sets": {
+    "ruffian": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.125,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.125,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.125,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.125,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    },
+    "netherite_ruffian": {
+      "armor_toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "head": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.175,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "chest": {
+        "armor": 6,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.175,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "legs": {
+        "armor": 5,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.175,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      },
+      "feet": {
+        "armor": 2,
+        "attributes": [
+          {
+            "attribute": "minecraft:generic.safe_fall_distance",
+            "value": 1.25,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "minecraft:generic.armor_toughness",
+            "value": 1.0,
+            "operation": "ADD_VALUE"
+          },
+          {
+            "attribute": "tavern_brawl:grit_recharge_speed",
+            "value": 0.175,
+            "operation": "ADD_MULTIPLIED_BASE"
+          }
+        ]
+      }
+    }
+  }
+}

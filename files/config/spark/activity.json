@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "TheSedulous",
+      "uniqueId": "7c766108-1aa5-4b0b-b723-66f65ce5b513"
+    },
+    "time": 1790557660941,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/914ukSeDmc"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TheSedulous",
+      "uniqueId": "7c766108-1aa5-4b0b-b723-66f65ce5b513"
+    },
+    "time": 1790556810277,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9Rf10PtYv8"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TheSedulous",
+      "uniqueId": "7c766108-1aa5-4b0b-b723-66f65ce5b513"
+    },
+    "time": 1790555740253,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/RiWpndvwhF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "TheSedulous",
+      "uniqueId": "7c766108-1aa5-4b0b-b723-66f65ce5b513"
+    },
+    "time": 1790529585065,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/v6zzFazb8s"
+    }
+  }
+]

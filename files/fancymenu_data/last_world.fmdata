@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/dylan/AppData/Roaming/ModrinthApp/profiles/test for epic fight/saves/Tutorial World v4 (1.7.2)
+}
+

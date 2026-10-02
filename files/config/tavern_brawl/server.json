@@ -1,0 +1,8 @@
+{
+  "grit_recharge_seconds": 8.0,
+  "grit_progress_sync_interval_ticks": 4,
+  "up_smash_velocity": 1.0,
+  "down_smash_velocity": 1.5,
+  "down_smash_bounce_coefficient": 0.6,
+  "channel_velocity_retention_per_tick": 0.8
+}

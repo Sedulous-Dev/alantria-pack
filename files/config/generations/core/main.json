@@ -1,0 +1,91 @@
+{
+  "addItemsToVanillaTabs": {
+    "coloredBlocks": true,
+    "combat": true,
+    "toolsAndUtilities": true,
+    "functionalBlocks": true,
+    "naturalBlocks": true,
+    "buildingBlocks": true
+  },
+  "lootTime": "1h",
+  "caught": {
+    "trackedAspects": [
+      "alola",
+      "galarian"
+    ],
+    "limits": {
+      "cobblemon:suicune": 2,
+      "cobblemon:zygarde": 2,
+      "cobblemon:celebi": 2,
+      "cobblemon:thundurus": 1,
+      "cobblemon:azelf": 2,
+      "cobblemon:tornadus": 1,
+      "cobblemon:giratina": 2,
+      "cobblemon:mesprit": 2,
+      "cobblemon:regigigas": 2,
+      "cobblemon:raikou": 2,
+      "cobblemon:darkrai": 1,
+      "cobblemon:manaphy": 1,
+      "cobblemon:tapulele": 1,
+      "cobblemon:tapubulu": 1,
+      "cobblemon:registeel": 2,
+      "cobblemon:mewtwo": 2,
+      "cobblemon:zapdos": 2,
+      "cobblemon:enamorus": 1,
+      "cobblemon:rayquaza": 2,
+      "cobblemon:entei": 2,
+      "cobblemon:moltres": 2,
+      "cobblemon:tapukoko": 1,
+      "cobblemon:regice": 2,
+      "cobblemon:landorus": 1,
+      "cobblemon:hooh": 2,
+      "cobblemon:uxie": 2,
+      "cobblemon:regidrago": 2,
+      "cobblemon:kyogre": 2,
+      "cobblemon:cresselia": 1,
+      "cobblemon:regieleki": 2,
+      "cobblemon:latias": 1,
+      "cobblemon:groudon": 2,
+      "cobblemon:heatran": 2,
+      "cobblemon:articuno": 2,
+      "cobblemon:tapufini": 1,
+      "cobblemon:glastrier": 1,
+      "cobblemon:lugia": 2,
+      "cobblemon:deoxys": 8,
+      "cobblemon:regirock": 2,
+      "cobblemon:palkia": 2,
+      "cobblemon:dialga": 2,
+      "cobblemon:spectrier": 1
+    }
+  },
+  "enigmaFragment": {
+    "enabled": true,
+    "limit": 32
+  },
+  "blocks": {
+    "elevatorRange": 15,
+    "scarecrowRadius": {
+      "x": 32,
+      "y": 32,
+      "z": 32
+    }
+  },
+  "special": {
+    "darkCrystalShadowPokemon": true
+  },
+  "legendary": {
+    "enableZygardeCubeOverflow": false
+  },
+  "client": {
+    "usePixelmonShading": false,
+    "useRenderDoc": false,
+    "useVanilla": false,
+    "logModelLoading": false
+  },
+  "economy": {
+    "startingFunds": 0
+  },
+  "breeding": {
+    "blocksPerEggCcyle": 256
+  }
+}
