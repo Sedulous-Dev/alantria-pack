@@ -281,6 +281,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.worldbosses]
 				sylvaron = true
+				aureon = true
 
 			[light_sources.settings.entities.dragonsurvival]
 				generic_arrow_entity = true

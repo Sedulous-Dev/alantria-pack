@@ -418,3 +418,16 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+key_key.yes_steve_model.debug_animation.desc:key.keyboard.b:ALT
+key_key.yes_steve_model.extra_animation.6.desc:key.keyboard.unknown
+key_key.yes_steve_model.open_extra_player_render.desc:key.keyboard.p:ALT
+key_key.yes_steve_model.player_model.desc:key.keyboard.y:ALT
+key_key.yes_steve_model.extra_animation.0.desc:key.keyboard.unknown
+key_key.yes_steve_model.extra_animation.5.desc:key.keyboard.unknown
+key_key.yes_steve_model.extra_animation.2.desc:key.keyboard.unknown
+key_key.yes_steve_model.extra_animation.3.desc:key.keyboard.unknown
+key_key.yes_steve_model.animation_roulette.desc:key.keyboard.z
+key_key.yes_steve_model.extra_animation.4.desc:key.keyboard.unknown
+key_key.yes_steve_model.extra_animation.1.desc:key.keyboard.unknown
+key_key.yes_steve_model.extra_animation.7.desc:key.keyboard.unknown
+key_key.yes_steve_model.lock_roulette.desc:key.keyboard.l:ALT
