@@ -23589,9 +23589,24 @@
   }
  ],
  "launcher": {
-  "version": "1.0.0",
-  "sha1": "d826dc036bc0b61097879a32ee599860dd3c1d23",
-  "size": 24237079,
+  "version": "1.1.0",
+  "sha1": "d1bd8bd8f845e1a85b6647f6661a5605344ce126",
+  "size": 24242003,
   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/launcher/AlantriaLauncher.exe"
+ },
+ "test": {
+  "name": "Dao Ascendant test build",
+  "version": "0.1.0-test1",
+  "notes": "Dao Ascendant test build 0.1.0-test1\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server, and your normal Alantria instance is untouched.\n  • Create a new Survival world with Allow Cheats ON.\n  • Open the Tester guide (left) for how the mod plays, the terms, shortcut commands and the list of things to test in order.\n  • Placeholder art: judge the mechanics, not the looks.\n  • Report bugs with what you did, what happened and what you expected. Crashes: send the newest file in crash-reports and logs/latest.log (Open game folder).",
+  "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
+  "files": [
+   {
+    "path": "mods/daoascendant-1.21.1-0.1.0.jar",
+    "sha1": "47f29b0c385c10931806225b996308bcaea689b1",
+    "size": 2757997,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/47f29b0c385c10931806225b996308bcaea689b1.jar",
+    "mode": "strict"
+   }
+  ]
  }
 }
