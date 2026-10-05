@@ -1,0 +1,11 @@
+{
+  "name": "Dragon",
+  "description": "Dragon blood can only be awakened at a Dragon Survival altar.",
+  "icon": {
+    "id": "minecraft:dragon_egg"
+  },
+  "order": 17,
+  "impact": 2,
+  "unchoosable": true,
+  "loading_priority": 100
+}

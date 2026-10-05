@@ -1,0 +1,277 @@
+[
+  {
+    "entity": "minecraft:zombie",
+    "chance": 0.08,
+    "weapon": {
+      "id": [
+        "simplyswords:iron_katana",
+        "simplyswords:iron_spear",
+        "simplyswords:iron_glaive",
+        "simplyswords:iron_sai",
+        "simplyswords:iron_cutlass",
+        "simplyswords:iron_longsword",
+        "magistuarmory:iron_shortsword",
+        "magistuarmory:iron_katzbalger"
+      ],
+      "enchants": "none"
+    },
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:rustedchainmail_helmet",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:rustedchainmail_chestplate",
+        "drop": "null"
+      },
+      "boots": {
+        "item": "magistuarmory:rustedchainmail_boots",
+        "drop": "null"
+      }
+    },
+    "experience": {
+      "add": 2
+    },
+    "item_drop": "null"
+  },
+  {
+    "entity": "minecraft:zombie",
+    "chance": 0.06,
+    "weapon": {
+      "id": [
+        "magistuarmory:steel_bastardsword",
+        "magistuarmory:steel_estoc",
+        "magistuarmory:steel_ranseur",
+        "magistuarmory:steel_heavymace",
+        "simplyswords:iron_twinblade",
+        "simplyswords:iron_halberd",
+        "simplyswords:iron_warglaive"
+      ],
+      "enchants": "none"
+    },
+    "attributes": [
+      {
+        "id": "minecraft:generic.max_health",
+        "operation": "add_multiplied_total",
+        "value": 0.5
+      }
+    ],
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:kettlehat",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:chainmail_chestplate",
+        "drop": "null"
+      },
+      "pants": {
+        "item": "magistuarmory:chainmail_leggings",
+        "drop": "null"
+      },
+      "boots": {
+        "item": "magistuarmory:chainmail_boots",
+        "drop": "null"
+      }
+    },
+    "experience": {
+      "multiplier": 1.5
+    },
+    "item_drop": "null",
+    "conditions": [
+      {
+        "type": "simplyentityequipment:distance_from_spawn",
+        "min": 1500
+      }
+    ]
+  },
+  {
+    "entity": "minecraft:zombie",
+    "chance": 0.01,
+    "weapon": {
+      "id": [
+        "magistuarmory:steel_zweihander",
+        "magistuarmory:steel_claymore",
+        "magistuarmory:steel_lochaberaxe",
+        "simplyswords:iron_greataxe",
+        "simplyswords:iron_greathammer",
+        "simplyswords:iron_scythe"
+      ],
+      "enchants": "random"
+    },
+    "attributes": [
+      {
+        "id": "minecraft:generic.max_health",
+        "operation": "add_multiplied_total",
+        "value": 1.5
+      }
+    ],
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:armet",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:knight_chestplate",
+        "drop": "null"
+      },
+      "pants": {
+        "item": "magistuarmory:knight_leggings",
+        "drop": "null"
+      },
+      "boots": {
+        "item": "magistuarmory:knight_boots",
+        "drop": "null"
+      }
+    },
+    "experience": {
+      "multiplier": 3
+    },
+    "item_drop": "Weapon",
+    "conditions": [
+      {
+        "type": "simplyentityequipment:distance_from_spawn",
+        "min": 3000
+      }
+    ]
+  },
+  {
+    "entity": "minecraft:husk",
+    "chance": 0.1,
+    "weapon": {
+      "id": [
+        "simplyswords:iron_spear",
+        "simplyswords:iron_glaive",
+        "magistuarmory:iron_guisarme"
+      ],
+      "enchants": "none"
+    },
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:shishak",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:lamellar_chestplate",
+        "drop": "null"
+      },
+      "boots": {
+        "item": "magistuarmory:lamellar_boots",
+        "drop": "null"
+      }
+    },
+    "experience": {
+      "add": 2
+    },
+    "item_drop": "null"
+  },
+  {
+    "entity": "minecraft:skeleton",
+    "chance": 0.06,
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:coif",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:gambeson_chestplate",
+        "drop": "null"
+      },
+      "boots": {
+        "item": "magistuarmory:gambeson_boots",
+        "drop": "null"
+      }
+    },
+    "experience": {
+      "add": 1
+    }
+  },
+  {
+    "entity": "minecraft:stray",
+    "chance": 0.08,
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:kettlehat",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:gambeson_chestplate",
+        "drop": "null"
+      },
+      "pants": {
+        "item": "magistuarmory:pantyhose",
+        "drop": "null"
+      },
+      "boots": {
+        "item": "magistuarmory:gambeson_boots",
+        "drop": "null"
+      }
+    }
+  },
+  {
+    "entity": "minecraft:vindicator",
+    "chance": 0.2,
+    "weapon": {
+      "id": [
+        "simplyswords:iron_halberd",
+        "magistuarmory:iron_concavehalberd",
+        "magistuarmory:iron_lochaberaxe"
+      ],
+      "enchants": "none"
+    },
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:barbute",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:brigandine_chestplate",
+        "drop": "null"
+      }
+    },
+    "experience": {
+      "multiplier": 1.5
+    },
+    "item_drop": "null"
+  },
+  {
+    "entity": "minecraft:pillager",
+    "chance": 0.15,
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:kettlehat",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:gambeson_chestplate",
+        "drop": "null"
+      }
+    }
+  },
+  {
+    "entity": "minecraft:zombie_villager",
+    "chance": 0.06,
+    "weapon": {
+      "id": [
+        "magistuarmory:iron_shortsword",
+        "simplyswords:iron_cutlass"
+      ],
+      "enchants": "none"
+    },
+    "equipment": {
+      "helmet": {
+        "item": "magistuarmory:norman_helmet",
+        "drop": "null"
+      },
+      "chest": {
+        "item": "magistuarmory:rustedhalfarmor_chestplate",
+        "drop": "null"
+      },
+      "offhand": {
+        "item": "magistuarmory:iron_roundshield",
+        "drop": "null"
+      }
+    },
+    "item_drop": "null"
+  }
+]
