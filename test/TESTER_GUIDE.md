@@ -7,20 +7,22 @@ grand versions come later. Please judge **whether things work and feel right**, 
 
 ---
 
-## 1. Installing (solo world only)
+## 1. Installing (the launcher's Test instance tab)
 
-1. Download `daoascendant-1.21.1-0.1.0.jar` from the GitHub release (you need to be added to the repo to see it).
-2. In the **Alantria Launcher**, open **Settings** and **untick "Join the server automatically"**. Close Settings.
-3. Put the jar in the launcher's mods folder: press `Win + R`, paste `%APPDATA%\AlantriaLauncher\instance\mods`,
-   press Enter, and drop the jar in. The launcher leaves files it didn't install alone, so it stays there.
-4. Launch, then **Singleplayer → Create New World**: Game Mode **Survival**, **Allow Cheats: ON** (you need commands).
-   Make a fresh world for this build; don't reuse an old one.
-5. **Before you play on the Alantria server again, delete the jar from that folder.** The server doesn't have the
-   mod yet, so you can't join with it installed.
+1. Open the **Alantria Launcher**. It offers an update to version 1.1.0: accept it.
+2. On the left, click **🧪 Test instance**. The news panel shows this build's notes, and **📖 Tester guide** opens
+   this guide.
+3. Press **PLAY**. The first time, the launcher sets up a separate test instance: the whole Alantria pack plus
+   Dao Ascendant. It copies what it can from your normal instance, so it's mostly quick. This instance never joins
+   the server, and your normal Alantria instance stays untouched.
+4. In game: **Singleplayer → Create New World**, Game Mode **Survival**, **Allow Cheats: ON** (you need commands).
+5. To play on the Alantria server, click **🏰 Alantria** and press Play as usual.
+
+New test builds arrive by themselves the next time you press Play on the Test instance tab.
 
 **Reporting:** for anything wrong, say what you did, what happened, and what you expected. Add a screenshot (F2)
-when it's visual. For crashes, send `%APPDATA%\AlantriaLauncher\instance\crash-reports\` (newest file) and
-`instance\logs\latest.log`.
+when it's visual. For crashes, click **📁 Open game folder** on the Test instance tab and send the newest file in `crash-reports` and
+`logs\latest.log`.
 
 ---
 
