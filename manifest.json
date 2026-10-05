@@ -23697,7 +23697,7 @@
  "test": {
   "name": "Dao Ascendant test build",
   "version": "0.1.0-test1",
-  "notes": "Dao Ascendant test build 0.1.0-test1 (update 2)\n  • New in this update: much faster city generation, and new mods to try: Ender's Cataclysm, Epic Knights, Simply Swords, Simply More, Simply Bows, Simply Tooltips (+ EF Weapons Compat, LionfishAPI).\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Less than that makes the game freeze and can crash it without a crash report.\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server, and your normal Alantria instance is untouched.\n  • Create a new Survival world with Allow Cheats ON.\n  • Open the Tester guide (left) for how the mod plays, the terms, shortcut commands and the list of things to test in order.\n  • Placeholder art: judge the mechanics, not the looks.\n  • Report bugs with what you did, what happened and what you expected. Crashes: send the newest file in crash-reports and logs/latest.log (Open game folder).",
+  "notes": "Dao Ascendant test build 0.1.0-test1 (update 2)\n  • New in this update: much faster city generation.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Less than that makes the game freeze and can crash it without a crash report.\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server, and your normal Alantria instance is untouched.\n  • Create a new Survival world with Allow Cheats ON.\n  • Open the Tester guide (left) for how the mod plays, the terms, shortcut commands and the list of things to test in order.\n  • Placeholder art: judge the mechanics, not the looks.\n  • Report bugs with what you did, what happened and what you expected. Crashes: send the newest file in crash-reports and logs/latest.log (Open game folder).",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
@@ -23705,62 +23705,6 @@
     "sha1": "0e9d9468b2a7c1046dd62feb63901e9ad2e52c01",
     "size": 2760357,
     "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/0e9d9468b2a7c1046dd62feb63901e9ad2e52c01.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/efweaponscompat-1.0.0.jar",
-    "sha1": "827cc5a77d7065b39f8a3b66c3ca1c195b0653de",
-    "size": 169184,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/827cc5a77d7065b39f8a3b66c3ca1c195b0653de.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/epic-knights-1.21.1-neoforge-10.16.jar",
-    "sha1": "2af3d0ca3a6eec8db1f0704e8da61bd31ea5a982",
-    "size": 2818931,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2af3d0ca3a6eec8db1f0704e8da61bd31ea5a982.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/lionfishapi-3.1.jar",
-    "sha1": "353ca00ed118eb67cf11085abbbd699884722326",
-    "size": 91596,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/353ca00ed118eb67cf11085abbbd699884722326.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
-    "sha1": "f0310277167c82fd16a5c2bab220b5c5c262f133",
-    "size": 73375667,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/f0310277167c82fd16a5c2bab220b5c5c262f133.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/SimplyBows-neoforge-0.1.4-1.21.1.jar",
-    "sha1": "297383feba3332d0255028af86d12f0f96239a1a",
-    "size": 4058689,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/297383feba3332d0255028af86d12f0f96239a1a.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/simplymore-neoforge-1.3.0_alpha5+1.21.1.jar",
-    "sha1": "51636477cd5c378f42d9700e1fe35cd952c8f4f1",
-    "size": 1806461,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/51636477cd5c378f42d9700e1fe35cd952c8f4f1.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/simplyswords-neoforge-1.70.2-1.21.1.jar",
-    "sha1": "05b074ff774467f1fe9fb5592151b7845c321cbc",
-    "size": 16282660,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/05b074ff774467f1fe9fb5592151b7845c321cbc.jar",
-    "mode": "strict"
-   },
-   {
-    "path": "mods/SimplyTooltips-neoforge-0.1.5.jar",
-    "sha1": "6227453d5b628b1009d6ec516a0da5b588849744",
-    "size": 5512986,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/6227453d5b628b1009d6ec516a0da5b588849744.jar",
     "mode": "strict"
    }
   ]
