@@ -120,7 +120,7 @@ three deepened ones), each with its own spells.
 | Writ of Forgiveness | Lets you rejoin a sect you abandoned (from the governor, or crafted). |
 | Spirit stones | Money and cultivation material (mined as spirit stone ore). |
 
-**Keys:** `.` cultivation menu · hold `;` ability wheel · `'` cast the selected ability · hold **mouse button 5** for
+**Keys:** `K` cultivation menu · tap `R` to use your selected ability, hold `R` to pick another (wheel) · hold **mouse button 5** for
 a charged attack (all rebindable in Controls). Epic Fight's own keys work as usual.
 
 ---
@@ -168,7 +168,7 @@ Tick each one, and note anything that breaks, confuses you, or feels off.
 **A. Start**
 1. [ ] The game loads with the full pack; the title screen and world creation work.
 2. [ ] Welcome flow: choose race, class and element; the confirm screen; you can't train before finishing.
-3. [ ] The energy bar shows on the HUD. Press `.`: the cultivation menu tabs (Overview, Lotus, Roots, Cores,
+3. [ ] The energy bar shows on the HUD. Press `K`: the cultivation menu tabs (Overview, Lotus, Roots, Cores,
        Abilities, Condition, Sect, Spells, Stats) open and read sensibly.
 
 **B. Mortal Plane**
@@ -176,7 +176,7 @@ Tick each one, and note anything that breaks, confuses you, or feels off.
 5. [ ] Agility pillar: place 3+ Parkour Checkpoints, run them in order in survival: "Course complete".
 6. [ ] Soaking pillar: water next to a Spirit Spring Stone; stand in it: the pillar fills.
 7. [ ] One of each = a lotus blooms. The 4-a-day cap stops a pillar.
-8. [ ] At lotus 3, 6 and 9, skills unlock. Hold `;` to pick one and `'` to cast it (Swift Step, class skill, Siphoning).
+8. [ ] At lotus 3, 6 and 9, skills unlock. Hold `R` to pick one and tap `R` to cast it (Swift Step, class skill, Siphoning).
 9. [ ] Purification: `/dao set @s lotus 9`, hold your element's essence, use the Purification Basin, meditate, and
        survive the element trial in the circle: you get a root. Walk out of the circle once on purpose: it fails.
 
@@ -200,8 +200,9 @@ Tick each one, and note anything that breaks, confuses you, or feels off.
 **F. Earth Realm and cores**
 18. [ ] Meditate (the Meditate ability, or a Spirit Gathering Array). Sneak to stand up. Getting hit while
         meditating causes a deviation.
-19. [ ] Fill the core meter (`/dao set @s core_progress 100000`), then use the Spirit Gathering Array under open sky
-        with spirit stones: survive the tribulation and the core forms.
+19. [ ] Fill the core meter (`/dao set @s core_progress 100000`), then **sneak and use** the Spirit Gathering Array
+        **with an empty hand**, under open sky, with spirit stones in your inventory (a plain use just meditates;
+        holding an item while sneaking uses the item instead; the Heavenly Tribulation ability works too): survive the tribulation and the core forms.
 20. [ ] Core 3: the Heart Demon fight. Core 5: the legendary beast arena.
 21. [ ] Root path choice (Roots tab) when it comes up: deepen or add an element.
 

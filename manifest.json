@@ -25711,15 +25711,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test1",
-  "notes": "Dao Ascendant test build 0.1.0-test1 (update 2)\n  • New in this update: much faster city generation.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Less than that makes the game freeze and can crash it without a crash report.\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server, and your normal Alantria instance is untouched.\n  • Create a new Survival world with Allow Cheats ON.\n  • Open the Tester guide (the book button, top right) for how the mod plays, the terms, shortcut commands and the list of things to test in order.\n  • Placeholder art: judge the mechanics, not the looks.\n  • Report bugs with what you did, what happened and what you expected. Crashes: send the newest file in crash-reports and logs/latest.log (Open game folder).",
+  "version": "0.1.0-test2",
+  "notes": "Dao Ascendant test build 0.1.0-test2\n  • New controls: tap R to use your Dao ability, hold R for the ability wheel. K opens the cultivation menu. In the launcher, open Controls and press Apply Alantria layout for the whole new key layout (your old keys are backed up).\n  • Merchants and healers now turn you away when your aura is Demonic. A Concealment Talisman hides it.\n  • /dao set @s lotus 9 now unlocks the lotus skills right away.\n  • Sneak + use on the Spirit Gathering Array (tribulation), the Ascension Altar and parkour checkpoints now works with items in your hands.\n  • Townsfolk appear within 2 seconds when you reach a great city.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB).\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server.\n  • Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) explains how the mod plays and what to test.\n  • Placeholder art: judge the mechanics, not the looks.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "223bcbbf19118902113c377ecb0e91fe7cfad2b7",
-    "size": 2844978,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/223bcbbf19118902113c377ecb0e91fe7cfad2b7.jar",
+    "sha1": "625a813f9d861b9061a17b79db1395e2b9ba0bcf",
+    "size": 2896505,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/625a813f9d861b9061a17b79db1395e2b9ba0bcf.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
