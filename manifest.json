@@ -17,7 +17,9 @@
    "size": 5067291,
    "url": "https://cdn.modrinth.com/data/En8uHTOK/versions/ePi58Pcx/aaa_particles-neoforge-1.21.1-2.2.3.jar",
    "mode": "strict",
-   "project": "En8uHTOK"
+   "project": "En8uHTOK",
+   "name": "AAA Particles",
+   "version": "2.2.3"
   },
   {
    "path": "mods/accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -25,7 +27,9 @@
    "size": 1078697,
    "url": "https://cdn.modrinth.com/data/jtmvUHXj/versions/Fb55Fgjz/accessories-neoforge-1.1.0-beta.53%2B1.21.1.jar",
    "mode": "strict",
-   "project": "jtmvUHXj"
+   "project": "jtmvUHXj",
+   "name": "Accessories",
+   "version": "1.1.0-beta.53+1.21.1"
   },
   {
    "path": "mods/AdvancedLootInfo-neoforge-1.21.1-1.7.1.jar",
@@ -33,7 +37,9 @@
    "size": 749275,
    "url": "https://cdn.modrinth.com/data/PEPVViac/versions/FL8Q077t/AdvancedLootInfo-neoforge-1.21.1-1.7.1.jar",
    "mode": "strict",
-   "project": "PEPVViac"
+   "project": "PEPVViac",
+   "name": "AdvancedLootInfo",
+   "version": "1.7.1"
   },
   {
    "path": "mods/Almanac-1.21.1-2-neoforge-1.5.2.jar",
@@ -41,7 +47,9 @@
    "size": 25593,
    "url": "https://cdn.modrinth.com/data/Gi02250Z/versions/cHGan9fQ/Almanac-1.21.1-2-neoforge-1.5.2.jar",
    "mode": "strict",
-   "project": "Gi02250Z"
+   "project": "Gi02250Z",
+   "name": "Almanac",
+   "version": "1.5.2"
   },
   {
    "path": "mods/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
@@ -49,7 +57,9 @@
    "size": 50812,
    "url": "https://cdn.modrinth.com/data/DyTvM1dv/versions/N7jam3SN/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
    "mode": "strict",
-   "project": "DyTvM1dv"
+   "project": "DyTvM1dv",
+   "name": "AmbientEnvironment",
+   "version": "18.0.0.2"
   },
   {
    "path": "mods/amecs-bundle-1.6.3+mc1.21.1.jar",
@@ -57,7 +67,9 @@
    "size": 145070,
    "url": "https://cdn.modrinth.com/data/rcLriA4v/versions/A4ni2nvH/amecs-bundle-1.6.3%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "rcLriA4v"
+   "project": "rcLriA4v",
+   "name": "Amecs",
+   "version": "1.6.3+mc1.21.1"
   },
   {
    "path": "mods/another_furniture-neoforge-4.0.2.jar",
@@ -65,7 +77,9 @@
    "size": 2417424,
    "url": "https://cdn.modrinth.com/data/ulloLmqG/versions/Q29JlZfU/another_furniture-neoforge-4.0.2.jar",
    "mode": "strict",
-   "project": "ulloLmqG"
+   "project": "ulloLmqG",
+   "name": "Another Furniture",
+   "version": "4.0.2"
   },
   {
    "path": "mods/apoli-1.83.0.jar",
@@ -73,7 +87,9 @@
    "size": 30692850,
    "url": "https://cdn.modrinth.com/data/i2NQbLvK/versions/7rKGBQOM/apoli-1.83.0.jar",
    "mode": "strict",
-   "project": "i2NQbLvK"
+   "project": "i2NQbLvK",
+   "name": "Apoli",
+   "version": "1.83.0"
   },
   {
    "path": "mods/appleskin-neoforge-mc1.21-3.0.8.jar",
@@ -81,7 +97,9 @@
    "size": 75595,
    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/8X2x5cPC/appleskin-neoforge-mc1.21-3.0.8.jar",
    "mode": "strict",
-   "project": "EsAfCjCV"
+   "project": "EsAfCjCV",
+   "name": "AppleSkin",
+   "version": "3.0.8+mc1.21"
   },
   {
    "path": "mods/architectury-13.0.11-neoforge.jar",
@@ -89,7 +107,9 @@
    "size": 584734,
    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1IiqEQGl/architectury-13.0.11-neoforge.jar",
    "mode": "strict",
-   "project": "lhGA9TYQ"
+   "project": "lhGA9TYQ",
+   "name": "Architectury",
+   "version": "13.0.11"
   },
   {
    "path": "mods/armoroftheages-neoforge-1.21.1-1.5.10.jar",
@@ -97,7 +117,9 @@
    "size": 554516,
    "url": "https://cdn.modrinth.com/data/vEgtiJIY/versions/p8G3gWwF/armoroftheages-neoforge-1.21.1-1.5.10.jar",
    "mode": "strict",
-   "project": "vEgtiJIY"
+   "project": "vEgtiJIY",
+   "name": "Armor of the Ages",
+   "version": "1.5.10"
   },
   {
    "path": "mods/armor_model_api-neoforge-1.1.0+1.21.1.jar",
@@ -105,7 +127,9 @@
    "size": 91856,
    "url": "https://cdn.modrinth.com/data/onz2NN2n/versions/QRkmKYGJ/armor_model_api-neoforge-1.1.0%2B1.21.1.jar",
    "mode": "strict",
-   "project": "onz2NN2n"
+   "project": "onz2NN2n",
+   "name": "Armor Model API",
+   "version": "1.1.0+1.21.1"
   },
   {
    "path": "mods/athena-neoforge-1.21.1-4.0.6.jar",
@@ -113,7 +137,9 @@
    "size": 99944,
    "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/dJgL278E/athena-neoforge-1.21.1-4.0.6.jar",
    "mode": "strict",
-   "project": "b1ZV3DIJ"
+   "project": "b1ZV3DIJ",
+   "name": "Athena",
+   "version": "4.0.6"
   },
   {
    "path": "mods/ATi Structures V1.4.6.jar",
@@ -121,7 +147,9 @@
    "size": 13115969,
    "url": "https://cdn.modrinth.com/data/bii8qPSt/versions/lFd2h8Yh/ATi%20Structures%20V1.4.6.jar",
    "mode": "strict",
-   "project": "bii8qPSt"
+   "project": "bii8qPSt",
+   "name": "ATi Structures",
+   "version": "1.4.5"
   },
   {
    "path": "mods/ATi Structures Vanilla V1.4.5.jar",
@@ -129,7 +157,9 @@
    "size": 14745887,
    "url": "https://cdn.modrinth.com/data/YWVAO3wq/versions/hHw6n2T7/ATi%20Structures%20Vanilla%20V1.4.5.jar",
    "mode": "strict",
-   "project": "YWVAO3wq"
+   "project": "YWVAO3wq",
+   "name": "ATi Structures - Vanilla Edition",
+   "version": "1.4.5"
   },
   {
    "path": "mods/azurelibarmor-neo-1.21.1-3.1.3.jar",
@@ -137,7 +167,9 @@
    "size": 574146,
    "url": "https://cdn.modrinth.com/data/pduQXSbl/versions/XMxzq2Fd/azurelibarmor-neo-1.21.1-3.1.3.jar",
    "mode": "strict",
-   "project": "pduQXSbl"
+   "project": "pduQXSbl",
+   "name": "AzureLib Armor",
+   "version": "3.1.3"
   },
   {
    "path": "mods/badgebox-neoforge-1.3.0.jar",
@@ -145,7 +177,9 @@
    "size": 75733,
    "url": "https://cdn.modrinth.com/data/8J7TR166/versions/JwIlD6Y6/badgebox-neoforge-1.3.0.jar",
    "mode": "strict",
-   "project": "8J7TR166"
+   "project": "8J7TR166",
+   "name": "Badge Box",
+   "version": "1.1.1"
   },
   {
    "path": "mods/badpackets-neo-0.8.2.jar",
@@ -153,7 +187,9 @@
    "size": 54641,
    "url": "https://cdn.modrinth.com/data/ftdbN0KK/versions/RNyYl9M3/badpackets-neo-0.8.2.jar",
    "mode": "strict",
-   "project": "ftdbN0KK"
+   "project": "ftdbN0KK",
+   "name": "Bad Packets",
+   "version": "0.8.2"
   },
   {
    "path": "mods/balm-neoforge-1.21.1-21.0.65.jar",
@@ -161,14 +197,18 @@
    "size": 783793,
    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/KgypwTqX/balm-neoforge-1.21.1-21.0.65.jar",
    "mode": "strict",
-   "project": "MBAkmtvl"
+   "project": "MBAkmtvl",
+   "name": "Balm",
+   "version": "21.0.65"
   },
   {
    "path": "mods/battle-arts-21.17.1.2-mc1.21.1-neoforge-CONFIG-UNLOAD-FIX-v1.jar",
    "sha1": "5511c1880dd51e817250b1b5ddee4c40b4064aec",
    "size": 11791449,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/5511c1880dd51e817250b1b5ddee4c40b4064aec.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight - Battle Arts",
+   "version": "21.17.1.2"
   },
   {
    "path": "mods/battle_arts_api-21.17.7-mc1.21.1-neoforge.jar",
@@ -176,7 +216,9 @@
    "size": 228483,
    "url": "https://cdn.modrinth.com/data/7baP43pD/versions/9DEQNPN2/battle_arts_api-21.17.7-mc1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "7baP43pD"
+   "project": "7baP43pD",
+   "name": "Battle Arts API",
+   "version": "21.17.7"
   },
   {
    "path": "mods/bellsandwhistles-0.4.7-1.21.1.jar",
@@ -184,7 +226,9 @@
    "size": 193619,
    "url": "https://cdn.modrinth.com/data/gJ5afkVv/versions/w0mifib8/bellsandwhistles-0.4.7-1.21.1.jar",
    "mode": "strict",
-   "project": "gJ5afkVv"
+   "project": "gJ5afkVv",
+   "name": "Create: Bells & Whistles",
+   "version": "0.4.7-1.21.1"
   },
   {
    "path": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
@@ -192,14 +236,18 @@
    "size": 98641,
    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
    "mode": "strict",
-   "project": "Q2OqKxDG"
+   "project": "Q2OqKxDG",
+   "name": "Better Advancements",
+   "version": "0.4.3.21"
   },
   {
    "path": "mods/betterlockon-2.0.8-neoforge.jar",
    "sha1": "94926350c5500857097c993e64259a35c93c8eae",
    "size": 253409,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/94926350c5500857097c993e64259a35c93c8eae.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Better Lock On",
+   "version": "2.0.8-neoforge"
   },
   {
    "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
@@ -207,7 +255,9 @@
    "size": 60941,
    "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar",
    "mode": "strict",
-   "project": "G1s2WpNo"
+   "project": "G1s2WpNo",
+   "name": "Better Third Person",
+   "version": "1.9.0"
   },
   {
    "path": "mods/better_tooltips-1.0.3.jar",
@@ -215,7 +265,9 @@
    "size": 64441,
    "url": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/cnt6F6VI/better_tooltips-1.0.3.jar",
    "mode": "strict",
-   "project": "Z7rKZJ8k"
+   "project": "Z7rKZJ8k",
+   "name": "Better Tooltips",
+   "version": "1.0.3"
   },
   {
    "path": "mods/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
@@ -223,7 +275,9 @@
    "size": 23943105,
    "url": "https://cdn.modrinth.com/data/q2bV1Tm1/versions/lE9PF6Wp/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
    "mode": "strict",
-   "project": "q2bV1Tm1"
+   "project": "q2bV1Tm1",
+   "name": "Bosses'Rise",
+   "version": "2.1.2"
   },
   {
    "path": "mods/bookshelf-neoforge-1.21.1-21.1.80.jar",
@@ -231,7 +285,9 @@
    "size": 328814,
    "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/vQ3DXKc6/bookshelf-neoforge-1.21.1-21.1.80.jar",
    "mode": "strict",
-   "project": "uy4Cnpcm"
+   "project": "uy4Cnpcm",
+   "name": "Bookshelf",
+   "version": "21.1.80"
   },
   {
    "path": "mods/bundle-api-neoforge-1.1.0.jar",
@@ -239,7 +295,9 @@
    "size": 64124,
    "url": "https://cdn.modrinth.com/data/n8QN6Z1a/versions/w5F5wdko/bundle-api-neoforge-1.1.0.jar",
    "mode": "strict",
-   "project": "n8QN6Z1a"
+   "project": "n8QN6Z1a",
+   "name": "BundleAPI",
+   "version": "1.1.0"
   },
   {
    "path": "mods/bwncr-neoforge-1.21.1-3.20.3.jar",
@@ -247,7 +305,9 @@
    "size": 27537,
    "url": "https://cdn.modrinth.com/data/lL2MtE37/versions/Vg54emzq/bwncr-neoforge-1.21.1-3.20.3.jar",
    "mode": "strict",
-   "project": "lL2MtE37"
+   "project": "lL2MtE37",
+   "name": "Bad Wither No Cookie Reloaded",
+   "version": "3.20.3"
   },
   {
    "path": "mods/capturexp-neoforge-1.7.3-1.3.0.jar",
@@ -255,7 +315,9 @@
    "size": 22895,
    "url": "https://cdn.modrinth.com/data/LBl4Qguc/versions/nP29aFGP/capturexp-neoforge-1.7.3-1.3.0.jar",
    "mode": "strict",
-   "project": "LBl4Qguc"
+   "project": "LBl4Qguc",
+   "name": "Cobblemon Capture XP",
+   "version": "1.7.3-neoforge-1.3.0"
   },
   {
    "path": "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
@@ -263,7 +325,9 @@
    "size": 61728,
    "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/o5lwJaRU/cherishedworlds-neoforge-10.1.1%2B1.21.1.jar",
    "mode": "strict",
-   "project": "3azQ6p0W"
+   "project": "3azQ6p0W",
+   "name": "Cherished Worlds",
+   "version": "10.1.1+1.21.1"
   },
   {
    "path": "mods/chipped-neoforge-1.21.1-4.0.2.jar",
@@ -271,7 +335,9 @@
    "size": 15020578,
    "url": "https://cdn.modrinth.com/data/BAscRYKm/versions/eqVowbGc/chipped-neoforge-1.21.1-4.0.2.jar",
    "mode": "strict",
-   "project": "BAscRYKm"
+   "project": "BAscRYKm",
+   "name": "Chipped",
+   "version": "4.0.2"
   },
   {
    "path": "mods/citresewn-1.2.2+1.21.jar",
@@ -279,7 +345,9 @@
    "size": 396723,
    "url": "https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar",
    "mode": "strict",
-   "project": "otVJckYQ"
+   "project": "otVJckYQ",
+   "name": "CIT Resewn",
+   "version": "1.2.2+1.21"
   },
   {
    "path": "mods/citresewn_neopatcher-1.1.0-1.2.2.jar",
@@ -295,7 +363,9 @@
    "size": 1163890,
    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
    "mode": "strict",
-   "project": "9s6osm5g"
+   "project": "9s6osm5g",
+   "name": "Cloth Config v15 API",
+   "version": "15.0.140"
   },
   {
    "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
@@ -303,7 +373,9 @@
    "size": 18382,
    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/jo7lDoK4/Clumps-neoforge-1.21.1-19.0.0.1.jar",
    "mode": "strict",
-   "project": "Wnxd13zP"
+   "project": "Wnxd13zP",
+   "name": "Clumps",
+   "version": "19.0.0.1"
   },
   {
    "path": "mods/cobbledgacha-neoforge-1.21.1-3.0.3.jar",
@@ -311,7 +383,9 @@
    "size": 1114087,
    "url": "https://cdn.modrinth.com/data/c1OpnQs3/versions/S1kcfrxR/cobbledgacha-neoforge-1.21.1-3.0.3.jar",
    "mode": "strict",
-   "project": "c1OpnQs3"
+   "project": "c1OpnQs3",
+   "name": "Cobbled Gacha",
+   "version": "3.0.3"
   },
   {
    "path": "mods/CobbleDollars-neoforge-2.0.0+Beta-6.1+1.21.1.jar",
@@ -319,7 +393,9 @@
    "size": 504569,
    "url": "https://cdn.modrinth.com/data/s7N7AsqL/versions/Iqiqjfsi/CobbleDollars-neoforge-2.0.0%2BBeta-6.1%2B1.21.1.jar",
    "mode": "strict",
-   "project": "s7N7AsqL"
+   "project": "s7N7AsqL",
+   "name": "CobbleDollars",
+   "version": "2.0.0+Beta-6.1+1.21.1"
   },
   {
    "path": "mods/CobbleFurnies-neoforge-1.2.jar",
@@ -327,7 +403,9 @@
    "size": 2343464,
    "url": "https://cdn.modrinth.com/data/AXY1OO9m/versions/Ynk3uYUi/CobbleFurnies-neoforge-1.2.jar",
    "mode": "strict",
-   "project": "AXY1OO9m"
+   "project": "AXY1OO9m",
+   "name": "CobbleFurnies",
+   "version": "1.2"
   },
   {
    "path": "mods/cobbleloots-neoforge-2.3.0.jar",
@@ -335,14 +413,18 @@
    "size": 270038,
    "url": "https://cdn.modrinth.com/data/kcudYghD/versions/RTFvBl1a/cobbleloots-neoforge-2.3.0.jar",
    "mode": "strict",
-   "project": "kcudYghD"
+   "project": "kcudYghD",
+   "name": "Cobbleloots: Loot Balls and More!",
+   "version": "2.3.0"
   },
   {
    "path": "mods/cobblemon-additions-4.3.0-RPG-Villages-v1.jar",
    "sha1": "360d576ec3dc7bc783d7b0d9285e927b813395e3",
    "size": 3402416,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/360d576ec3dc7bc783d7b0d9285e927b813395e3.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Cobblemon Additions",
+   "version": "4.3.0"
   },
   {
    "path": "mods/cobblemon-battle-extras-neoforge-1.13.45.jar",
@@ -350,7 +432,9 @@
    "size": 1651388,
    "url": "https://cdn.modrinth.com/data/2iY8VFqL/versions/liJnZJxw/cobblemon-battle-extras-neoforge-1.13.45.jar",
    "mode": "strict",
-   "project": "2iY8VFqL"
+   "project": "2iY8VFqL",
+   "name": "Cobblemon Battle Extras",
+   "version": "1.13.45"
   },
   {
    "path": "mods/cobblemon-journey-mounts-1.7.2.jar",
@@ -358,7 +442,9 @@
    "size": 7368421,
    "url": "https://cdn.modrinth.com/data/Vn5WCYr6/versions/RKZyNI1R/cobblemon-journey-mounts-1.7.2.jar",
    "mode": "strict",
-   "project": "Vn5WCYr6"
+   "project": "Vn5WCYr6",
+   "name": "Cobblemon Journey Mounts",
+   "version": "1.7.2"
   },
   {
    "path": "mods/Cobblemon-neoforge-1.7.3+1.21.1.jar",
@@ -366,7 +452,9 @@
    "size": 128748941,
    "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/S1TrAn8c/Cobblemon-neoforge-1.7.3%2B1.21.1.jar",
    "mode": "strict",
-   "project": "MdwFAVRL"
+   "project": "MdwFAVRL",
+   "name": "Cobblemon",
+   "version": "1.7.3+1.21.1"
   },
   {
    "path": "mods/cobblemonpokemonbadges-neoforge-0.1.1.jar",
@@ -374,7 +462,9 @@
    "size": 125742,
    "url": "https://cdn.modrinth.com/data/pPldOOeY/versions/xCPOrDQJ/cobblemonpokemonbadges-neoforge-0.1.1.jar",
    "mode": "strict",
-   "project": "pPldOOeY"
+   "project": "pPldOOeY",
+   "name": "Cobblemon Pokemon Badges",
+   "version": "0.1.1"
   },
   {
    "path": "mods/cobblenav-neoforge-2.3.3.jar",
@@ -382,7 +472,9 @@
    "size": 1098652,
    "url": "https://cdn.modrinth.com/data/bI8Nt3uA/versions/yCSofpNb/cobblenav-neoforge-2.3.3.jar",
    "mode": "strict",
-   "project": "bI8Nt3uA"
+   "project": "bI8Nt3uA",
+   "name": "Cobblenav",
+   "version": "2.3.3"
   },
   {
    "path": "mods/collective-1.21.1-8.39.jar",
@@ -390,7 +482,9 @@
    "size": 1061931,
    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/4XRlrKGN/collective-1.21.1-8.39.jar",
    "mode": "strict",
-   "project": "e0M1UDsY"
+   "project": "e0M1UDsY",
+   "name": "Collective",
+   "version": "8.39"
   },
   {
    "path": "mods/combat_roll-neoforge-2.0.6+1.21.1.jar",
@@ -398,7 +492,9 @@
    "size": 193381,
    "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FT7t1n1a/combat_roll-neoforge-2.0.6%2B1.21.1.jar",
    "mode": "strict",
-   "project": "wGKYL7st"
+   "project": "wGKYL7st",
+   "name": "Combat Roll",
+   "version": "2.0.6+1.21.1"
   },
   {
    "path": "mods/connector-2.0.0-beta.17+1.21.1-full.jar",
@@ -414,7 +510,9 @@
    "size": 1014626,
    "url": "https://cdn.modrinth.com/data/1IjD5062/versions/eXGUs5sy/continuity-3.0.0%2B1.21.neoforge.jar",
    "mode": "strict",
-   "project": "1IjD5062"
+   "project": "1IjD5062",
+   "name": "Continuity",
+   "version": "3.0.0+1.21.neoforge"
   },
   {
    "path": "mods/copycats-3.0.8+mc.1.21.1-neoforge.jar",
@@ -422,7 +520,9 @@
    "size": 1799269,
    "url": "https://cdn.modrinth.com/data/UT2M39wf/versions/ZwGlMBIk/copycats-3.0.8%2Bmc.1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "UT2M39wf"
+   "project": "UT2M39wf",
+   "name": "Create: Copycats+",
+   "version": "3.0.8+mc.1.21.1-neoforge"
   },
   {
    "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
@@ -430,7 +530,9 @@
    "size": 309763,
    "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/nqrTa84r/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
    "mode": "strict",
-   "project": "ziOp6EO8"
+   "project": "ziOp6EO8",
+   "name": "CorgiLib",
+   "version": "5.0.0.9"
   },
   {
    "path": "mods/craftingtweaks-neoforge-1.21.1-21.1.7.jar",
@@ -438,7 +540,9 @@
    "size": 255939,
    "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/UBFLqHl0/craftingtweaks-neoforge-1.21.1-21.1.7.jar",
    "mode": "strict",
-   "project": "DMu0oBKf"
+   "project": "DMu0oBKf",
+   "name": "Crafting Tweaks",
+   "version": "21.1.7"
   },
   {
    "path": "mods/create-1.21.1-6.0.10.jar",
@@ -446,7 +550,9 @@
    "size": 19123767,
    "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
    "mode": "strict",
-   "project": "LNytGWDc"
+   "project": "LNytGWDc",
+   "name": "Create",
+   "version": "6.0.10"
   },
   {
    "path": "mods/create-aeronautics-bundled-1.21.1-1.3.2.jar",
@@ -454,7 +560,9 @@
    "size": 33123131,
    "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
    "mode": "strict",
-   "project": "oWaK0Q19"
+   "project": "oWaK0Q19",
+   "name": "Create Aeronautics",
+   "version": "1.3.2"
   },
   {
    "path": "mods/Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
@@ -462,7 +570,9 @@
    "size": 1843340,
    "url": "https://cdn.modrinth.com/data/9enMEvoc/versions/bSLlGvYn/Create-Structures-Arise-1.21.1-NeoForge-176.49.49.jar",
    "mode": "strict",
-   "project": "9enMEvoc"
+   "project": "9enMEvoc",
+   "name": "Create: Structures Arise",
+   "version": "176.49.49"
   },
   {
    "path": "mods/createaddition-1.7.0.jar",
@@ -470,7 +580,9 @@
    "size": 1705668,
    "url": "https://cdn.modrinth.com/data/kU1G12Nn/versions/zlC557Yg/createaddition-1.7.0.jar",
    "mode": "strict",
-   "project": "kU1G12Nn"
+   "project": "kU1G12Nn",
+   "name": "Create Crafts & Additions",
+   "version": "1.7.0"
   },
   {
    "path": "mods/createdeco-2.1.3.jar",
@@ -478,7 +590,9 @@
    "size": 3328498,
    "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
    "mode": "strict",
-   "project": "sMvUb4Rb"
+   "project": "sMvUb4Rb",
+   "name": "Create Deco",
+   "version": "2.1.3"
   },
   {
    "path": "mods/create_connected-1.3.3-mc1.21.1.jar",
@@ -486,7 +600,9 @@
    "size": 6786783,
    "url": "https://cdn.modrinth.com/data/Vg5TIO6d/versions/Xe7EqzfQ/create_connected-1.3.3-mc1.21.1.jar",
    "mode": "strict",
-   "project": "Vg5TIO6d"
+   "project": "Vg5TIO6d",
+   "name": "Create: Connected",
+   "version": "1.3.3-mc1.21.1"
   },
   {
    "path": "mods/create_ltab-4.1.0.jar",
@@ -494,7 +610,9 @@
    "size": 2894822,
    "url": "https://cdn.modrinth.com/data/fUa6OtBG/versions/dQQazoxf/create_ltab-4.1.0.jar",
    "mode": "strict",
-   "project": "fUa6OtBG"
+   "project": "fUa6OtBG",
+   "name": "Create Let The Adventure Begin",
+   "version": "4.1.0"
   },
   {
    "path": "mods/cristellib-neoforge-1.21.1-3.1.7.jar",
@@ -502,7 +620,9 @@
    "size": 583525,
    "url": "https://cdn.modrinth.com/data/cl223EMc/versions/Sduz0AWP/cristellib-neoforge-1.21.1-3.1.7.jar",
    "mode": "strict",
-   "project": "cl223EMc"
+   "project": "cl223EMc",
+   "name": "Cristel Lib",
+   "version": "3.1.7"
   },
   {
    "path": "mods/critical_strike-neoforge-1.0.4+1.21.1.jar",
@@ -510,7 +630,9 @@
    "size": 133273,
    "url": "https://cdn.modrinth.com/data/ilvNBzFn/versions/2LZ76MSH/critical_strike-neoforge-1.0.4%2B1.21.1.jar",
    "mode": "strict",
-   "project": "ilvNBzFn"
+   "project": "ilvNBzFn",
+   "name": "Critical Strike",
+   "version": "1.0.4+1.21.1"
   },
   {
    "path": "mods/curios-neoforge-9.5.1+1.21.1.jar",
@@ -518,7 +640,9 @@
    "size": 410690,
    "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
    "mode": "strict",
-   "project": "vvuO3ImH"
+   "project": "vvuO3ImH",
+   "name": "Curios API",
+   "version": "9.5.1+1.21.1"
   },
   {
    "path": "mods/darkermagic-1.3.3-1.21.1-ver.b.jar",
@@ -526,7 +650,9 @@
    "size": 100219,
    "url": "https://cdn.modrinth.com/data/bY4q13Xr/versions/oBllvIgO/darkermagic-1.3.3-1.21.1-ver.b.jar",
    "mode": "strict",
-   "project": "bY4q13Xr"
+   "project": "bY4q13Xr",
+   "name": "Deeper and Darker: Spellbooks",
+   "version": "1.3.3-1.21.1"
   },
   {
    "path": "mods/deeperdarker-neoforge-1.21.1-1.4.1.jar",
@@ -534,7 +660,9 @@
    "size": 3906057,
    "url": "https://cdn.modrinth.com/data/fnAffV0n/versions/TuD0Zvi3/deeperdarker-neoforge-1.21.1-1.4.1.jar",
    "mode": "strict",
-   "project": "fnAffV0n"
+   "project": "fnAffV0n",
+   "name": "Deeper and Darker",
+   "version": "1.4.1"
   },
   {
    "path": "mods/defaultoptions-neoforge-1.21.1-21.1.5.jar",
@@ -542,7 +670,9 @@
    "size": 95656,
    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/akQv5d1t/defaultoptions-neoforge-1.21.1-21.1.5.jar",
    "mode": "strict",
-   "project": "WEg59z5b"
+   "project": "WEg59z5b",
+   "name": "Default Options",
+   "version": "21.1.5"
   },
   {
    "path": "mods/delightlib-26.05.18-1.21-neoforge.jar",
@@ -550,7 +680,9 @@
    "size": 59438,
    "url": "https://cdn.modrinth.com/data/rmDY6fYt/versions/wCR4QGbG/delightlib-26.05.18-1.21-neoforge.jar",
    "mode": "strict",
-   "project": "rmDY6fYt"
+   "project": "rmDY6fYt",
+   "name": "Delight Lib",
+   "version": "26.05.18-1.21-neoforge"
   },
   {
    "path": "mods/Design-n-Decor-1.21.1-2.2b.jar",
@@ -558,49 +690,63 @@
    "size": 6329899,
    "url": "https://cdn.modrinth.com/data/x49wilh8/versions/uQsIRky8/Design-n-Decor-1.21.1-2.2b.jar",
    "mode": "strict",
-   "project": "x49wilh8"
+   "project": "x49wilh8",
+   "name": "Design n' Decor",
+   "version": "2.2b"
   },
   {
    "path": "mods/dndorigins-1.2.1-merged-origins-color-darkvision.jar",
    "sha1": "54be5f374f2c629b1ce1d3296e653d663d985614",
    "size": 103914,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/54be5f374f2c629b1ce1d3296e653d663d985614.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "DnD Origins 5e",
+   "version": "1.2.1"
   },
   {
    "path": "mods/dodge_parry_reward-1.21.1-1.0.0.jar",
    "sha1": "2a199e94d1e8404718481f0dda4485687f477ccb",
    "size": 283238,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2a199e94d1e8404718481f0dda4485687f477ccb.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Dodge Parry Reward",
+   "version": "1.21.1-1.0.0"
   },
   {
    "path": "mods/DragonSurvival-1.21.1-v2.0.70-13.09.2026-all.jar",
    "sha1": "bbd02b8ccc49128ddf0039c77a0b1949024d5c8d",
    "size": 13736896,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/bbd02b8ccc49128ddf0039c77a0b1949024d5c8d.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Dragon Survival",
+   "version": "2.0.70"
   },
   {
    "path": "mods/DragonSurvival-Tooltip-Fix-1.0.6.jar",
    "sha1": "094dd06815d8d8c4347612abe337a98c383eabaf",
    "size": 5534,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/094dd06815d8d8c4347612abe337a98c383eabaf.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Dragon Survival Tooltip Layer Fix",
+   "version": "1.0.6"
   },
   {
    "path": "mods/droppable-21.1.2.jar",
    "sha1": "a56b26a16ba13d2b5bd2a33893507dab885a8fbb",
    "size": 28936,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/a56b26a16ba13d2b5bd2a33893507dab885a8fbb.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Droppable",
+   "version": "21.1.1"
   },
   {
    "path": "mods/ds_aether_addon-1.1.0-neoforge-1.21.1.jar",
    "sha1": "9968e260850df1dae020aa8b498b6955fedd6f3c",
    "size": 1278940,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/9968e260850df1dae020aa8b498b6955fedd6f3c.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Dragon Survival - Aether Dragon Addon",
+   "version": "1.1.0"
   },
   {
    "path": "mods/dungeons-and-taverns-v4.4.4.jar",
@@ -608,7 +754,9 @@
    "size": 24859622,
    "url": "https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar",
    "mode": "strict",
-   "project": "tpehi7ww"
+   "project": "tpehi7ww",
+   "name": "Dungeons and Taverns",
+   "version": "1-v4.4.4"
   },
   {
    "path": "mods/DungeonsArise-1.21.1-2.1.68-release.jar",
@@ -616,7 +764,9 @@
    "size": 11842679,
    "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/XIRJSFQ0/DungeonsArise-1.21.1-2.1.68-release.jar",
    "mode": "strict",
-   "project": "8DfbfASn"
+   "project": "8DfbfASn",
+   "name": "When Dungeons Arise",
+   "version": "2.1.68"
   },
   {
    "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
@@ -624,7 +774,9 @@
    "size": 244981,
    "url": "https://cdn.modrinth.com/data/ZsrrjDbP/versions/erk04BGa/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar",
    "mode": "strict",
-   "project": "ZsrrjDbP"
+   "project": "ZsrrjDbP",
+   "name": "When Dungeons Arise: Seven Seas",
+   "version": "1.0.4"
   },
   {
    "path": "mods/dynamiccrosshair-9.11+1.21.1-neoforge.jar",
@@ -632,21 +784,27 @@
    "size": 514029,
    "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/RShcBQz5/dynamiccrosshair-9.11%2B1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "ZcR9weSm"
+   "project": "ZcR9weSm",
+   "name": "Dynamic Crosshair",
+   "version": "9.11"
   },
   {
    "path": "mods/EF-ExtendedDatapacks-2.5.4-1.21.1+[NeoForge].jar",
    "sha1": "35801e500f19b239676d854d53d90d3a9c17f993",
    "size": 1028686,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/35801e500f19b239676d854d53d90d3a9c17f993.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight - Extended Datapacks",
+   "version": "2.5.4"
   },
   {
    "path": "mods/efct-1.0.7.jar",
    "sha1": "4cf876918fbe858443d39dd325cfcc14c4c1fb18",
    "size": 6409,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/4cf876918fbe858443d39dd325cfcc14c4c1fb18.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight Client Tweaks",
+   "version": "1.0.7"
   },
   {
    "path": "mods/efiscompat-3.1.0.jar",
@@ -654,7 +812,9 @@
    "size": 291013,
    "url": "https://cdn.modrinth.com/data/LMXo8kAe/versions/GsoNyVKG/efiscompat-3.1.0.jar",
    "mode": "strict",
-   "project": "LMXo8kAe"
+   "project": "LMXo8kAe",
+   "name": "Epic Fight & Iron's Spellbook animation compat",
+   "version": "3.1.0"
   },
   {
    "path": "mods/efweaponscompat-1.0.0.jar",
@@ -662,7 +822,9 @@
    "size": 169184,
    "url": "https://cdn.modrinth.com/data/Udv3YbH7/versions/B3Ks3QHg/efweaponscompat-1.0.0.jar",
    "mode": "strict",
-   "project": "Udv3YbH7"
+   "project": "Udv3YbH7",
+   "name": "Epic Fight Weapons Compat",
+   "version": "1.0.0"
   },
   {
    "path": "mods/emf_compat_core_1.21.1_2.0.0.jar",
@@ -670,7 +832,9 @@
    "size": 131505,
    "url": "https://cdn.modrinth.com/data/hbGct5uU/versions/31At82lp/emf_compat_core_1.21.1_2.0.0.jar",
    "mode": "strict",
-   "project": "hbGct5uU"
+   "project": "hbGct5uU",
+   "name": "EMF Compat: Core",
+   "version": "2.0.0"
   },
   {
    "path": "mods/emf_compat_iron_spells_1.21.1_2.0.0.jar",
@@ -678,14 +842,18 @@
    "size": 107917,
    "url": "https://cdn.modrinth.com/data/rk0DMjc3/versions/WYdjExJI/emf_compat_iron_spells_1.21.1_2.0.0.jar",
    "mode": "strict",
-   "project": "rk0DMjc3"
+   "project": "rk0DMjc3",
+   "name": "EMF Compat: Iron's Spells",
+   "version": "2.0.0"
   },
   {
    "path": "mods/emi-1.1.22+1.21.1+neoforge-JEI-COMPAT-FIX.jar",
    "sha1": "2927d6e781a85be6049f69df114444becddd020c",
    "size": 1028951,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2927d6e781a85be6049f69df114444becddd020c.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "EMI",
+   "version": "1.1.22+1.21.1+neoforge"
   },
   {
    "path": "mods/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
@@ -693,7 +861,9 @@
    "size": 23543,
    "url": "https://cdn.modrinth.com/data/LGVihYcz/versions/wGOa5uxT/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
    "mode": "strict",
-   "project": "LGVihYcz"
+   "project": "LGVihYcz",
+   "name": "EMI Professions (EMIP)",
+   "version": "1.0.3"
   },
   {
    "path": "mods/emi_enchanting-0.1.2+1.21+neoforge.jar",
@@ -701,7 +871,9 @@
    "size": 15680,
    "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar",
    "mode": "strict",
-   "project": "wbWoo11W"
+   "project": "wbWoo11W",
+   "name": "EMI Enchanting",
+   "version": "0.1.2+1.21+neoforge"
   },
   {
    "path": "mods/emi_ores-1.2+1.21.1+neoforge.jar",
@@ -709,7 +881,9 @@
    "size": 111317,
    "url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/1jY6MIrK/emi_ores-1.2%2B1.21.1%2Bneoforge.jar",
    "mode": "strict",
-   "project": "sG4TqDb8"
+   "project": "sG4TqDb8",
+   "name": "EMI Ores",
+   "version": "1.2+1.21.1+neoforge"
   },
   {
    "path": "mods/enchdesc-neoforge-1.21.1-21.1.9.jar",
@@ -717,7 +891,9 @@
    "size": 81847,
    "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zfAkJn0r/enchdesc-neoforge-1.21.1-21.1.9.jar",
    "mode": "strict",
-   "project": "UVtY3ZAC"
+   "project": "UVtY3ZAC",
+   "name": "EnchantmentDescriptions",
+   "version": "21.1.9"
   },
   {
    "path": "mods/enhanced_attack_indicator-1.1.1+1.21-forge.jar",
@@ -725,7 +901,9 @@
    "size": 13371,
    "url": "https://cdn.modrinth.com/data/eTy17BBS/versions/cmUdkoBd/enhanced_attack_indicator-1.1.1%2B1.21-forge.jar",
    "mode": "strict",
-   "project": "eTy17BBS"
+   "project": "eTy17BBS",
+   "name": "Enhanced Attack Indicator",
+   "version": "1.1.1+1.21-forge"
   },
   {
    "path": "mods/entityculling-neoforge-1.9.5-mc1.21.1.jar",
@@ -733,7 +911,9 @@
    "size": 1564767,
    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/DwB2BGbW/entityculling-neoforge-1.9.5-mc1.21.1.jar",
    "mode": "strict",
-   "project": "NNAgCjsB"
+   "project": "NNAgCjsB",
+   "name": "EntityCulling",
+   "version": "1.9.5"
   },
   {
    "path": "mods/entity_model_features-3.3.9-1.21-neoforge.jar",
@@ -741,7 +921,9 @@
    "size": 641785,
    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/gEOHNhtN/entity_model_features-3.3.9-1.21-neoforge.jar",
    "mode": "strict",
-   "project": "4I1XuqiY"
+   "project": "4I1XuqiY",
+   "name": "Entity Model Features",
+   "version": "3.3.9"
   },
   {
    "path": "mods/entity_texture_features-7.2.4-1.21-neoforge.jar",
@@ -749,7 +931,9 @@
    "size": 790080,
    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/HOizEpC7/entity_texture_features-7.2.4-1.21-neoforge.jar",
    "mode": "strict",
-   "project": "BVzZfTc1"
+   "project": "BVzZfTc1",
+   "name": "Entity Texture Features",
+   "version": "7.2.4"
   },
   {
    "path": "mods/epic x parcool-neoforge-21.0.0-1.21.1.jar",
@@ -757,21 +941,27 @@
    "size": 387088,
    "url": "https://cdn.modrinth.com/data/NfOLe8St/versions/Uq0vPJIE/epic%20x%20parcool-neoforge-21.0.0-1.21.1.jar",
    "mode": "strict",
-   "project": "NfOLe8St"
+   "project": "NfOLe8St",
+   "name": "Epic Parcool",
+   "version": "21.0.0"
   },
   {
    "path": "mods/epic-fight-21.17.3.1-mc1.21.1-neoforge-COMPAT-FINAL-SKILL-FEEDBACK-FIX-v2-NULLSAFE.jar",
    "sha1": "a86166cff070b570adf740b0ceda1066c2d105a5",
    "size": 8566578,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/a86166cff070b570adf740b0ceda1066c2d105a5.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight",
+   "version": "21.17.3.1"
   },
   {
    "path": "mods/epic-fight-dawn-day-21.17.1.2.1-mc1.21.1-neoforge-EF21.17-COMPAT-FIX.jar",
    "sha1": "030115421333388353ea4d196907249d59609e7f",
    "size": 31620966,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/030115421333388353ea4d196907249d59609e7f.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight: DawnDay",
+   "version": "21.17.1.2.1"
   },
   {
    "path": "mods/epic-knights-1.21.1-neoforge-10.16.jar",
@@ -779,28 +969,36 @@
    "size": 2818931,
    "url": "https://cdn.modrinth.com/data/L6jvzao4/versions/DDOFBcvu/epic-knights-1.21.1-neoforge-10.16.jar",
    "mode": "strict",
-   "project": "L6jvzao4"
+   "project": "L6jvzao4",
+   "name": "Epic Knights: Shields, Armor and Weapons",
+   "version": "10.16"
   },
   {
    "path": "mods/epicfight-extra-neoforge1.21.1-1.2.2.jar",
    "sha1": "1594c51cb104ceee25e9ca45c5619c5f59630507",
    "size": 23079349,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1594c51cb104ceee25e9ca45c5619c5f59630507.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight Extra",
+   "version": "1.2.2"
   },
   {
    "path": "mods/epicfight-skilltree-neoforge-21.3.3-1.21.1-SLOT-FIX.jar",
    "sha1": "2be547ad5fabcf49d2063a56db090fb945f430d7",
    "size": 314261,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2be547ad5fabcf49d2063a56db090fb945f430d7.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight: Skill Tree",
+   "version": "21.3.3"
   },
   {
    "path": "mods/epic_fight_avalon-neoforge1.21.1-21.12.6.3-VFX-PATCH-FIX.jar",
    "sha1": "645d60950c879e77ab8492819f91fdb978171065",
    "size": 663311,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/645d60950c879e77ab8492819f91fdb978171065.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic fight - Avalon",
+   "version": "21.12.6.3"
   },
   {
    "path": "mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
@@ -808,7 +1006,9 @@
    "size": 86058,
    "url": "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
    "mode": "strict",
-   "project": "r0camchr"
+   "project": "r0camchr",
+   "name": "Explosive Enhancement",
+   "version": "1.1.2"
   },
   {
    "path": "mods/extra_copycats-1.0.2.jar",
@@ -816,7 +1016,9 @@
    "size": 105281,
    "url": "https://cdn.modrinth.com/data/KEG1fY2H/versions/xDN9lyTb/extra_copycats-1.0.2.jar",
    "mode": "strict",
-   "project": "KEG1fY2H"
+   "project": "KEG1fY2H",
+   "name": "Extra Copycats",
+   "version": "1.0.2"
   },
   {
    "path": "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar",
@@ -824,7 +1026,9 @@
    "size": 8076363,
    "url": "https://cdn.modrinth.com/data/Ha28R6CL/versions/bdhiINYC/fabric-language-kotlin-1.13.13%2Bkotlin.2.4.10.jar",
    "mode": "strict",
-   "project": "Ha28R6CL"
+   "project": "Ha28R6CL",
+   "name": "Fabric Language Kotlin",
+   "version": "1.13.13+kotlin.2.4.10"
   },
   {
    "path": "mods/fallingleaves-1.21.1-2.5.1.jar",
@@ -832,7 +1036,9 @@
    "size": 153343,
    "url": "https://cdn.modrinth.com/data/2JAUNCL4/versions/PVzaPLSv/fallingleaves-1.21.1-2.5.1.jar",
    "mode": "strict",
-   "project": "2JAUNCL4"
+   "project": "2JAUNCL4",
+   "name": "Fallingleaves",
+   "version": "2.5.1"
   },
   {
    "path": "mods/FarmersDelight-1.21.1-1.3.4.jar",
@@ -840,7 +1046,9 @@
    "size": 3160490,
    "url": "https://cdn.modrinth.com/data/R2OftAxM/versions/XTVZDOol/FarmersDelight-1.21.1-1.3.4.jar",
    "mode": "strict",
-   "project": "R2OftAxM"
+   "project": "R2OftAxM",
+   "name": "Farmer's Delight",
+   "version": "1.3.4"
   },
   {
    "path": "mods/fdbosses-3.1.0.3-1.21.1.jar",
@@ -848,7 +1056,9 @@
    "size": 25643812,
    "url": "https://cdn.modrinth.com/data/7fqQYwaC/versions/mubOR5lN/fdbosses-3.1.0.3-1.21.1.jar",
    "mode": "strict",
-   "project": "7fqQYwaC"
+   "project": "7fqQYwaC",
+   "name": "Qliphoth Awakening",
+   "version": "3.1.0.3"
   },
   {
    "path": "mods/fdlib-1.0.8-1.21.1.jar",
@@ -856,7 +1066,9 @@
    "size": 973073,
    "url": "https://cdn.modrinth.com/data/LcmGQfK2/versions/bZKs2lFt/fdlib-1.0.8-1.21.1.jar",
    "mode": "strict",
-   "project": "LcmGQfK2"
+   "project": "LcmGQfK2",
+   "name": "FDLib",
+   "version": "1.0.8"
   },
   {
    "path": "mods/Feature-Recycler-neoforge-2.0.0.jar",
@@ -864,7 +1076,9 @@
    "size": 144306,
    "url": "https://cdn.modrinth.com/data/IAzu52kG/versions/TsMXDaL7/Feature-Recycler-neoforge-2.0.0.jar",
    "mode": "strict",
-   "project": "IAzu52kG"
+   "project": "IAzu52kG",
+   "name": "Feature Recycler",
+   "version": "2.0.0"
   },
   {
    "path": "mods/ferritecore-7.0.3-neoforge.jar",
@@ -872,7 +1086,9 @@
    "size": 121559,
    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
    "mode": "strict",
-   "project": "uXXizFIs"
+   "project": "uXXizFIs",
+   "name": "Ferrite Core",
+   "version": "7.0.3"
   },
   {
    "path": "mods/forgematica-0.4.2+mc1.21.1.jar",
@@ -880,7 +1096,9 @@
    "size": 1646155,
    "url": "https://cdn.modrinth.com/data/dCKRaeBC/versions/71jxaAwz/forgematica-0.4.2%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "dCKRaeBC"
+   "project": "dCKRaeBC",
+   "name": "Forgematica",
+   "version": "0.4.2+mc1.21.1"
   },
   {
    "path": "mods/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
@@ -888,7 +1106,9 @@
    "size": 5613159,
    "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/V9WdDUTx/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar",
    "mode": "strict",
-   "project": "Aqlf1Shp"
+   "project": "Aqlf1Shp",
+   "name": "Forgified Fabric API",
+   "version": "0.116.15+2.3.5+1.21.1"
   },
   {
    "path": "mods/fusion-1.3.15a-neoforge-mc1.21.1.jar",
@@ -896,7 +1116,9 @@
    "size": 947072,
    "url": "https://cdn.modrinth.com/data/p19vrgc2/versions/JSbPU3oG/fusion-1.3.15a-neoforge-mc1.21.1.jar",
    "mode": "strict",
-   "project": "p19vrgc2"
+   "project": "p19vrgc2",
+   "name": "Fusion",
+   "version": "1.3.15+a"
   },
   {
    "path": "mods/fzzy_config-0.7.6+1.21+neoforge.jar",
@@ -904,7 +1126,9 @@
    "size": 2369895,
    "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/MAPG6cXE/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
    "mode": "strict",
-   "project": "hYykXjDp"
+   "project": "hYykXjDp",
+   "name": "Fzzy Config",
+   "version": "0.7.6+1.21+neoforge"
   },
   {
    "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
@@ -912,7 +1136,9 @@
    "size": 630584,
    "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/tPkJmim6/geckolib-neoforge-1.21.1-4.9.2.jar",
    "mode": "strict",
-   "project": "8BmcQJ2H"
+   "project": "8BmcQJ2H",
+   "name": "GeckoLib 4",
+   "version": "4.9.2"
   },
   {
    "path": "mods/Generations-Core-neoforge-1.2.6-1.7.3.jar",
@@ -920,7 +1146,9 @@
    "size": 139188780,
    "url": "https://cdn.modrinth.com/data/AxvRzJ70/versions/UZEIXY3Y/Generations-Core-neoforge-1.2.6-1.7.3.jar",
    "mode": "strict",
-   "project": "AxvRzJ70"
+   "project": "AxvRzJ70",
+   "name": "Generations-Core",
+   "version": "1.2.6-1.7.3"
   },
   {
    "path": "mods/grim-kingdoms-lost-structures-ruins-vanilla-edition-2.0.0.jar",
@@ -928,7 +1156,9 @@
    "size": 10381553,
    "url": "https://cdn.modrinth.com/data/yclIRcrN/versions/Hn8zuckE/grim-kingdoms-lost-structures-ruins-vanilla-edition-2.0.0.jar",
    "mode": "strict",
-   "project": "yclIRcrN"
+   "project": "yclIRcrN",
+   "name": "Grim kingdoms: Vanilla Edition",
+   "version": "2.0.0"
   },
   {
    "path": "mods/handcrafted-neoforge-1.21.1-4.0.3.jar",
@@ -936,7 +1166,9 @@
    "size": 7132842,
    "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar",
    "mode": "strict",
-   "project": "pJmCFF0p"
+   "project": "pJmCFF0p",
+   "name": "Handcrafted",
+   "version": "4.0.3"
   },
   {
    "path": "mods/ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
@@ -944,7 +1176,9 @@
    "size": 362740,
    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/xcQYt0Uy/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar",
    "mode": "strict",
-   "project": "5ZwdcRci"
+   "project": "5ZwdcRci",
+   "name": "ImmediatelyFast",
+   "version": "1.6.13+1.21.1"
   },
   {
    "path": "mods/interiors-1.21.1-neoforge-0.6.1.jar",
@@ -952,7 +1186,9 @@
    "size": 486912,
    "url": "https://cdn.modrinth.com/data/r4Knci2k/versions/gBrfZy6S/interiors-1.21.1-neoforge-0.6.1.jar",
    "mode": "strict",
-   "project": "r4Knci2k"
+   "project": "r4Knci2k",
+   "name": "Create: Interiors",
+   "version": "0.6.1"
   },
   {
    "path": "mods/invincible-21.15.8.2-mc1.21.1-neoforge.jar",
@@ -960,7 +1196,9 @@
    "size": 245153,
    "url": "https://cdn.modrinth.com/data/cdaWrTra/versions/kQ8bnlol/invincible-21.15.8.2-mc1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "cdaWrTra"
+   "project": "cdaWrTra",
+   "name": "Epic Fight - Invincible",
+   "version": "21.15.8.2"
   },
   {
    "path": "mods/InvMove-0.9.3+1.21.1-NeoForge.jar",
@@ -968,7 +1206,9 @@
    "size": 87005,
    "url": "https://cdn.modrinth.com/data/REfW2AEX/versions/C7ePwvWW/InvMove-0.9.3%2B1.21.1-NeoForge.jar",
    "mode": "strict",
-   "project": "REfW2AEX"
+   "project": "REfW2AEX",
+   "name": "InvMove",
+   "version": "0.9.3"
   },
   {
    "path": "mods/InvMoveCompats-0.5.0+1.21.8-NeoForge.jar",
@@ -976,7 +1216,9 @@
    "size": 103185,
    "url": "https://cdn.modrinth.com/data/6IpcGP7T/versions/GjTuFGdp/InvMoveCompats-0.5.0%2B1.21.8-NeoForge.jar",
    "mode": "strict",
-   "project": "6IpcGP7T"
+   "project": "6IpcGP7T",
+   "name": "InvMoveCompats",
+   "version": "0.5.0"
   },
   {
    "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
@@ -984,7 +1226,9 @@
    "size": 2540723,
    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "YL57xq9U"
+   "project": "YL57xq9U",
+   "name": "Iris",
+   "version": "1.8.14-beta.1+mc1.21.1"
   },
   {
    "path": "mods/irons_lib-1.21.1-2.2.0.jar",
@@ -992,14 +1236,18 @@
    "size": 462255,
    "url": "https://cdn.modrinth.com/data/9nfaJPtX/versions/lUwUKYPl/irons_lib-1.21.1-2.2.0.jar",
    "mode": "strict",
-   "project": "9nfaJPtX"
+   "project": "9nfaJPtX",
+   "name": "Iron's Lib",
+   "version": "1.21.1-2.2.0"
   },
   {
    "path": "mods/irons_spellbooks-1.21.1-3.16.3.jar",
    "sha1": "017fd8140c477f9ae602cf95594f1c23bef1d6e3",
    "size": 13890046,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/017fd8140c477f9ae602cf95594f1c23bef1d6e3.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Iron's Spells 'n Spellbooks",
+   "version": "1.21.1-3.16.3"
   },
   {
    "path": "mods/irons_spells_dynamic_skilltree_1.1.0.jar",
@@ -1007,7 +1255,9 @@
    "size": 254720,
    "url": "https://cdn.modrinth.com/data/cdEXZLO4/versions/j2XQWLuk/irons_spells_dynamic_skilltree_1.1.0.jar",
    "mode": "strict",
-   "project": "cdEXZLO4"
+   "project": "cdEXZLO4",
+   "name": "Iron's Spells 'n Spellbooks Dynamic Skill Tree",
+   "version": "1.1.0"
   },
   {
    "path": "mods/Jade-1.21.1-NeoForge-15.10.6.jar",
@@ -1015,14 +1265,17 @@
    "size": 726853,
    "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
    "mode": "strict",
-   "project": "nvQzSEkH"
+   "project": "nvQzSEkH",
+   "name": "Jade",
+   "version": "15.10.6+neoforge"
   },
   {
    "path": "mods/jade-farmers-delight-compat-1.21.1-neoforge-1.0.0.jar",
    "sha1": "23decefd58bc20dbb6cc7c50a8c0e0659fff74fe",
    "size": 979264,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/23decefd58bc20dbb6cc7c50a8c0e0659fff74fe.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Jade Farmer's Delight Compat"
   },
   {
    "path": "mods/jauml-neoforge-1.21.1-2.1.1.jar",
@@ -1030,7 +1283,9 @@
    "size": 36870,
    "url": "https://cdn.modrinth.com/data/ihvBalM2/versions/wC6kgnEB/jauml-neoforge-1.21.1-2.1.1.jar",
    "mode": "strict",
-   "project": "ihvBalM2"
+   "project": "ihvBalM2",
+   "name": "Jauml",
+   "version": "2.1.1"
   },
   {
    "path": "mods/jeed-1.21-2.3.2.jar",
@@ -1038,7 +1293,9 @@
    "size": 164003,
    "url": "https://cdn.modrinth.com/data/EO27GKs1/versions/HpxNIA6x/jeed-1.21-2.3.2.jar",
    "mode": "strict",
-   "project": "EO27GKs1"
+   "project": "EO27GKs1",
+   "name": "Just Enough Effects Descriptions",
+   "version": "1.21-2.3.2"
   },
   {
    "path": "mods/jei-1.21.1-neoforge-19.57.0.449.jar",
@@ -1046,7 +1303,9 @@
    "size": 2252654,
    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/TKsCmRlt/jei-1.21.1-neoforge-19.57.0.449.jar",
    "mode": "strict",
-   "project": "u6dRKJwZ"
+   "project": "u6dRKJwZ",
+   "name": "Just Enough Items",
+   "version": "19.57.0.449"
   },
   {
    "path": "mods/journeymap-neoforge-1.21.1-6.0.7.jar",
@@ -1054,7 +1313,9 @@
    "size": 4299852,
    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/IAVJBO0C/journeymap-neoforge-1.21.1-6.0.7.jar",
    "mode": "strict",
-   "project": "lfHFW1mp"
+   "project": "lfHFW1mp",
+   "name": "Journeymap",
+   "version": "1.21.1-6.0.7"
   },
   {
    "path": "mods/jupiter-2.3.7-1.21.1-neoforge.jar",
@@ -1062,7 +1323,9 @@
    "size": 278988,
    "url": "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "XbiLGMMU"
+   "project": "XbiLGMMU",
+   "name": "Jupiter",
+   "version": "2.3.7"
   },
   {
    "path": "mods/kaleidoscopecookery-1.4.1-neoforge+mc1.21.1.jar",
@@ -1070,7 +1333,9 @@
    "size": 5018991,
    "url": "https://cdn.modrinth.com/data/v17FatAc/versions/TqaHu4Ma/kaleidoscopecookery-1.4.1-neoforge%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "v17FatAc"
+   "project": "v17FatAc",
+   "name": "Kaleidoscope Cookery",
+   "version": "1.4.1-neoforge+mc1.21.1"
   },
   {
    "path": "mods/kaleidoscopedoll-1.4.1-neoforge+mc1.21.1.jar",
@@ -1078,7 +1343,9 @@
    "size": 3602786,
    "url": "https://cdn.modrinth.com/data/vQLjjxNs/versions/FV2DGV0P/kaleidoscopedoll-1.4.1-neoforge%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "vQLjjxNs"
+   "project": "vQLjjxNs",
+   "name": "Kaleidoscope Doll",
+   "version": "1.4.1-neoforge+mc1.21.1"
   },
   {
    "path": "mods/kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
@@ -1086,7 +1353,9 @@
    "size": 1708047,
    "url": "https://cdn.modrinth.com/data/r9RZvhiJ/versions/W9ILsQt7/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "r9RZvhiJ"
+   "project": "r9RZvhiJ",
+   "name": "Kaleidoscope Tavern",
+   "version": "1.2.0-neoforge+mc1.21.1"
   },
   {
    "path": "mods/kaleidoscope_chinesefood-1.1.11-neoforge+1.21.1.jar",
@@ -1094,7 +1363,9 @@
    "size": 8692695,
    "url": "https://cdn.modrinth.com/data/cuIIkdlx/versions/5E0W9vYa/kaleidoscope_chinesefood-1.1.11-neoforge%2B1.21.1.jar",
    "mode": "strict",
-   "project": "cuIIkdlx"
+   "project": "cuIIkdlx",
+   "name": "Kaleidoscope ChineseFood",
+   "version": "1.1.11-neoforge+1.21.1"
   },
   {
    "path": "mods/kaleidoscope_compat-2.9.7-neoforge+mc1.21.1.jar",
@@ -1102,7 +1373,9 @@
    "size": 1357431,
    "url": "https://cdn.modrinth.com/data/Xm1eP54z/versions/eYJZsJR7/kaleidoscope_compat-2.9.7-neoforge%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "Xm1eP54z"
+   "project": "Xm1eP54z",
+   "name": "Kaleidoscope Compat",
+   "version": "2.9.7-neoforge+mc1.21.1"
   },
   {
    "path": "mods/kaleidoscope_doll_workshop-1.0.5-neoforge+mc1.21.1.jar",
@@ -1110,14 +1383,18 @@
    "size": 84046,
    "url": "https://cdn.modrinth.com/data/a0N5leR0/versions/t7QGFnLx/kaleidoscope_doll_workshop-1.0.5-neoforge%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "a0N5leR0"
+   "project": "a0N5leR0",
+   "name": "Kaleidoscope Doll Workshop",
+   "version": "1.0.5"
   },
   {
    "path": "mods/kaleidoscope_end-1.0.14-neoforge+mc1.21.1-TEACUP-MODEL-FIX.jar",
    "sha1": "ba1d0b331f9a5488d00f734b618aab5ab79b901b",
    "size": 454197,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/ba1d0b331f9a5488d00f734b618aab5ab79b901b.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Kaleidoscope End",
+   "version": "1.0.14-neoforge+mc1.21.1"
   },
   {
    "path": "mods/kaleidoscope_world_liquor-1.1.8-neoforge+1.21.1-feature.jar",
@@ -1125,7 +1402,9 @@
    "size": 6772207,
    "url": "https://cdn.modrinth.com/data/ePVLCraM/versions/unmywAHK/kaleidoscope_world_liquor-1.1.8-neoforge%2B1.21.1-feature.jar",
    "mode": "strict",
-   "project": "ePVLCraM"
+   "project": "ePVLCraM",
+   "name": "Kaleidoscope world liquor",
+   "version": "1.1.8-neoforge+1.21.1-feature"
   },
   {
    "path": "mods/knightlib-neoforge-1.21.1-1.6.2.jar",
@@ -1133,7 +1412,9 @@
    "size": 719523,
    "url": "https://cdn.modrinth.com/data/hAnl9nbm/versions/d3WdASFl/knightlib-neoforge-1.21.1-1.6.2.jar",
    "mode": "strict",
-   "project": "hAnl9nbm"
+   "project": "hAnl9nbm",
+   "name": "Knight Lib",
+   "version": "1.6.2"
   },
   {
    "path": "mods/knightquest-neoforge-1.21.1-1.9.3.jar",
@@ -1141,7 +1422,9 @@
    "size": 5193278,
    "url": "https://cdn.modrinth.com/data/VEOQ4Jz4/versions/974yQ1qF/knightquest-neoforge-1.21.1-1.9.3.jar",
    "mode": "strict",
-   "project": "VEOQ4Jz4"
+   "project": "VEOQ4Jz4",
+   "name": "Knight Quest",
+   "version": "1.9.3"
   },
   {
    "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
@@ -1149,7 +1432,9 @@
    "size": 618842,
    "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
    "mode": "strict",
-   "project": "J81TRJWm"
+   "project": "J81TRJWm",
+   "name": "Konkrete",
+   "version": "1.9.9"
   },
   {
    "path": "mods/kotlinforforge-5.11.0-all.jar",
@@ -1165,7 +1450,9 @@
    "size": 189002,
    "url": "https://cdn.modrinth.com/data/rmFH8I1v/versions/TFGMCLED/KryptonFoxified-0.1.0%2Bmc1.21.jar",
    "mode": "strict",
-   "project": "rmFH8I1v"
+   "project": "rmFH8I1v",
+   "name": "KryptonFoxified",
+   "version": "0.1.0+mc1.21"
   },
   {
    "path": "mods/lambdynamiclights-3.1.4-neo-0+1.21.1.jar",
@@ -1173,7 +1460,9 @@
    "size": 440704,
    "url": "https://cdn.modrinth.com/data/g1BboDNl/versions/quylAxP6/lambdynamiclights-3.1.4-neo-0%2B1.21.1.jar",
    "mode": "strict",
-   "project": "g1BboDNl"
+   "project": "g1BboDNl",
+   "name": "LambDynamicLights",
+   "version": "3.1.4-neo-0+1.21.1"
   },
   {
    "path": "mods/languagereload-neoforge-1.21.1-1.0.2.jar",
@@ -1181,7 +1470,9 @@
    "size": 68022,
    "url": "https://cdn.modrinth.com/data/4zpN0syd/versions/qSdV3sEV/languagereload-neoforge-1.21.1-1.0.2.jar",
    "mode": "strict",
-   "project": "4zpN0syd"
+   "project": "4zpN0syd",
+   "name": "LanguageReload",
+   "version": "1.0.2"
   },
   {
    "path": "mods/legendarymonuments-neoforge-1.21.1-8.1-Love_for_All.jar",
@@ -1189,7 +1480,9 @@
    "size": 16600936,
    "url": "https://cdn.modrinth.com/data/m6RyHSbV/versions/UNW6ItXN/legendarymonuments-neoforge-1.21.1-8.1-Love_for_All.jar",
    "mode": "strict",
-   "project": "m6RyHSbV"
+   "project": "m6RyHSbV",
+   "name": "Legendary Monuments",
+   "version": "8.1-Love-for-All"
   },
   {
    "path": "mods/letmedespawn-1.21.x-neoforge-1.5.0.jar",
@@ -1197,7 +1490,9 @@
    "size": 14911,
    "url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/fgcMDg9B/letmedespawn-1.21.x-neoforge-1.5.0.jar",
    "mode": "strict",
-   "project": "vE2FN5qn"
+   "project": "vE2FN5qn",
+   "name": "Let Me Despawn",
+   "version": "1.5.0"
   },
   {
    "path": "mods/lionfishapi-3.1.jar",
@@ -1205,7 +1500,9 @@
    "size": 91596,
    "url": "https://cdn.modrinth.com/data/FoVacERa/versions/fTRMVgyZ/lionfishapi-3.1.jar",
    "mode": "strict",
-   "project": "FoVacERa"
+   "project": "FoVacERa",
+   "name": "lionfishapi",
+   "version": "3.1"
   },
   {
    "path": "mods/lithium-neoforge-0.15.1+mc1.21.1.jar",
@@ -1213,7 +1510,9 @@
    "size": 749987,
    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/G5SDYehn/lithium-neoforge-0.15.1%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "gvQqBUqZ"
+   "project": "gvQqBUqZ",
+   "name": "Lithium",
+   "version": "0.15.1+mc1.21.1"
   },
   {
    "path": "mods/lithostitched-1.8.0+beta4-neoforge-21.1.jar",
@@ -1221,7 +1520,9 @@
    "size": 954028,
    "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/81DDKTGJ/lithostitched-1.8.0%2Bbeta4-neoforge-21.1.jar",
    "mode": "strict",
-   "project": "XaDC71GB"
+   "project": "XaDC71GB",
+   "name": "Lithostitched",
+   "version": "1.8.0+beta4"
   },
   {
    "path": "mods/lootr-neoforge-1.21.1-1.11.38.125.jar",
@@ -1229,7 +1530,9 @@
    "size": 1000464,
    "url": "https://cdn.modrinth.com/data/EltpO5cN/versions/ST5FHZnD/lootr-neoforge-1.21.1-1.11.38.125.jar",
    "mode": "strict",
-   "project": "EltpO5cN"
+   "project": "EltpO5cN",
+   "name": "Lootr",
+   "version": "1.21.1-1.11.38.125"
   },
   {
    "path": "mods/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
@@ -1237,7 +1540,9 @@
    "size": 43426,
    "url": "https://cdn.modrinth.com/data/ywwXJDli/versions/mWCP4NVW/lootrmon-neoforge-1.21.1-0.0.0.3.jar",
    "mode": "strict",
-   "project": "ywwXJDli"
+   "project": "ywwXJDli",
+   "name": "Lootr & Cobblemon Compatibility",
+   "version": "1.21.1-0.0.0.3"
   },
   {
    "path": "mods/L_Ender's Cataclysm 1.21.1-3.33.jar",
@@ -1245,7 +1550,9 @@
    "size": 73375667,
    "url": "https://cdn.modrinth.com/data/46KJle7n/versions/PsPYpoCC/L_Ender%27s%20Cataclysm%201.21.1-3.33.jar",
    "mode": "strict",
-   "project": "46KJle7n"
+   "project": "46KJle7n",
+   "name": "L_Ender's Cataclysm 1.21.1",
+   "version": "3.33"
   },
   {
    "path": "mods/mafglib-0.4.3+mc1.21.1.jar",
@@ -1253,7 +1560,9 @@
    "size": 1314767,
    "url": "https://cdn.modrinth.com/data/SKI34J7B/versions/CgDQ0u0Q/mafglib-0.4.3%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "SKI34J7B"
+   "project": "SKI34J7B",
+   "name": "MaFgLib",
+   "version": "0.4.3+mc1.21.1"
   },
   {
    "path": "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
@@ -1261,7 +1570,9 @@
    "size": 661387,
    "url": "https://cdn.modrinth.com/data/GURcjz8O/versions/aQ7rY7ng/mcw-bridges-3.1.2-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "GURcjz8O"
+   "project": "GURcjz8O",
+   "name": "Macaw's Bridges",
+   "version": "3.1.2"
   },
   {
    "path": "mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
@@ -1269,7 +1580,9 @@
    "size": 1190404,
    "url": "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "kNxa8z3e"
+   "project": "kNxa8z3e",
+   "name": "Macaw's Doors",
+   "version": "1.1.5"
   },
   {
    "path": "mods/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
@@ -1277,7 +1590,9 @@
    "size": 2080436,
    "url": "https://cdn.modrinth.com/data/dtWC90iB/versions/Z5V3Ps7S/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "dtWC90iB"
+   "project": "dtWC90iB",
+   "name": "Macaw's Furniture",
+   "version": "3.4.1"
   },
   {
    "path": "mods/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
@@ -1285,7 +1600,9 @@
    "size": 525744,
    "url": "https://cdn.modrinth.com/data/w4an97C2/versions/5U2kQZIL/mcw-lights-1.1.5-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "w4an97C2"
+   "project": "w4an97C2",
+   "name": "Macaw's Lights and Lamps",
+   "version": "1.1.5"
   },
   {
    "path": "mods/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
@@ -1293,7 +1610,9 @@
    "size": 673871,
    "url": "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "GmwLse2I"
+   "project": "GmwLse2I",
+   "name": "Macaw's Fences and Walls",
+   "version": "1.2.1"
   },
   {
    "path": "mods/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
@@ -1301,7 +1620,9 @@
    "size": 777742,
    "url": "https://cdn.modrinth.com/data/VRLhWB91/versions/tlymsxUG/mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "VRLhWB91"
+   "project": "VRLhWB91",
+   "name": "Macaw's Paths and Pavings",
+   "version": "1.1.1"
   },
   {
    "path": "mods/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
@@ -1309,7 +1630,9 @@
    "size": 529082,
    "url": "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "iP3wH1ha"
+   "project": "iP3wH1ha",
+   "name": "Macaw's Stairs and Balconies",
+   "version": "1.0.2"
   },
   {
    "path": "mods/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
@@ -1317,7 +1640,9 @@
    "size": 1261268,
    "url": "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "C7I0BCni"
+   "project": "C7I0BCni",
+   "name": "Macaw's Windows",
+   "version": "2.4.2"
   },
   {
    "path": "mods/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
@@ -1325,7 +1650,9 @@
    "size": 1784829,
    "url": "https://cdn.modrinth.com/data/B8jaH3P1/versions/jiXRXiSt/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "B8jaH3P1"
+   "project": "B8jaH3P1",
+   "name": "Macaw's Roofs",
+   "version": "2.3.2"
   },
   {
    "path": "mods/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
@@ -1333,14 +1660,18 @@
    "size": 572870,
    "url": "https://cdn.modrinth.com/data/n2fvCDlM/versions/StnP0RNi/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
    "mode": "strict",
-   "project": "n2fvCDlM"
+   "project": "n2fvCDlM",
+   "name": "Macaw's Trapdoors",
+   "version": "1.1.5"
   },
   {
    "path": "mods/mega_showdown-neoforge-1.9.9+1.7.3+1.21.1-Cobblemon173AbilityFix-v2.jar",
    "sha1": "872d7496501bd3411553e5dc0a1bdf0a91064257",
    "size": 20397451,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/872d7496501bd3411553e5dc0a1bdf0a91064257.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Cobblemon:Mega Showdown",
+   "version": "1.9.9+1.7.3+1.21.1"
   },
   {
    "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
@@ -1348,7 +1679,9 @@
    "size": 36096,
    "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
    "mode": "strict",
-   "project": "CVT4pFB2"
+   "project": "CVT4pFB2",
+   "name": "Melody",
+   "version": "1.0.10"
   },
   {
    "path": "mods/mezz_config-1.21.1-neoforge-0.6.3.jar",
@@ -1356,7 +1689,9 @@
    "size": 344292,
    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/zcRUPwOA/mezz_config-1.21.1-neoforge-0.6.3.jar",
    "mode": "strict",
-   "project": "7tEfOcA7"
+   "project": "7tEfOcA7",
+   "name": "MezzConfig",
+   "version": "0.6.3"
   },
   {
    "path": "mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
@@ -1364,7 +1699,9 @@
    "size": 604333,
    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "nmDcB62a"
+   "project": "nmDcB62a",
+   "name": "ModernFix",
+   "version": "5.27.24+mc1.21.1"
   },
   {
    "path": "mods/monsters_in_the_closet-1.0.3+1.21-forge.jar",
@@ -1372,7 +1709,9 @@
    "size": 10441,
    "url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/8nOX0cUH/monsters_in_the_closet-1.0.3%2B1.21-forge.jar",
    "mode": "strict",
-   "project": "GMA8jFBD"
+   "project": "GMA8jFBD",
+   "name": "Monsters In The Closet",
+   "version": "1.0.3+1.21-forge"
   },
   {
    "path": "mods/moonlight-1.21.1-3.6.1-neoforge.jar",
@@ -1380,7 +1719,9 @@
    "size": 2222232,
    "url": "https://cdn.modrinth.com/data/twkfQtEc/versions/o9IoOg6k/moonlight-1.21.1-3.6.1-neoforge.jar",
    "mode": "strict",
-   "project": "twkfQtEc"
+   "project": "twkfQtEc",
+   "name": "Moonlight Lib",
+   "version": "1.21.1-3.6.1"
   },
   {
    "path": "mods/MoreCobblemonTweaks-neoforge-1.3.3.jar",
@@ -1388,7 +1729,9 @@
    "size": 138756,
    "url": "https://cdn.modrinth.com/data/5KWlJ2HC/versions/LDMOCVN8/MoreCobblemonTweaks-neoforge-1.3.3.jar",
    "mode": "strict",
-   "project": "5KWlJ2HC"
+   "project": "5KWlJ2HC",
+   "name": "MoreCobblemonTweaks",
+   "version": "1.3.3"
   },
   {
    "path": "mods/moredelight-26.05.20a-1.21-neoforge.jar",
@@ -1396,7 +1739,9 @@
    "size": 141933,
    "url": "https://cdn.modrinth.com/data/znHQQtuU/versions/DpW4EgJo/moredelight-26.05.20a-1.21-neoforge.jar",
    "mode": "strict",
-   "project": "znHQQtuU"
+   "project": "znHQQtuU",
+   "name": "More Delight",
+   "version": "26.05.20a-1.21-neoforge"
   },
   {
    "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
@@ -1404,14 +1749,18 @@
    "size": 211972,
    "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
    "mode": "strict",
-   "project": "nPZr02ET"
+   "project": "nPZr02ET",
+   "name": "NetherPortalFix",
+   "version": "21.1.1"
   },
   {
    "path": "mods/NightFall-1.21.1-Neoforge-3.4.0-EF21.17-COMPAT-FINAL-SIDE-SAFE-PATCH-v6.jar",
    "sha1": "2a9acd2bddce3492d6d0316b904bf7659f29a029",
    "size": 59122606,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2a9acd2bddce3492d6d0316b904bf7659f29a029.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "EpicFight Nightfall",
+   "version": "3.4.0"
   },
   {
    "path": "mods/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
@@ -1419,7 +1768,9 @@
    "size": 1928789,
    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/PJ0Q8Tw8/notenoughanimations-neoforge-1.11.1-mc1.21.1.jar",
    "mode": "strict",
-   "project": "MPCX6s5C"
+   "project": "MPCX6s5C",
+   "name": "NotEnoughAnimations",
+   "version": "1.11.1"
   },
   {
    "path": "mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
@@ -1427,7 +1778,9 @@
    "size": 20484967,
    "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/aPEcdSHb/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
    "mode": "strict",
-   "project": "NTi7d3Xc"
+   "project": "NTi7d3Xc",
+   "name": "Oh The Biomes We've Gone",
+   "version": "2.6.0"
   },
   {
    "path": "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
@@ -1435,7 +1788,9 @@
    "size": 167431,
    "url": "https://cdn.modrinth.com/data/g8NOG5OR/versions/ozzakIcu/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
    "mode": "strict",
-   "project": "g8NOG5OR"
+   "project": "g8NOG5OR",
+   "name": "Oh The Trees You'll Grow",
+   "version": "5.3.2"
   },
   {
    "path": "mods/OpenLoader-neoforge-1.21.1-21.1.5.jar",
@@ -1443,7 +1798,9 @@
    "size": 35602,
    "url": "https://cdn.modrinth.com/data/KwWsINvD/versions/Szobbnyh/OpenLoader-neoforge-1.21.1-21.1.5.jar",
    "mode": "strict",
-   "project": "KwWsINvD"
+   "project": "KwWsINvD",
+   "name": "OpenLoader",
+   "version": "21.1.5"
   },
   {
    "path": "mods/origins-1.36.5.jar",
@@ -1451,7 +1808,9 @@
    "size": 605769,
    "url": "https://cdn.modrinth.com/data/tYolxBPN/versions/5ODUlhWa/origins-1.36.5.jar",
    "mode": "strict",
-   "project": "tYolxBPN"
+   "project": "tYolxBPN",
+   "name": "Origins",
+   "version": "1.36.5"
   },
   {
    "path": "mods/originsplus-0.1.3.jar",
@@ -1459,7 +1818,9 @@
    "size": 20446,
    "url": "https://cdn.modrinth.com/data/JmVjH26b/versions/Pcu4yaoG/originsplus-0.1.3.jar",
    "mode": "strict",
-   "project": "JmVjH26b"
+   "project": "JmVjH26b",
+   "name": "Origins+",
+   "version": "0.1.3"
   },
   {
    "path": "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
@@ -1467,14 +1828,18 @@
    "size": 1221583,
    "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/NMCHU6DZ/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
    "mode": "strict",
-   "project": "ccKDOlHs"
+   "project": "ccKDOlHs",
+   "name": "oωo",
+   "version": "0.12.15.5-beta.1+1.21"
   },
   {
    "path": "mods/p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar",
    "sha1": "29bd6951690afce7457f91abf683f7988769dc21",
    "size": 930658,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/29bd6951690afce7457f91abf683f7988769dc21.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "P1nero's Epic Fight Bow",
+   "version": "21.16.1.0-neoforge"
   },
   {
    "path": "mods/ParCool-1.21.1-3.4.3.1-NF.jar",
@@ -1482,7 +1847,9 @@
    "size": 1133660,
    "url": "https://cdn.modrinth.com/data/Fsvx2bdR/versions/48F54T6r/ParCool-1.21.1-3.4.3.1-NF.jar",
    "mode": "strict",
-   "project": "Fsvx2bdR"
+   "project": "Fsvx2bdR",
+   "name": "ParCool!",
+   "version": "3.4.3.1"
   },
   {
    "path": "mods/particular-1.21.1-NeoForge-1.1.7.jar",
@@ -1490,7 +1857,9 @@
    "size": 221535,
    "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/QmW99EbW/particular-1.21.1-NeoForge-1.1.7.jar",
    "mode": "strict",
-   "project": "pYFUU6cq"
+   "project": "pYFUU6cq",
+   "name": "Particular",
+   "version": "1.1.7"
   },
   {
    "path": "mods/Patchouli-1.21.1-93-NEOFORGE.jar",
@@ -1498,7 +1867,9 @@
    "size": 646777,
    "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar",
    "mode": "strict",
-   "project": "nU0bVIaL"
+   "project": "nU0bVIaL",
+   "name": "Patchouli",
+   "version": "1.21.1-93-NEOFORGE"
   },
   {
    "path": "mods/Pehkui-3.8.3+1.21-neoforge.jar",
@@ -1506,7 +1877,9 @@
    "size": 507568,
    "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/nKHizsl6/Pehkui-3.8.3%2B1.21-neoforge.jar",
    "mode": "strict",
-   "project": "t5W7Jfwy"
+   "project": "t5W7Jfwy",
+   "name": "Pehkui",
+   "version": "3.8.3+1.21-neoforge"
   },
   {
    "path": "mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
@@ -1514,7 +1887,9 @@
    "size": 203149,
    "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
    "mode": "strict",
-   "project": "gedNE4y2"
+   "project": "gedNE4y2",
+   "name": "Player Animator",
+   "version": "2.0.4+1.21.1"
   },
   {
    "path": "mods/PresenceFootsteps-1.11.0+1.21.jar",
@@ -1522,7 +1897,9 @@
    "size": 5689995,
    "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/VgtNc4Rg/PresenceFootsteps-1.11.0%2B1.21.jar",
    "mode": "strict",
-   "project": "rcTfTZr3"
+   "project": "rcTfTZr3",
+   "name": "Presence Footsteps",
+   "version": "1.11.0+1.21"
   },
   {
    "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
@@ -1530,7 +1907,9 @@
    "size": 84812,
    "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
    "mode": "strict",
-   "project": "aaRl8GiW"
+   "project": "aaRl8GiW",
+   "name": "PrickleMC",
+   "version": "21.1.11"
   },
   {
    "path": "mods/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
@@ -1538,7 +1917,9 @@
    "size": 52976,
    "url": "https://cdn.modrinth.com/data/IAao6ECB/versions/Gg8lwHYR/pufferfish_unofficial_additions-1.21.1-2.2.8.jar",
    "mode": "strict",
-   "project": "IAao6ECB"
+   "project": "IAao6ECB",
+   "name": "Pufferfish's Unofficial Additions",
+   "version": "2.2.8"
   },
   {
    "path": "mods/puffish_attributes-0.8.3-1.21-neoforge.jar",
@@ -1546,7 +1927,9 @@
    "size": 235542,
    "url": "https://cdn.modrinth.com/data/FCFcFw09/versions/ZySEqrUb/puffish_attributes-0.8.3-1.21-neoforge.jar",
    "mode": "strict",
-   "project": "FCFcFw09"
+   "project": "FCFcFw09",
+   "name": "Pufferfish's Attributes",
+   "version": "0.8.3"
   },
   {
    "path": "mods/puffish_skills-0.19.0-1.21-neoforge.jar",
@@ -1554,7 +1937,9 @@
    "size": 649853,
    "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/PFZY8Vfz/puffish_skills-0.19.0-1.21-neoforge.jar",
    "mode": "strict",
-   "project": "hqQqvaa4"
+   "project": "hqQqvaa4",
+   "name": "Pufferfish's Skills",
+   "version": "0.19.0"
   },
   {
    "path": "mods/rad-gyms-neoforge-0.4.4.jar",
@@ -1562,7 +1947,9 @@
    "size": 956676,
    "url": "https://cdn.modrinth.com/data/eF8kqlHd/versions/mStVpLf6/rad-gyms-neoforge-0.4.4.jar",
    "mode": "strict",
-   "project": "eF8kqlHd"
+   "project": "eF8kqlHd",
+   "name": "Rad Gyms",
+   "version": "0.4.4"
   },
   {
    "path": "mods/Radical Gyms  Structures - RGS.jar",
@@ -1570,14 +1957,18 @@
    "size": 2084581,
    "url": "https://cdn.modrinth.com/data/3sLJoaQH/versions/TWiuaa3o/Radical%20Gyms%20%20Structures%20-%20RGS.jar",
    "mode": "strict",
-   "project": "3sLJoaQH"
+   "project": "3sLJoaQH",
+   "name": "Radical Gyms & Structures - RGS",
+   "version": "1.21"
   },
   {
    "path": "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1-BOGEY-FIX.jar",
    "sha1": "bae7fc2e7679327ca66569a8de3e6e682f377f68",
    "size": 19148612,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/bae7fc2e7679327ca66569a8de3e6e682f377f68.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Create: Steam 'n' Rails 1.21.1",
+   "version": "0.3.0-beta.2+neoforge-mc1.21.1"
   },
   {
    "path": "mods/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar",
@@ -1585,7 +1976,9 @@
    "size": 163099,
    "url": "https://cdn.modrinth.com/data/AqaIIO6D/versions/WxNYN3Zh/ranged_weapon_api-neoforge-3.0.0%2B1.21.1.jar",
    "mode": "strict",
-   "project": "AqaIIO6D"
+   "project": "AqaIIO6D",
+   "name": "RangedWeaponAPI",
+   "version": "3.0.0+1.21.1"
   },
   {
    "path": "mods/rctapi-neoforge-1.21.1-0.15.2-beta.jar",
@@ -1593,7 +1986,9 @@
    "size": 235207,
    "url": "https://cdn.modrinth.com/data/CBfM2yw7/versions/zpphgptV/rctapi-neoforge-1.21.1-0.15.2-beta.jar",
    "mode": "strict",
-   "project": "CBfM2yw7"
+   "project": "CBfM2yw7",
+   "name": "Radical Cobblemon Trainers API",
+   "version": "0.15.2-beta"
   },
   {
    "path": "mods/rctmod-neoforge-1.21.1-0.18.1-beta.jar",
@@ -1601,7 +1996,9 @@
    "size": 7536984,
    "url": "https://cdn.modrinth.com/data/lRwTUnD7/versions/qyxrdzND/rctmod-neoforge-1.21.1-0.18.1-beta.jar",
    "mode": "strict",
-   "project": "lRwTUnD7"
+   "project": "lRwTUnD7",
+   "name": "Radical Cobblemon Trainers",
+   "version": "0.18.1-beta"
   },
   {
    "path": "mods/rechiseled-1.2.6-neoforge-mc1.21.jar",
@@ -1609,7 +2006,9 @@
    "size": 11526036,
    "url": "https://cdn.modrinth.com/data/B0g2vT6l/versions/6muGRqvu/rechiseled-1.2.6-neoforge-mc1.21.jar",
    "mode": "strict",
-   "project": "B0g2vT6l"
+   "project": "B0g2vT6l",
+   "name": "Rechiseled",
+   "version": "1.2.6"
   },
   {
    "path": "mods/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
@@ -1617,7 +2016,9 @@
    "size": 983177,
    "url": "https://cdn.modrinth.com/data/E6867niZ/versions/VnOezhJR/rechiseledcreate-1.1.1-neoforge-mc1.21.jar",
    "mode": "strict",
-   "project": "E6867niZ"
+   "project": "E6867niZ",
+   "name": "Rechiseled: Create",
+   "version": "1.1.1"
   },
   {
    "path": "mods/refm-0.3.13-1.21.1.jar",
@@ -1625,7 +2026,9 @@
    "size": 2841260,
    "url": "https://cdn.modrinth.com/data/ivpOJhFM/versions/LxlqLOD2/refm-0.3.13-1.21.1.jar",
    "mode": "strict",
-   "project": "ivpOJhFM"
+   "project": "ivpOJhFM",
+   "name": "Rapier For EpicFightMod",
+   "version": "0.3.13-1.21.1"
   },
   {
    "path": "mods/resourcefullib-neoforge-1.21-3.0.12.jar",
@@ -1633,14 +2036,18 @@
    "size": 484332,
    "url": "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar",
    "mode": "strict",
-   "project": "G1hIVOrD"
+   "project": "G1hIVOrD",
+   "name": "Resourceful Lib",
+   "version": "3.0.12"
   },
   {
    "path": "mods/riseandshine-1.3.0-neoforge-1.21.1.jar",
    "sha1": "631ff71d8849d1d453d1dc256633d03d3684980e",
    "size": 225057,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/631ff71d8849d1d453d1dc256633d03d3684980e.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "RiseAndShine",
+   "version": "1.0.0"
   },
   {
    "path": "mods/rpg_attribute_system-neoforge-1.21.1-4.2.4.jar",
@@ -1648,7 +2055,9 @@
    "size": 3450305,
    "url": "https://cdn.modrinth.com/data/d85UTOuq/versions/dXokSuel/rpg_attribute_system-neoforge-1.21.1-4.2.4.jar",
    "mode": "strict",
-   "project": "d85UTOuq"
+   "project": "d85UTOuq",
+   "name": "RPG Attribute System",
+   "version": "4.2.4"
   },
   {
    "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
@@ -1656,7 +2065,9 @@
    "size": 12986136,
    "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar",
    "mode": "strict",
-   "project": "T9PomCSv"
+   "project": "T9PomCSv",
+   "name": "Sable",
+   "version": "2.0.5"
   },
   {
    "path": "mods/SafePastures-1.1.1+1.21.1.jar",
@@ -1664,7 +2075,9 @@
    "size": 8154,
    "url": "https://cdn.modrinth.com/data/qpe01spE/versions/s58N9Vy1/SafePastures-1.1.1%2B1.21.1.jar",
    "mode": "strict",
-   "project": "qpe01spE"
+   "project": "qpe01spE",
+   "name": "Safe Pastures",
+   "version": "1.1.1+1.21.1"
   },
   {
    "path": "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
@@ -1672,7 +2085,9 @@
    "size": 77326,
    "url": "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar",
    "mode": "strict",
-   "project": "fuuu3xnx"
+   "project": "fuuu3xnx",
+   "name": "Searchables",
+   "version": "1.0.2"
   },
   {
    "path": "mods/shield_api-neoforge-2.2.0.jar",
@@ -1680,7 +2095,9 @@
    "size": 45428,
    "url": "https://cdn.modrinth.com/data/y9clIFY4/versions/fgK2cNYi/shield_api-neoforge-2.2.0.jar",
    "mode": "strict",
-   "project": "y9clIFY4"
+   "project": "y9clIFY4",
+   "name": "ShieldAPI",
+   "version": "2.2.0"
   },
   {
    "path": "mods/shulkerboxtooltip-neoforge-5.1.8+1.21.1.jar",
@@ -1688,7 +2105,9 @@
    "size": 379809,
    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/EXXWm5xF/shulkerboxtooltip-neoforge-5.1.8%2B1.21.1.jar",
    "mode": "strict",
-   "project": "2M01OLQq"
+   "project": "2M01OLQq",
+   "name": "ShulkerBoxTooltip",
+   "version": "5.1.8+1.21.1"
   },
   {
    "path": "mods/SimplyBows-neoforge-0.1.4-1.21.1.jar",
@@ -1696,7 +2115,9 @@
    "size": 4058689,
    "url": "https://cdn.modrinth.com/data/lkqOlxmM/versions/nvw0Xq1g/SimplyBows-neoforge-0.1.4-1.21.1.jar",
    "mode": "strict",
-   "project": "lkqOlxmM"
+   "project": "lkqOlxmM",
+   "name": "Simply Bows",
+   "version": "0.1.4"
   },
   {
    "path": "mods/simplymore-neoforge-1.3.0_alpha5+1.21.1.jar",
@@ -1704,7 +2125,9 @@
    "size": 1806461,
    "url": "https://cdn.modrinth.com/data/zhpyD8Y0/versions/ZPX1C3yg/simplymore-neoforge-1.3.0_alpha5%2B1.21.1.jar",
    "mode": "strict",
-   "project": "zhpyD8Y0"
+   "project": "zhpyD8Y0",
+   "name": "Simply More",
+   "version": "1.3.0_alpha"
   },
   {
    "path": "mods/simplyswords-neoforge-1.70.2-1.21.1.jar",
@@ -1712,7 +2135,9 @@
    "size": 16282660,
    "url": "https://cdn.modrinth.com/data/bK3Ubu9p/versions/nS0Yahr5/simplyswords-neoforge-1.70.2-1.21.1.jar",
    "mode": "strict",
-   "project": "bK3Ubu9p"
+   "project": "bK3Ubu9p",
+   "name": "Simply Swords",
+   "version": "1.70.2-1.21.1"
   },
   {
    "path": "mods/SimplyTooltips-neoforge-0.1.5.jar",
@@ -1720,7 +2145,9 @@
    "size": 5512986,
    "url": "https://cdn.modrinth.com/data/6avVoBVB/versions/Zb6dytvm/SimplyTooltips-neoforge-0.1.5.jar",
    "mode": "strict",
-   "project": "6avVoBVB"
+   "project": "6avVoBVB",
+   "name": "Simply Tooltips",
+   "version": "0.1.5"
   },
   {
    "path": "mods/sim_copycats-1.3.2.jar",
@@ -1728,14 +2155,18 @@
    "size": 388184,
    "url": "https://cdn.modrinth.com/data/NYBH9vVY/versions/6zbD44Qe/sim_copycats-1.3.2.jar",
    "mode": "strict",
-   "project": "NYBH9vVY"
+   "project": "NYBH9vVY",
+   "name": "Aeronautics: Simulated Copycats",
+   "version": "1.3.2"
   },
   {
    "path": "mods/SL-Library-1.6.3-1.21.1+[NeoForge].jar",
    "sha1": "a9e830c6105b5017eb558c6cdb28f185906d0826",
    "size": 443628,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/a9e830c6105b5017eb558c6cdb28f185906d0826.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "SL Library",
+   "version": "1.6.3"
   },
   {
    "path": "mods/sliceanddice-4.3.3-neoforge.jar",
@@ -1743,21 +2174,27 @@
    "size": 1354014,
    "url": "https://cdn.modrinth.com/data/GmjmRQ0A/versions/N67LJgrN/sliceanddice-4.3.3-neoforge.jar",
    "mode": "strict",
-   "project": "GmjmRQ0A"
+   "project": "GmjmRQ0A",
+   "name": "Create Slice & Dice",
+   "version": "4.3.3"
   },
   {
    "path": "mods/SLM-EpicFight-1.3.1-1.21.1+[NeoForge].jar",
    "sha1": "eda3e828e9a48d6e5a5bfe6cf632dd24649f522d",
    "size": 308023,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/eda3e828e9a48d6e5a5bfe6cf632dd24649f522d.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "SLM: Epic Fight",
+   "version": "1.3.1"
   },
   {
    "path": "mods/SLM-Shaders-2.2.2-1.21.1+[NeoForge].jar",
    "sha1": "2c5bc78ae40939b78d9e21451beec64f87fd6a2b",
    "size": 426085,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2c5bc78ae40939b78d9e21451beec64f87fd6a2b.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "SLM: Shader",
+   "version": "2.2.2"
   },
   {
    "path": "mods/slot-customization-api-2.2.0.jar",
@@ -1765,14 +2202,18 @@
    "size": 39941,
    "url": "https://cdn.modrinth.com/data/QYZ7JTtD/versions/gmw3vjBv/slot-customization-api-2.2.0.jar",
    "mode": "strict",
-   "project": "QYZ7JTtD"
+   "project": "QYZ7JTtD",
+   "name": "Slot Customization API",
+   "version": "2.2.0"
   },
   {
    "path": "mods/slu_9992.3.1.21.1-Remade-PERFORMANCE-PATCH-v2.jar",
    "sha1": "84d794b294685ec108e8b5193b5b6cf325189390",
    "size": 101490641,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/84d794b294685ec108e8b5193b5b6cf325189390.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "souls like universe",
+   "version": "9982.3.1.21.1"
   },
   {
    "path": "mods/sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
@@ -1780,7 +2221,9 @@
    "size": 465013,
    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/iJsZtWpc/sodium-extra-neoforge-0.9.3%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "PtjYWJkn"
+   "project": "PtjYWJkn",
+   "name": "Sodium Extra",
+   "version": "0.9.3+mc1.21.1"
   },
   {
    "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
@@ -1788,7 +2231,9 @@
    "size": 1292934,
    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
    "mode": "strict",
-   "project": "AANobbMI"
+   "project": "AANobbMI",
+   "name": "Sodium",
+   "version": "0.8.13+mc1.21.1"
   },
   {
    "path": "mods/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
@@ -1796,7 +2241,9 @@
    "size": 1251706,
    "url": "https://cdn.modrinth.com/data/TyCTlI4b/versions/AhPnzNtJ/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
    "mode": "strict",
-   "project": "TyCTlI4b"
+   "project": "TyCTlI4b",
+   "name": "Sophisticated Backpacks",
+   "version": "3.26.3"
   },
   {
    "path": "mods/sophisticatedcore-1.21.1-1.5.1.2341.jar",
@@ -1804,7 +2251,9 @@
    "size": 1785221,
    "url": "https://cdn.modrinth.com/data/nmoqTijg/versions/PXl6rB3q/sophisticatedcore-1.21.1-1.5.1.2341.jar",
    "mode": "strict",
-   "project": "nmoqTijg"
+   "project": "nmoqTijg",
+   "name": "Sophisticated Core",
+   "version": "1.5.1"
   },
   {
    "path": "mods/spark-1.10.124-neoforge.jar",
@@ -1812,7 +2261,9 @@
    "size": 3642581,
    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
    "mode": "strict",
-   "project": "l6YH9Als"
+   "project": "l6YH9Als",
+   "name": "spark",
+   "version": "1.10.124"
   },
   {
    "path": "mods/starterkit-1.21.1-8.1.jar",
@@ -1820,7 +2271,9 @@
    "size": 273623,
    "url": "https://cdn.modrinth.com/data/6L3ydNi8/versions/OUsoZwOx/starterkit-1.21.1-8.1.jar",
    "mode": "strict",
-   "project": "6L3ydNi8"
+   "project": "6L3ydNi8",
+   "name": "Starter Kit",
+   "version": "8.1"
   },
   {
    "path": "mods/structure_pool_api-neoforge-1.2.1+1.21.1.jar",
@@ -1828,7 +2281,9 @@
    "size": 140459,
    "url": "https://cdn.modrinth.com/data/LrYZi08Q/versions/kdWVYKdx/structure_pool_api-neoforge-1.2.1%2B1.21.1.jar",
    "mode": "strict",
-   "project": "LrYZi08Q"
+   "project": "LrYZi08Q",
+   "name": "Structure Pool API",
+   "version": "1.2.1+1.21.1"
   },
   {
    "path": "mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
@@ -1836,7 +2291,9 @@
    "size": 207514,
    "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/qKL9jM75/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
    "mode": "strict",
-   "project": "LN9BxssP"
+   "project": "LN9BxssP",
+   "name": "SuperMartijn642's Config Library",
+   "version": "1.1.8"
   },
   {
    "path": "mods/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
@@ -1844,7 +2301,9 @@
    "size": 560783,
    "url": "https://cdn.modrinth.com/data/rOUBggPv/versions/81s25oaA/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar",
    "mode": "strict",
-   "project": "rOUBggPv"
+   "project": "rOUBggPv",
+   "name": "SuperMartijn642's Core Lib",
+   "version": "1.1.24"
   },
   {
    "path": "mods/swingthrough-1.0.5+1.21.jar",
@@ -1852,14 +2311,18 @@
    "size": 23523,
    "url": "https://cdn.modrinth.com/data/JyKlunuD/versions/ELQQ49mK/swingthrough-1.0.5%2B1.21.jar",
    "mode": "strict",
-   "project": "JyKlunuD"
+   "project": "JyKlunuD",
+   "name": "SwingThrough",
+   "version": "1.0.5+1.21"
   },
   {
    "path": "mods/sword_soaring-21.14.2.5-mc1.21.1-neoforge-EF21.17-PATCHED-v17-HOOKS-FIX.jar",
    "sha1": "3d8e0846746328d793fdf1d7d96ff1537e7f4096",
    "size": 18528110,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/3d8e0846746328d793fdf1d7d96ff1537e7f4096.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Epic Fight - Sword Soaring",
+   "version": "21.14.2.5"
   },
   {
    "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
@@ -1867,7 +2330,9 @@
    "size": 120365,
    "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
    "mode": "strict",
-   "project": "kkmrDlKT"
+   "project": "kkmrDlKT",
+   "name": "TerraBlender",
+   "version": "4.1.0.8"
   },
   {
    "path": "mods/Terralith_1.21.1_v2.6.2_Neoforge.jar",
@@ -1875,7 +2340,9 @@
    "size": 2814865,
    "url": "https://cdn.modrinth.com/data/8oi3bsk5/versions/IY93YaEe/Terralith_1.21.1_v2.6.2_Neoforge.jar",
    "mode": "strict",
-   "project": "8oi3bsk5"
+   "project": "8oi3bsk5",
+   "name": "Terralith",
+   "version": "2.6.2"
   },
   {
    "path": "mods/tidal-towns-1.3.4.jar",
@@ -1883,7 +2350,9 @@
    "size": 110050,
    "url": "https://cdn.modrinth.com/data/EEIwvQVo/versions/xWUN0cml/tidal-towns-1.3.4.jar",
    "mode": "strict",
-   "project": "EEIwvQVo"
+   "project": "EEIwvQVo",
+   "name": "Tidal Towns",
+   "version": "1.3.4"
   },
   {
    "path": "mods/timcore-neoforge-1.7.3-1.32.0.jar",
@@ -1891,7 +2360,9 @@
    "size": 306328,
    "url": "https://cdn.modrinth.com/data/lVP9aUaY/versions/QQO61rRS/timcore-neoforge-1.7.3-1.32.0.jar",
    "mode": "strict",
-   "project": "lVP9aUaY"
+   "project": "lVP9aUaY",
+   "name": "Tim Core",
+   "version": "1.7.3-neoforge-1.32.0"
   },
   {
    "path": "mods/tipsmod-neoforge-1.21.1-21.1.3.jar",
@@ -1899,7 +2370,9 @@
    "size": 121037,
    "url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/dFBz1Le7/tipsmod-neoforge-1.21.1-21.1.3.jar",
    "mode": "strict",
-   "project": "AMCbgyVw"
+   "project": "AMCbgyVw",
+   "name": "Tips",
+   "version": "21.1.3"
   },
   {
    "path": "mods/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
@@ -1907,14 +2380,18 @@
    "size": 574348,
    "url": "https://cdn.modrinth.com/data/vRFcG5n6/versions/dJSHREVC/tooltipoverhaul-neoforge-1.21.1-1.5.1.jar",
    "mode": "strict",
-   "project": "vRFcG5n6"
+   "project": "vRFcG5n6",
+   "name": "Tooltip overhaul",
+   "version": "1.5.1"
   },
   {
    "path": "mods/tundradragon-1.5.0-neoforge-1.21.1.jar",
    "sha1": "fa257258e47576caf69f20dc13916de0528480ad",
    "size": 445050,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/fa257258e47576caf69f20dc13916de0528480ad.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Tundra Dragon (Add-on for Dragon Survival)",
+   "version": "1.0.0"
   },
   {
    "path": "mods/t_and_t-fabric-neoforge-1.13.11.jar",
@@ -1922,7 +2399,9 @@
    "size": 3553006,
    "url": "https://cdn.modrinth.com/data/DjLobEOy/versions/DZxwgj6V/t_and_t-fabric-neoforge-1.13.11.jar",
    "mode": "strict",
-   "project": "DjLobEOy"
+   "project": "DjLobEOy",
+   "name": "Towns and Towers",
+   "version": "1.13.11"
   },
   {
    "path": "mods/UniLib-1.2.0+1.21.1-neoforge.jar",
@@ -1930,14 +2409,18 @@
    "size": 1554796,
    "url": "https://cdn.modrinth.com/data/nT86WUER/versions/ttMoPNqh/UniLib-1.2.0%2B1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "nT86WUER"
+   "project": "nT86WUER",
+   "name": "UniLib",
+   "version": "1.2.0"
   },
   {
    "path": "mods/Vampirism-1.21-1.10.13.jar",
    "sha1": "349b6e4ea893c98a580775b1725399903e222228",
    "size": 12478474,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/349b6e4ea893c98a580775b1725399903e222228.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Vampirism",
+   "version": "1.10.13"
   },
   {
    "path": "mods/VeggiesDelight-1.21.1-1.9.3.jar",
@@ -1945,7 +2428,9 @@
    "size": 565293,
    "url": "https://cdn.modrinth.com/data/emQ94xri/versions/9LiRnALb/VeggiesDelight-1.21.1-1.9.3.jar",
    "mode": "strict",
-   "project": "emQ94xri"
+   "project": "emQ94xri",
+   "name": "Veggies Delight",
+   "version": "1.9.3"
   },
   {
    "path": "mods/village_taverns-neoforge-1.3.0+1.21.1.jar",
@@ -1953,7 +2438,9 @@
    "size": 132922,
    "url": "https://cdn.modrinth.com/data/bj4a8NjJ/versions/qhOcjQ6u/village_taverns-neoforge-1.3.0%2B1.21.1.jar",
    "mode": "strict",
-   "project": "bj4a8NjJ"
+   "project": "bj4a8NjJ",
+   "name": "Village Taverns (RPG Series)",
+   "version": "1.3.0"
   },
   {
    "path": "mods/visuality-forge-2.1.0.jar",
@@ -1961,7 +2448,9 @@
    "size": 115765,
    "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/ZBidwV02/visuality-forge-2.1.0.jar",
    "mode": "strict",
-   "project": "z13R7Et1"
+   "project": "z13R7Et1",
+   "name": "Visuality: Reforged",
+   "version": "2.1.0"
   },
   {
    "path": "mods/wakes-1.21.1-NeoForge-1.4.1.jar",
@@ -1969,7 +2458,9 @@
    "size": 222430,
    "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/Z3Ic8n5N/wakes-1.21.1-NeoForge-1.4.1.jar",
    "mode": "strict",
-   "project": "E0SdeAoH"
+   "project": "E0SdeAoH",
+   "name": "Wakes",
+   "version": "1.4.1"
   },
   {
    "path": "mods/Wayfinder-NeoForge-1.2.0-mc1.21.1.jar",
@@ -1977,7 +2468,9 @@
    "size": 1955900,
    "url": "https://cdn.modrinth.com/data/909sOSOR/versions/fCIYaJhQ/Wayfinder-NeoForge-1.2.0-mc1.21.1.jar",
    "mode": "strict",
-   "project": "909sOSOR"
+   "project": "909sOSOR",
+   "name": "Wayfinder",
+   "version": "1.2.0"
   },
   {
    "path": "mods/waystones-neoforge-1.21.1-21.1.44.jar",
@@ -1985,7 +2478,9 @@
    "size": 1219792,
    "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/XKHZmiJm/waystones-neoforge-1.21.1-21.1.44.jar",
    "mode": "strict",
-   "project": "LOpKHB2A"
+   "project": "LOpKHB2A",
+   "name": "Waystones",
+   "version": "21.1.44"
   },
   {
    "path": "mods/WeaponsOfMiracles-2.0.178.jar",
@@ -1993,7 +2488,9 @@
    "size": 20941584,
    "url": "https://cdn.modrinth.com/data/oWx9p4ug/versions/9A6sb3T8/WeaponsOfMiracles-2.0.178.jar",
    "mode": "strict",
-   "project": "oWx9p4ug"
+   "project": "oWx9p4ug",
+   "name": "Weapons of miracle",
+   "version": "2.0.178"
   },
   {
    "path": "mods/Werewolves-1.21-2.0.3.3.jar",
@@ -2001,21 +2498,27 @@
    "size": 2297879,
    "url": "https://cdn.modrinth.com/data/3ElBohKg/versions/zkd687ts/Werewolves-1.21-2.0.3.3.jar",
    "mode": "strict",
-   "project": "3ElBohKg"
+   "project": "3ElBohKg",
+   "name": "Werewolves",
+   "version": "2.0.3.3"
   },
   {
    "path": "mods/wind_spellbooks-1.0.5.jar",
    "sha1": "8744886899bc245ae147a44baa2b183689cec7da",
    "size": 459532,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/8744886899bc245ae147a44baa2b183689cec7da.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "Wind's Spellbooks : Iron's Spells 'n Spellbooks Addon",
+   "version": "1.0.5"
   },
   {
    "path": "mods/world-bosses-neoforge-1.21.1-1.4.1.jar",
    "sha1": "808672f7772d2897f228dd05d64374b18a93ccfe",
    "size": 988865,
    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/808672f7772d2897f228dd05d64374b18a93ccfe.jar",
-   "mode": "strict"
+   "mode": "strict",
+   "name": "World Bosses",
+   "version": "1.4.1"
   },
   {
    "path": "mods/worldedit-mod-7.3.8.jar",
@@ -2023,7 +2526,9 @@
    "size": 6222854,
    "url": "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar",
    "mode": "strict",
-   "project": "1u6JkXh5"
+   "project": "1u6JkXh5",
+   "name": "WorldEdit",
+   "version": "7.3.8+6939-7d32b45"
   },
   {
    "path": "mods/wthit-1.21.1-neo-12.10.2.jar",
@@ -2031,7 +2536,9 @@
    "size": 863316,
    "url": "https://cdn.modrinth.com/data/6AQIaxuO/versions/IeXnWQRE/wthit-1.21.1-neo-12.10.2.jar",
    "mode": "strict",
-   "project": "6AQIaxuO"
+   "project": "6AQIaxuO",
+   "name": "wthit",
+   "version": "12.10.2"
   },
   {
    "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -2039,7 +2546,9 @@
    "size": 1118651,
    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
    "mode": "strict",
-   "project": "1eAoo2KR"
+   "project": "1eAoo2KR",
+   "name": "YetAnotherConfigLib",
+   "version": "3.8.2+1.21.1-neoforge"
   },
   {
    "path": "resourcepacks/Alacrity.zip",
@@ -23689,15 +24198,15 @@
   ]
  },
  "launcher": {
-  "version": "1.1.2",
-  "sha1": "0fc7da49ada2966011fcd975a268454d1124225b",
-  "size": 28049787,
+  "version": "1.2.0",
+  "sha1": "d75717ef318d152f5f0356bc4f006a1655121d31",
+  "size": 28092903,
   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/launcher/AlantriaLauncher.exe"
  },
  "test": {
   "name": "Dao Ascendant test build",
   "version": "0.1.0-test1",
-  "notes": "Dao Ascendant test build 0.1.0-test1 (update 2)\n  • New in this update: much faster city generation.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Less than that makes the game freeze and can crash it without a crash report.\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server, and your normal Alantria instance is untouched.\n  • Create a new Survival world with Allow Cheats ON.\n  • Open the Tester guide (left) for how the mod plays, the terms, shortcut commands and the list of things to test in order.\n  • Placeholder art: judge the mechanics, not the looks.\n  • Report bugs with what you did, what happened and what you expected. Crashes: send the newest file in crash-reports and logs/latest.log (Open game folder).",
+  "notes": "Dao Ascendant test build 0.1.0-test1 (update 2)\n  • New in this update: much faster city generation.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Less than that makes the game freeze and can crash it without a crash report.\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server, and your normal Alantria instance is untouched.\n  • Create a new Survival world with Allow Cheats ON.\n  • Open the Tester guide (the book button, top right) for how the mod plays, the terms, shortcut commands and the list of things to test in order.\n  • Placeholder art: judge the mechanics, not the looks.\n  • Report bugs with what you did, what happened and what you expected. Crashes: send the newest file in crash-reports and logs/latest.log (Open game folder).",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
@@ -23705,7 +24214,9 @@
     "sha1": "223bcbbf19118902113c377ecb0e91fe7cfad2b7",
     "size": 2844978,
     "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/223bcbbf19118902113c377ecb0e91fe7cfad2b7.jar",
-    "mode": "strict"
+    "mode": "strict",
+    "name": "Dao Ascendant: The Path to Immortality",
+    "version": "0.1.0"
    }
   ]
  }

@@ -9,9 +9,9 @@ grand versions come later. Please judge **whether things work and feel right**, 
 
 ## 1. Installing (the launcher's Test instance tab)
 
-1. Open the **Alantria Launcher**. It offers an update to version 1.1.0: accept it.
-2. On the left, click **🧪 Test instance**. The news panel shows this build's notes, and **📖 Tester guide** opens
-   this guide.
+1. Open the **Alantria Launcher**. If it offers an update (version 1.2.0), accept it.
+2. On the left, click **Test instance** (the flask icon). The notes panel shows this build's notes, and the
+   **book button** at the top right opens this guide.
 3. Press **PLAY**. The first time, the launcher sets up a separate test instance: the whole Alantria pack plus
    Dao Ascendant. It copies what it can from your normal instance, so it's mostly quick. This instance never joins
    the server, and your normal Alantria instance stays untouched.
