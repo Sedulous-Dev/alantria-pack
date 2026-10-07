@@ -23689,9 +23689,9 @@
   ]
  },
  "launcher": {
-  "version": "1.1.1",
-  "sha1": "8602ac690ce311437522f608d3ba51d18dd6a332",
-  "size": 24242677,
+  "version": "1.1.2",
+  "sha1": "0fc7da49ada2966011fcd975a268454d1124225b",
+  "size": 28049787,
   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/launcher/AlantriaLauncher.exe"
  },
  "test": {
