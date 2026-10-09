@@ -1,0 +1,57 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_badlands",
+     "#c:is_desert",
+     "#c:is_wasteland"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:monster_crusader",
+   "weight": 70,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:thief",
+   "weight": 70,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:monster_crucible_knight",
+   "weight": 18,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:monster_crucible_knight_2",
+   "weight": 17,
+   "minCount": 1,
+   "maxCount": 1
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_plains",
+     "#c:is_forest",
+     "#c:is_taiga",
+     "#c:is_swamp",
+     "#c:is_savanna"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:hollow",
+   "weight": 12,
+   "minCount": 1,
+   "maxCount": 3
+  },
+  {
+   "type": "slu:armed_hollow",
+   "weight": 8,
+   "minCount": 1,
+   "maxCount": 3
+  },
+  {
+   "type": "slu:hollow_soldier_sword",
+   "weight": 5,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:hollow_soldier_spear",
+   "weight": 5,
+   "minCount": 1,
+   "maxCount": 2
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_plains",
+     "#c:is_forest",
+     "#c:is_taiga",
+     "#c:is_mountain",
+     "#c:is_stony_shores"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:dark_spirit",
+   "weight": 1,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:havel",
+   "weight": 1,
+   "minCount": 1,
+   "maxCount": 1
+  }
+ ]
+}

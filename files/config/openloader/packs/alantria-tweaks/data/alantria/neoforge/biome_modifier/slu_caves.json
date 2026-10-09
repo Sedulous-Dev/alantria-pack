@@ -1,0 +1,50 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_cave",
+     "#c:is_underground"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:dungeon_knight",
+   "weight": 30,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:elite_knight",
+   "weight": 16,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:patches",
+   "weight": 8,
+   "minCount": 1,
+   "maxCount": 1
+  }
+ ]
+}

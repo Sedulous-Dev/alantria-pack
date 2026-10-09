@@ -236,9 +236,9 @@ key_key.craftingtweaks.refill_last:key.keyboard.tab:CONTROL
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_key.invincible.key1:key.mouse.left
-key_key.invincible.key2:key.keyboard.unknown
-key_key.invincible.key3:key.keyboard.unknown
-key_key.invincible.key4:key.keyboard.unknown
+key_key.invincible.key2:key.mouse.right
+key_key.invincible.key3:key.mouse.5
+key_key.invincible.key4:key.keyboard.b
 key_key.sword_soaring.take_off:key.keyboard.space
 key_key.sword_soaring.switch_mode:key.keyboard.r:CONTROL
 key_key.sword_soaring.acceleration:key.keyboard.space

@@ -1,0 +1,37 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawn_costs",
+ "biomes": {
+  "type": "neoforge:or",
+  "values": [
+   "#c:is_overworld",
+   "#c:is_nether"
+  ]
+ },
+ "entity_types": [
+  "slu:bad_omen_giant",
+  "slu:elite_knight",
+  "slu:executor",
+  "slu:havel",
+  "slu:magma_giant",
+  "slu:monster_crucible_knight",
+  "slu:monster_crucible_knight_2",
+  "slu:monster_godrick_knight",
+  "slu:monster_successor",
+  "slu:monster_tower_knight",
+  "slu:nightmare_knight"
+ ],
+ "spawn_cost": {
+  "energy_budget": 0.4,
+  "charge": 2.0
+ }
+}

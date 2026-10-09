@@ -1,0 +1,68 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_spooky",
+     "#c:is_dead"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:mad_knight",
+   "weight": 60,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:dark_knight",
+   "weight": 50,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:twisted_souls",
+   "weight": 45,
+   "minCount": 1,
+   "maxCount": 3
+  },
+  {
+   "type": "slu:shadow_assassin",
+   "weight": 30,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:executor",
+   "weight": 15,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:nightmare_knight",
+   "weight": 10,
+   "minCount": 1,
+   "maxCount": 1
+  }
+ ]
+}

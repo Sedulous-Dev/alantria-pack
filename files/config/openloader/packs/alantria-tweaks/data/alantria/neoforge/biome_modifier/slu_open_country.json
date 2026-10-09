@@ -1,0 +1,62 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_plains",
+     "#c:is_floral"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:knight",
+   "weight": 6,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:castle_guard",
+   "weight": 6,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:noble_knight",
+   "weight": 4,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:elite_knight",
+   "weight": 2,
+   "minCount": 1,
+   "maxCount": 1
+  },
+  {
+   "type": "slu:bad_omen_giant",
+   "weight": 1,
+   "minCount": 1,
+   "maxCount": 1
+  }
+ ]
+}

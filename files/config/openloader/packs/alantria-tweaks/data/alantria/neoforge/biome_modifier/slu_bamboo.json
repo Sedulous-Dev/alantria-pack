@@ -1,0 +1,45 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawns",
+ "biomes": {
+  "type": "neoforge:and",
+  "values": [
+   "#c:is_overworld",
+   {
+    "type": "neoforge:or",
+    "values": [
+     "#c:is_jungle",
+     "minecraft:cherry_grove",
+     "minecraft:bamboo_jungle"
+    ]
+   },
+   {
+    "type": "neoforge:not",
+    "value": "#c:no_default_monsters"
+   }
+  ]
+ },
+ "spawners": [
+  {
+   "type": "slu:ghost_samurai",
+   "weight": 110,
+   "minCount": 1,
+   "maxCount": 2
+  },
+  {
+   "type": "slu:shadow_assassin",
+   "weight": 90,
+   "minCount": 1,
+   "maxCount": 2
+  }
+ ]
+}

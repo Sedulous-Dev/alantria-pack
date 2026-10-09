@@ -1,0 +1,49 @@
+{
+ "neoforge:conditions": [
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "slu"
+  },
+  {
+   "type": "neoforge:mod_loaded",
+   "modid": "daoascendant"
+  }
+ ],
+ "type": "neoforge:add_spawn_costs",
+ "biomes": {
+  "type": "neoforge:or",
+  "values": [
+   "#c:is_overworld",
+   "#c:is_nether"
+  ]
+ },
+ "entity_types": [
+  "slu:armed_hollow",
+  "slu:castle_guard",
+  "slu:dark_knight",
+  "slu:dark_spirit",
+  "slu:dungeon_knight",
+  "slu:ghost_samurai",
+  "slu:hollow",
+  "slu:hollow_knight",
+  "slu:hollow_soldier_spear",
+  "slu:hollow_soldier_sword",
+  "slu:knight",
+  "slu:mad_knight",
+  "slu:monster_blasphemy_knight",
+  "slu:monster_crusader",
+  "slu:monster_godrick_soldier",
+  "slu:noble_knight",
+  "slu:patches",
+  "slu:ringed_knight",
+  "slu:shadow_assassin",
+  "slu:temple_guard",
+  "slu:thief",
+  "slu:twisted_souls",
+  "slu:wither_skeleton_knight"
+ ],
+ "spawn_cost": {
+  "energy_budget": 0.4,
+  "charge": 1.0
+ }
+}
