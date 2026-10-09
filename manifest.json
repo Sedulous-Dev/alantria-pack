@@ -25830,15 +25830,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test2",
-  "notes": "Dao Ascendant test build 0.1.0-test2\n  • New controls: tap R to use your Dao ability, hold R for the ability wheel. K opens the cultivation menu. In the launcher, open Controls and press Apply Alantria layout for the whole new key layout (your old keys are backed up).\n  • Merchants and healers now turn you away when your aura is Demonic. A Concealment Talisman hides it.\n  • /dao set @s lotus 9 now unlocks the lotus skills right away.\n  • Sneak + use on the Spirit Gathering Array (tribulation), the Ascension Altar and parkour checkpoints now works with items in your hands.\n  • Townsfolk appear within 2 seconds when you reach a great city.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB).\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server.\n  • Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) explains how the mod plays and what to test.\n  • Placeholder art: judge the mechanics, not the looks.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test3",
+  "notes": "Dao Ascendant test build 0.1.0-test3\n  • Every realm and sect art plays its own move and its own 3D effect, landing on the blow. The tiger, dragon and crane arts call their spirit beasts.\n  • Eight Chinese weapons, each with a full moveset (V heavy, Z / X / C skills, mouse 5 arts, right click guards), in every material up to Dao steel; the five sects' signature weapons.\n  • Leaps (hold Alt + Space, let go), Gathering in 3D (hold Ctrl + E), formations round your home.\n  • The Great City now stands behind walls with 8 gates, in its own world: homes to buy and build up, inn rooms, sedan chairs, the five sects' headquarters. Use a NEW world.\n  • World bosses, the Heavenly Ranking, sect wars, and Elder Shen's guided first hour.\n  • Many new ways to train the pillars; they open again every 4 in-game days.\n  • Every spell has its own 3D effect and casting animation; Mythic spells mark the land.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB).\n  • This tab installs the whole Alantria pack plus Dao Ascendant into its own folder, for SOLO worlds. It never joins the server.\n  • Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Placeholder textures and buildings: judge the mechanics, moves and effects, not the textures.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "625a813f9d861b9061a17b79db1395e2b9ba0bcf",
-    "size": 2896505,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/625a813f9d861b9061a17b79db1395e2b9ba0bcf.jar",
+    "sha1": "a322a9776539a0ef1d948595cd6239a23e2330c9",
+    "size": 37387853,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/a322a9776539a0ef1d948595cd6239a23e2330c9.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"

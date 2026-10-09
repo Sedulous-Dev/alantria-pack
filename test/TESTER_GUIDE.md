@@ -1,28 +1,29 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test1)
+# Dao Ascendant: tester guide (test build 0.1.0-test3)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
-mechanics are all there, but the looks aren't: textures, skins, buildings and animations are placeholders, and the
-grand versions come later. Please judge **whether things work and feel right**, not how pretty they are.
+mechanics are all there, but the looks aren't finished: textures, skins and many buildings are placeholders, and the
+grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
+right**, and tell us which moves and effects look great or poor.
 
 ---
 
 ## 1. Installing (the launcher's Test instance tab)
 
-1. Open the **Alantria Launcher**. If it offers an update (version 1.2.0), accept it.
+1. Open the **Alantria Launcher**. If it offers an update, accept it.
 2. On the left, click **Test instance** (the flask icon). The notes panel shows this build's notes, and the
    **book button** at the top right opens this guide.
 3. Press **PLAY**. The first time, the launcher sets up a separate test instance: the whole Alantria pack plus
    Dao Ascendant. It copies what it can from your normal instance, so it's mostly quick. This instance never joins
    the server, and your normal Alantria instance stays untouched.
-4. In game: **Singleplayer → Create New World**, Game Mode **Survival**, **Allow Cheats: ON** (you need commands).
-5. To play on the Alantria server, click **🏰 Alantria** and press Play as usual.
+4. Set **Memory** to at least 10 GB in Settings (12 GB if your PC has 32 GB).
+5. In game: **Singleplayer → Create New World**, Game Mode **Survival**, **Allow Cheats: ON** (you need commands).
+   Use a **new world**: the great city's walls only appear in worlds made with this build.
 
 New test builds arrive by themselves the next time you press Play on the Test instance tab.
 
 **Reporting:** for anything wrong, say what you did, what happened, and what you expected. Add a screenshot (F2)
-when it's visual. For crashes, click **📁 Open game folder** on the Test instance tab and send the newest file in `crash-reports` and
-`logs\latest.log`.
+when it's visual. If the game crashes, the launcher offers to send a crash report: please say yes.
 
 ---
 
@@ -30,70 +31,83 @@ when it's visual. For crashes, click **📁 Open game folder** on the Test insta
 
 **First join.** "Welcome to the martial world of Alantria!" walks you through three choices: your **race** (Origins),
 your **class** (Vanguard, Guardian, Shadow, Ranger, Arcanist, Spirit Healer) and your **foundation element** (Fire,
-Water, Wood, Earth, Metal). You can't train until you finish it.
+Water, Wood, Earth, Metal). Then **Elder Shen** leads your first hour: a guide panel on the right shows the next step,
+and he gives you what you need for each one.
 
 **The Mortal Plane (the start).** Your energy is **jing**. You grow by earning **lotus**. Each lotus takes one
-completion of each of the three **pillars**:
-- **Combat:** defeat hostile creatures (tougher ones count more). Training dummies give a little.
-- **Agility:** run a parkour course made of Parkour Checkpoints, in order.
-- **Soaking:** sit in a spirit spring (water next to a Spirit Spring Stone).
+completion of each of the three **pillars**, and each pillar counts **4 times per lotus cycle** (4 in-game days):
+- **Combat:** defeat hostile creatures, win leitai bouts, spar with sect disciples, clear a bandit camp, kill a boar
+  bare-handed, or keep the beat on a **wooden man**.
+- **Agility:** run a parkour course of Parkour Checkpoints, climb a summit, hop across **plum-blossom poles** or a
+  river's stepping stones, run the city's rooftops, run down a deer, or catch a **wind spirit** high in the open air.
+- **Soaking:** sit in a spirit spring, stand under a waterfall, in an ice bath, out in a thunderstorm, in the noon
+  desert sun or crouched beside lava, or soak in a **medicinal bath**.
 
-Each pillar counts at most **4 times a real day**. At **lotus 3, 6 and 9** you learn martial skills (Swift Step, your
-class skill, Siphoning). With **9 lotus** and your element's essence, a **Purification Basin** ritual turns them into
-a **spiritual root**: meditate, then endure your element's test without leaving the circle.
+At **lotus 3, 6 and 9** you learn martial skills (Swift Step, your class skill, Siphoning). With **9 lotus** and your
+element's essence, a **Purification Basin** ritual turns them into a **spiritual root**.
 
 **Leaving the Mortal Plane.** You need a root, a **Core Vessel** (crafted, or from a sect) and the ascension quest:
 make an offering at an **Ascension Altar**, travel to the shrine it wakes, and step through the **Trial Gate** to
-fight the **Door Guardian** (a giant door-god general whose twin joins at half health). Win and you enter the
-**Earth Realm**.
+fight the **Door Guardian**. Win and you enter the **Earth Realm**.
 
-**Realms and cores.** There are five realms (Earth, Heaven, Golden Immortal, Divine, Dao), each with 5 **cores**.
-Energy becomes **qi** (and **shen** in the last realm). To form a core:
-1. Fill the core meter from XP, kills and meditation.
-2. At a **Spirit Gathering Array**, call the **Heavenly Tribulation**: offer spirit stones, stand under open sky in
-   the circle, and survive the lightning.
-3. Core 3 also brings your **Heart Demon**, a copy of you. Core 5 is a **legendary beast** battle in its own arena.
+**Realms and cores.** Five realms (Earth, Heaven, Golden Immortal, Divine, Dao), each with 5 **cores**. Energy
+becomes **qi** (and **shen** in the last realm). Fill the core meter (XP, kills, meditation), then call the
+**Heavenly Tribulation** at a **Spirit Gathering Array** and survive it. Core 3 brings your **Heart Demon**; core 5
+is a **legendary beast** battle in its own arena. Every few roots you choose a **root path**: deepen your element or
+add another.
 
-**Roots.** Every few roots you choose a **root path**: **deepen** your element (unlocks variant arts, e.g. Fire to
-Lightning) or **add** another element.
+**Arts.** Every realm teaches its own arts, and every sect its own art and signature in each realm. Hold **R** for
+the **ability wheel**, flick toward an art and let go; tap **R** to cast the selected one. The wheel opens on your
+two **Favorites** pages (star arts in the menu's Abilities tab); the mouse wheel turns to the Mortal Plane and each
+realm's page. Every art now plays **its own animation** and **its own 3D effect**, landing on the blow.
 
-**Your condition.**
-- **Impurity:** pills and boosters add it, and too much **poisons** you. It fades over time; springs, healers and
-  rest help.
-- **Deviation** (qi going wrong) has four stages (mild, moderate, severe, crippled). It comes from overdosing,
-  interrupted meditation, losing trials and similar. It's never permanent: rest, pills, healers and sect elders
-  cure it.
-- **Aura:** runs from Righteous to Demonic depending on your deeds. Demonic players scare villagers, and most
-  merchants refuse them. **Aura Sight** lets you see others' auras; a **Concealment Talisman** hides yours.
+**Gathering.** Hold **Ctrl + E** to gather energy: you crouch, power up and the meter refills fast. You learn it by
+meditating. A **Spirit Pouch** (its own Curios slot) burns spirit stones for a quick refill.
 
-**Spells.** Iron's Spellbooks mana is replaced by your energy. There are six new schools (Water, Earth, Metal and
-three deepened ones), each with its own spells.
+**Leaps** (Earth Realm on). Hold **Alt + Space** to coil, let go to leap; longer holds go further. The landing hits
+what's round you and cracks the ground, which settles back. Each sect has its own leap.
 
-**Crafts.**
-- **Spirit herbs** (goji, lingzhi, moonflower, spirit lotus, heavenly ginseng) grow wild and in spirit soil.
-- The **Alchemy Cauldron** brews pills. Watch the heat: purity and quality depend on it, and you have an alchemy
-  level.
-- The **Spirit Forge** upgrades gear from +1 to +9: materials, catalysts, a spirit-fire core, quenching, warding
-  charms, and element infusion.
+**Weapons.** Eight Chinese weapons (jian, dao, qiang, guandao, staff, war fan, twin hooks, tiger claws) and bare hands
+each have a full moveset of their own. In combat mode: left click combo, **V** heavy (tap again for the next; hold to
+charge; in the air, strike down), **Z / X / C** the weapon's three skills, **mouse button 5** its arts, **right click**
+guards and parries (other mods' weapons keep their right-click power on **Z**). Every weapon comes in wood, stone,
+iron, gold, diamond, spirit iron, netherite and **Dao steel**. Each sect has a **signature weapon** with its own moves.
 
-**Sects (five great sects).**
-- Join at a sect's **recruiter**. Earn **contribution** through daily tasks on the **Mission Board**, donating
-  materials, and helping.
-- Spend contribution in the sect shop, on **Living Quarters** (your own room, upgradable) and on training.
-- Climb the **ranks** from Recruit to Elder.
-- From Earth Realm core 5 you can learn the sect's **fist and weapon styles**. You equip these in Epic Fight's skill
-  menu, and they change your combos.
-- **Charged attacks** (hold mouse button 5) give a finisher that depends on your combo step, with a separate one
-  in the air.
-- Leaving a sect seals its arts. Rejoining needs a **Writ of Forgiveness**.
+**Spells.** Iron's Spellbooks mana is replaced by your energy. Six new schools (Water, Earth, Metal and three
+deepened ones), every spell with its own 3D effect and casting animation. Our scrolls are made at Iron's Scroll Forge
+and upgraded at the Arcane Anvil; **Mythic** spells need **Mythic Ink** (brewed in the alchemy cauldron) and leave
+their mark on the land (craters, ice, cracks) that heals after 30 minutes.
 
-**The world.**
-- **Sect compounds** stand in the wild.
-- **Great cities** (about 1,100 blocks across, Kaifeng-style) have markets, a palace, a river, temples, the five sect
-  quarters, and townsfolk you can trade with. Inside city walls players can't hurt each other, and guards enforce
-  it.
-- **Spirit-vein caves** give better meditation.
-- **Enemies:** jiangshi (hopping corpses), bandit cultivators and fox spirits.
+**Your condition.** **Impurity** (pills and boosters; too much poisons you), **deviation** (qi going wrong, four
+stages, never permanent) and **aura** (Righteous to Demonic; demonic players scare villagers and merchants refuse
+them; **Aura Sight** sees auras, a **Concealment Talisman** hides yours).
+
+**Crafts.** Spirit herbs, the **Alchemy Cauldron** (pills; watch the heat), the **Spirit Forge** (+1 to +9),
+**talismans** (protection, lightning, healing, sealing, heart ward), **blueprints** for spirit iron weapons, and
+**formations**: array flags or stones round an **array plate** fed with spirit stones raise a barrier, an illusion
+maze or a killing array round your home.
+
+**Sects (five great sects).** Join at a recruiter, earn **contribution** (Mission Board tasks, donations), climb the
+ranks from Recruit to Elder, buy **Living Quarters**, learn the sect's **fist and weapon styles** and its **leap**.
+Every 3 days at dusk two sects go to **war** on the Red Cliff Field over three banners, with sect soldiers; nobody
+dies, the winners get contribution, stones and a few days of glory.
+
+**The Great City.** A stone wall about 2,500 blocks across stands in the overworld, with two gates per side and mist
+inside. Walk through a gate's glowing veil and you're in the city itself, its own world: the inner city (palace,
+markets, the river, temples, theatres), the outer wards, and the five sects' grand headquarters. Buy and build up a
+**house or shop**, rent an inn room, ride a **sedan chair** or a ferry, eat, bathe, gamble, watch the opera, enter
+contests (archery, leitai, cuju, dragon boats), pick pockets (at your own risk: sink your standing low enough and the
+gates are closed to you until you defend one from a raid). No player may hurt another inside the city.
+
+**The world.** Sect compounds and **hermit caves** in the mountains (hermit sages sell hints), spirit-vein caves,
+wildlife (deer, cranes, red pandas, koi, the rare jade hare...), our enemies (jiangshi, bandit cultivators, fox
+spirits) and the pack's monsters, evened out so no mod floods a place. Every 2 hours of play a **world boss** comes
+down somewhere (the Thunder Qilin, the Nine-Tailed Fox, the Black Tortoise); chat says where. The **Heavenly Ranking**
+lists the strongest, and town criers read the top ten.
+
+**Later in life.** The **Dao Record** (a book of everything you've discovered, with hints), six **hidden secrets**
+found by how you live, **PvP rules** (first strike decides; unwilling victims lose nothing; `/duel` for agreed
+fights), the **Respec altar** (start over with a new element), and at the very top the **Cycle of Rebirth**.
 
 ---
 
@@ -101,27 +115,26 @@ three deepened ones), each with its own spells.
 
 | Term | Meaning |
 |---|---|
-| Jing / Qi / Shen | Your energy (mortal / realms / final realm). Spells and abilities cost it. |
+| Jing / Qi / Shen | Your energy (mortal / realms / final realm). Spells and arts cost it. |
 | Lotus | One step of mortal training: one Combat + one Agility + one Soaking completion. |
-| Pillar | One of the three kinds of training (Combat, Agility, Soaking), max 4 a day each. |
+| Pillar | One of the three kinds of training, 4 completions each per lotus cycle (4 in-game days). |
 | Spiritual root | Made from 9 lotus at a Purification Basin. Needed to leave the Mortal Plane; more roots gate higher realms. |
-| Foundation element | Your first element (Fire, Water, Wood, Earth, Metal). Your spells and trials follow it. |
+| Foundation element | Your first element (Fire, Water, Wood, Earth, Metal). Your element arts and trials follow it. |
 | Root path | Every few roots: deepen your element, or add another. |
 | Realm / Core | The five realms after the Mortal Plane, each with 5 cores. |
-| Core meter | Fills from XP, kills and meditation. When full, form the core at a Spirit Gathering Array. |
 | Heavenly Tribulation | The lightning trial that forms a core. Stay in the circle and survive. |
-| Heart Demon / Legendary beast | The trials at core 3 and core 5. |
-| Impurity / Poisoned | Builds up from pills and boosters. Too much poisons you. |
-| Deviation | Qi going wrong (mild, moderate, severe, crippled). Never permanent. |
-| Aura | Righteous to Demonic. Seen with Aura Sight, hidden with concealment. |
-| Item grade / quality | Gear tiers (mortal to divine) and quality (flawed to perfect). Gear above your realm is weaker in your hands. |
-| Contribution | Sect currency: earned by tasks, donations and helping, spent in the sect. |
-| Rank | Recruit, Outer, Inner and Core Disciple, then Elder. |
-| Writ of Forgiveness | Lets you rejoin a sect you abandoned (from the governor, or crafted). |
-| Spirit stones | Money and cultivation material (mined as spirit stone ore). |
+| Arts | Realm and sect abilities on the wheel, each with its own move and effect. |
+| Gathering | Holding Ctrl + E to power up and refill energy. |
+| Formation | Flags or stones round an array plate: barrier, illusion maze or killing array. |
+| Impurity / Deviation / Aura | Your condition: see section 2. |
+| Contribution / Rank | Sect currency and standing (Recruit, Outer, Inner, Core Disciple, Elder). |
+| City standing | How the city sees you: buys houses, opens doors; theft lowers it. |
+| Spirit stones | Money and cultivation material. |
 
-**Keys:** `K` cultivation menu · tap `R` to use your selected ability, hold `R` to pick another (wheel) · hold **mouse button 5** for
-a charged attack (all rebindable in Controls). Epic Fight's own keys work as usual.
+**Keys:** `K` cultivation menu · hold `R` for the wheel, tap `R` to cast · `Ctrl + E` Gathering · `Alt + Space` leap
+· `V` heavy · `Z / X / C` weapon skills · mouse button 5 arts / charged attack · right click guard. All rebindable in
+Controls (the launcher's Controls page shows the whole layout). **Alt is also Epic Fight's dodge:** if the leap gets in
+the way, move it in Controls and tell us which key you picked.
 
 ---
 
@@ -133,110 +146,81 @@ Use your own name, or `@s`. Tab fills in ids.
 |---|---|
 | See your stats | `/dao info` |
 | Skip the welcome flow | `/dao welcome @s complete daoascendant:vanguard daoascendant:fire` |
-| Get pillar completions | `/dao pillar @s complete combat 4` (also `agility`, `soaking`) |
+| Get pillar completions / reset the cycle | `/dao pillar @s complete combat 4` (also `agility`, `soaking`) · `/dao pillar @s reset` |
 | Set lotus / roots | `/dao set @s lotus 9` · `/dao set @s roots 1` |
-| Jump to a realm | `/dao set @s stage daoascendant:earth_realm` (then `heaven_realm` and so on) |
-| Set cores / core meter | `/dao set @s cores 4` · `/dao set @s core_progress 100000` (fills it) |
-| Energy, impurity, deviation, aura | `/dao set @s energy 500` · `impurity 80` · `deviation 2` · `aura -60` |
-| Learn an ability | `/dao ability @s learn daoascendant:relentless` |
+| Jump to a realm | `/dao set @s stage daoascendant:earth_realm` (then `heaven_realm` ... `dao_realm`) |
+| Set cores / energy | `/dao set @s cores 5` · `/dao set @s energy 5000` |
+| Learn / cast an art, end cooldowns | `/dao ability @s learn daoascendant:<art>` · `/dao ability @s ready` |
+| Gathering tier | `/dao gathering @s 3` |
 | Mark a trial done | `/dao trial @s complete daoascendant:ascension_quest` (or `door_guardian`) |
-| Grade the held item | `/dao item grade heaven perfect` |
-| Alchemy level | `/dao alchemy 5` |
-| Find a wild herb | `/dao findherb lingzhi` |
-| Build an ascension shrine | `/dao shrine` |
-| Sects | `/dao sect join daoascendant:tiger_fang` · `/dao sect contribution 1000` · `/dao sect rank 2` · `/dao sect leave` · `/dao sect forgive` |
-| Place a recruiter | `/dao sect recruiter daoascendant:white_crane` |
-| Build a sect compound | `/dao sect compound daoascendant:cloud_dragon` |
-| Find / build a great city | `/dao city find` · `/dao city` (builds one 600 blocks ahead; the game freezes a few minutes) |
-| Build a spirit-vein cave | `/dao cave` (use a normal world, not flat) |
-| Place a townsperson | `/dao npc daoascendant:blacksmith` (Tab lists all 20) |
-| Spawn enemies | `/summon daoascendant:jiangshi` · `bandit_cultivator` · `fox_spirit` |
+| Sects | `/dao sect join daoascendant:tiger_fang` · `/dao sect contribution 1000` · `/dao sect rank 2` · `/dao sect leave` |
+| Try another sect's leap | `/dao debug leap style white_crane` |
+| The great city | `/dao city find` (where the walls are) · `/dao city gate 0` (stand outside gate 0 of 8) · `/dao city standing @s 300` |
+| A sect war now | `/dao sectwar start daoascendant:tiger_fang daoascendant:white_crane` · `/dao sectwar battle` · `/dao sectwar end` |
+| A world boss | `/dao boss summon thunder_qilin here` (or `nine_tailed_fox`, `black_tortoise`) · `/dao boss next` |
+| A formation round you | `/dao debug formation barrier 6 mine` |
+| Cast any spell | `/cast @s daoascendant:water_jet 1` (Mythics: `/dao unlock @s add daoascendant:comprehension/mythic` first) |
+| Preview / heal a Mythic's marks | `/dao calamity great_flood` · `/dao calamity heal` |
+| Grade the held item / alchemy level | `/dao item grade heaven perfect` · `/dao alchemy 7` |
+| Find a structure | `/dao debug gotostructure daoascendant:hermit_cave` |
+| Skill tree points (Guard etc.) | `/abilitypoints add @s 5`, then key `I` |
 | Money | `/give @s daoascendant:spirit_stone 64` |
-| Epic Fight dodge / guard | `/epicfight skill add @s dodge epicfight:roll` · `/epicfight skill add @s guard epicfight:guard` |
 | Start over | `/dao reset @s` |
 
-Everything the mod adds (training dummy, parkour checkpoints, spring stone, basin, altar, array, cauldron, forge,
-pills, herbs...) is in the creative **Dao Ascendant** tab. Use `/gamemode creative` to grab items, then switch back
-to survival to test: some training doesn't count while you can fly.
+Everything the mod adds is in the creative **Dao Ascendant** tab. Use `/gamemode creative` to grab items, then switch
+back to survival to test: some training doesn't count while you can fly.
 
 ---
 
-## 5. What to test, in order
+## 5. What to test
 
-Tick each one, and note anything that breaks, confuses you, or feels off.
+Tick each one, and note anything that breaks, confuses you, or feels off. The new things come first.
 
-**A. Start**
-1. [ ] The game loads with the full pack; the title screen and world creation work.
-2. [ ] Welcome flow: choose race, class and element; the confirm screen; you can't train before finishing.
-3. [ ] The energy bar shows on the HUD. Press `K`: the cultivation menu tabs (Overview, Lotus, Roots, Cores,
-       Abilities, Condition, Sect, Spells, Stats) open and read sensibly.
+**A. Start and the first hour**
+1. [ ] The game loads with the full pack; a new world starts.
+2. [ ] Welcome flow (race, class, element), then Elder Shen and the guide panel. Follow it for a while: clear? Too
+       chatty? Does its arrow find the city?
+3. [ ] `K`: the cultivation menu tabs (Overview, Guide, Lotus, Roots, Cores, Abilities, Condition, Spells, Sect,
+       Stats, Ranking) and the Dao Record (top right).
 
-**B. Mortal Plane**
-4. [ ] Combat pillar: kill hostile mobs (and hit a Training Dummy): the pillar fills.
-5. [ ] Agility pillar: place 3+ Parkour Checkpoints, run them in order in survival: "Course complete".
-6. [ ] Soaking pillar: water next to a Spirit Spring Stone; stand in it: the pillar fills.
-7. [ ] One of each = a lotus blooms. The 4-a-day cap stops a pillar.
-8. [ ] At lotus 3, 6 and 9, skills unlock. Hold `R` to pick one and tap `R` to cast it (Swift Step, class skill, Siphoning).
-9. [ ] Purification: `/dao set @s lotus 9`, hold your element's essence, use the Purification Basin, meditate, and
-       survive the element trial in the circle: you get a root. Walk out of the circle once on purpose: it fails.
+**B. Arts: moves and effects (new)**
+4. [ ] `/dao set @s stage daoascendant:dao_realm`, `/dao set @s cores 5`, `/dao set @s energy 5000`, join a sect,
+       `/dao ability @s ready`. Use your arts from the wheel: each plays its own move and its effect lands on the
+       blow. Which look great, which look wrong, too big, too faint, or too like another one?
+5. [ ] Try all five sects and the wanderer (`/dao sect leave`). The spirit beasts: Charging Tiger Spirit, Azure Dragon
+       Descends, Immortal Crane Ascends.
+6. [ ] The wheel itself: favorites, pages, quick to flick?
 
-**C. Condition systems**
-10. [ ] Eat several pills quickly: impurity rises, then poisoning. It fades over time.
-11. [ ] `/dao set @s deviation 2`: the effects (slower regen, misfires). Then heal with a pill or rest.
-12. [ ] `/dao set @s aura -60`: villagers flee; merchants refuse you. A Concealment Talisman hides it.
-        Aura Sight shows other players' and NPCs' auras.
-13. [ ] Graded items: `/dao item grade` on a sword; the tooltip shows it; gear above your realm is weaker.
+**C. Combat**
+7. [ ] Each weapon (`/give @s daoascendant:iron_jian`, `iron_dao`, `iron_qiang`, `iron_guandao`, `iron_staff`,
+       `iron_war_fan`, `iron_twin_hooks`, `iron_tiger_claws`) and bare hands in combat mode: combo, V, Z / X / C,
+       mouse 5, right-click guard (unlock Guard on the skill tree, key `I`). Feel right? Too fast or slow?
+8. [ ] Leaps (Alt + Space, hold and let go), and lock-on leaps onto a mob. Does Alt clash with dodging?
+9. [ ] Gathering (Ctrl + E): the crouch, rubble rising, the scream when full. A Spirit Pouch with stones.
 
-**D. Spells**
-14. [ ] Cast Iron's spells: they use your energy (no mana bar). Try the new schools (Water, Earth, Metal) in a spellbook.
+**D. Mortal Plane and training**
+10. [ ] The three pillars, a lotus blooming, the 4-per-cycle cap; try a few new ways (wooden man, poles, medicinal
+        bath, waterfall, stepping stones, a wind spirit).
+11. [ ] Purification into a root; leaving the Mortal Plane (vessel, altar, shrine, Door Guardian).
+12. [ ] Cores: meditate, the tribulation at the Spirit Gathering Array, the Heart Demon, the beast arena.
 
-**E. Leaving the Mortal Plane**
-15. [ ] Craft a Core Vessel (Vessel Frame plus ingredients) and use it: it binds.
-16. [ ] Place an Ascension Altar, then sneak and use it to make the offering: the pilgrimage starts and the HUD
-        points to the shrine. (Shortcut: `/dao shrine` builds one nearby.)
-17. [ ] At the shrine, step through the Trial Gate: fight the Door Guardian, and its twin at half health. Win: you
-        reach the Earth Realm. Lose: you're cast out and can retry.
+**E. The Great City (new world)**
+13. [ ] `/dao city find`, walk through a gate's veil. Walk the inner city, the wards and a sect's headquarters.
+        Anything floating, empty or broken? Any stutter?
+14. [ ] Buy a house at its red plaque, build it up; rent an inn room; ride a sedan chair; try pickpocketing.
 
-**F. Earth Realm and cores**
-18. [ ] Meditate (the Meditate ability, or a Spirit Gathering Array). Sneak to stand up. Getting hit while
-        meditating causes a deviation.
-19. [ ] Fill the core meter (`/dao set @s core_progress 100000`), then **sneak and use** the Spirit Gathering Array
-        **with an empty hand**, under open sky, with spirit stones in your inventory (a plain use just meditates;
-        holding an item while sneaking uses the item instead; the Heavenly Tribulation ability works too): survive the tribulation and the core forms.
-20. [ ] Core 3: the Heart Demon fight. Core 5: the legendary beast arena.
-21. [ ] Root path choice (Roots tab) when it comes up: deepen or add an element.
+**F. The world's events (new)**
+15. [ ] A world boss (`/dao boss summon thunder_qilin here`): do the red warnings give you time to dodge? Spoils?
+16. [ ] A sect war (commands in section 4): soldiers, banners, being "defeated" (back at camp, not dead), rewards.
+17. [ ] A formation round a home; with a friend: `/companions invite <name>`.
 
-**G. Herbs, alchemy, forge**
-22. [ ] `/dao findherb goji_bush` (and the others). Harvest and replant in Spirit Soil; they grow and age.
-23. [ ] Alchemy Cauldron: brew a Qi-Gathering Pill (2 goji berries + 1 spirit stone); keep the heat in the band.
-        Scorch one on purpose. Hover pills to see quality and purity.
-24. [ ] Spirit Forge: upgrade a sword +1 to +5 with iron, then spirit iron. Use a warding charm. Infuse an essence.
-
-**H. Sects**
-25. [ ] `/dao sect compound daoascendant:tiger_fang`, walk in, and talk to the recruiter. Join.
-26. [ ] Mission Board: do and claim a daily task; donate materials (60 a day cap); buy from the shop.
-27. [ ] Promotion to Outer Disciple (the recruiter lists what's missing).
-28. [ ] Living Quarters: buy and place it, put a chest inside, upgrade it. The room grows and the chest stays.
-29. [ ] Sect arts at Earth Realm core 1 and core 5. Leave the sect: they're sealed.
-30. [ ] Styles: at Earth Realm core 5 with contribution, train both styles at the recruiter. Equip them in Epic
-        Fight's skill menu (Fist Style / Weapon Style slots). Combos change with sword, longsword and spear, and
-        bare-handed. Try all five sects: do they feel different?
-31. [ ] Charged attack: hold mouse button 5 and release. The finisher depends on the combo step, with a separate air
-        one. Does it clash with Nightfall's controls?
-32. [ ] Leave the sect (menu or by joining another), then get back in with a writ.
-
-**I. World, townsfolk and enemies**
-33. [ ] `/dao city` (wait for it), then fly over and walk the city: walls, gates, river, palace, markets, sect
-        quarters. Anything floating, misplaced or ugly? Screenshot it.
-34. [ ] Talk to townsfolk: buy and sell with spirit stones (alchemist, herbalist, talisman maker, scroll seller,
-        auction house). Heal at a priest or the alchemist. The blacksmith upgrades your held sword.
-35. [ ] Governor: start the atonement, kill 20 hostile creatures, get the writ. Take and claim the daily bounty.
-36. [ ] Hit a townsperson inside the city: the guards come after you.
-37. [ ] `/dao cave` in a normal world: walk the cave; the beast den sends enemies; meditation is stronger there.
-38. [ ] Enemies: fight a jiangshi (hops, burns in the sun), a bandit cultivator (uses weapon moves) and a fox spirit
-        (foxfire, vanishes when hit). Do they feel fair at your realm?
-39. [ ] Explore a fresh world for a while: do jiangshi, fox spirits and bandits show up on their own? Do compounds,
-        cities and caves sit well in the terrain? (`/dao city find` shows the nearest city.)
-40. [ ] Performance: any stutter or FPS drops near cities or compounds? Note your PC's RAM and the launcher's RAM setting.
+**G. Spells, crafts and the rest**
+18. [ ] Spells: their effects and casting animations; a Mythic's mark on the land. Scroll Forge and Arcane Anvil.
+19. [ ] Alchemy, the Spirit Forge, talismans, a spirit iron blueprint, a Dao steel weapon at the smithing table.
+20. [ ] Sects: join, Mission Board, ranks, Living Quarters, styles, leaving and coming back with a writ.
+21. [ ] Explore a fresh world: hermit caves, spirit-vein caves, wildlife, our enemies; no place full of one mod's
+        monsters?
+22. [ ] Performance: any stutter or FPS drops (big effects, the city, a boss fight)? Note your PC's RAM and the
+        launcher's RAM setting.
 
 **Anything else** you notice (balance, confusing text, missing feedback) is welcome.
