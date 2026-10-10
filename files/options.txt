@@ -236,7 +236,7 @@ key_key.craftingtweaks.refill_last:key.keyboard.tab:CONTROL
 key_key.craftingtweaks.refill_last_stack:key.keyboard.tab
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_key.invincible.key1:key.mouse.left
-key_key.invincible.key2:key.mouse.right
+key_key.invincible.key2:key.keyboard.z
 key_key.invincible.key3:key.mouse.5
 key_key.invincible.key4:key.keyboard.b
 key_key.sword_soaring.take_off:key.keyboard.space
@@ -435,3 +435,11 @@ key_key.daoascendant.ability_wheel:key.keyboard.unknown
 key_key.daoascendant.cast_ability:key.keyboard.r
 key_key.daoascendant.charged_attack:key.mouse.5
 key_key.daoascendant.cultivation_menu:key.keyboard.k
+key_key.daoascendant.weapon_special:key.keyboard.z
+key_key.daoascendant.heavy:key.keyboard.v
+key_key.daoascendant.weapon_skill_1:key.keyboard.z
+key_key.daoascendant.weapon_skill_2:key.keyboard.x
+key_key.daoascendant.weapon_skill_3:key.keyboard.c
+key_key.daoascendant.leap:key.keyboard.space:CONTROL
+key_key.daoascendant.gathering:key.keyboard.e:CONTROL
+key_key.daoascendant.dao_record:key.keyboard.k:CONTROL

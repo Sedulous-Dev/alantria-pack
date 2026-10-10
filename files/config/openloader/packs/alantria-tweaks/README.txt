@@ -14,3 +14,8 @@ Alantria pack tweaks (loaded by OpenLoader from config/openloader/packs).
   These files only load when Dao Ascendant is installed too: it gives SLU's monsters proper spawn rules (on the
   ground, in the dark, like zombies), which the pack's SLU performance build no longer has, and it caps every mod's
   share of a biome's monsters (daoascendant:balance_spawns).
+
+- data/irons_skills/puffish_skills/categories/*/definitions.json: the Iron's spells skill tree's node titles say Qi
+  instead of mana ("+5 Max Qi"), since in Alantria spells run on the cultivator's own energy. Only the shown text is
+  changed. Written by DaoAscendant/tools/mana_overrides.py (run it again after that mod updates). Every mod's
+  language-file text is reworded by Dao Ascendant itself.

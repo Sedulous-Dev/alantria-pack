@@ -6,7 +6,7 @@
   "totals": [
     "[label]Total Health Bonus[labelEnd][ids]1[idsEnd][mode]bonus[modeEnd]",
     "[label]Total Damage Bonus[labelEnd][ids]2[idsEnd][mode]bonus[modeEnd]",
-    "[label]Total Mana Bonus[labelEnd][ids]3[idsEnd][mode]bonus[modeEnd]",
+    "[label]Total Qi Bonus[labelEnd][ids]3[idsEnd][mode]bonus[modeEnd]",
     "[label]Total Defense Bonus[labelEnd][ids]4[idsEnd][mode]bonus[modeEnd]"
   ]
 }
