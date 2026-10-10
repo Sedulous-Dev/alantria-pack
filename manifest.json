@@ -25851,26 +25851,4082 @@
   ]
  },
  "launcher": {
-  "version": "1.3.0",
-  "sha1": "ff8363fc6f40b4a1d8334fc3d782c24ce159a68e",
-  "size": 28099608,
+  "version": "1.4.0",
+  "sha1": "8a8d92131a573d55d60e952575ede7d315540eae",
+  "size": 28114648,
   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/launcher/AlantriaLauncher.exe"
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test4",
-  "notes": "Dao Ascendant test build 0.1.0-test4\n  • Keys: open the launcher's Controls page and press \"Apply Alantria layout\" once (layout v3; your old keys are backed up).\n  • Vatansever: its finisher is on Z right after the 3rd hit (one click per hit), frost blades on mouse 5; its tooltip lists its buttons. Ctrl + right click (sword skills) now says why it can't fire.\n  • NightFall weapons: moves that wait for a held mouse button work now; mouse 5 skills spend stacks earned by landing hits.\n  • Lock-on (F) in third person turns you to the target and keeps you facing it while you strafe.\n  • Your sect's weapon style works on any weapon; beat every Chief Disciple or sect leader for the Hundred Schools' fused Fist or Blade.\n  • Spirit beasts (tiger, dragon, crane) from real artists' models; 3D rocks, swords and bells no longer turn black by day.\n  • The city: restaurants with a chef you can watch cook, warehouses, shrines, mansions that grow, the last decor. Use a NEW world.\n  • No mod's text says \"mana\" any more: it's Jing, Qi or Shen.\n  • Leap is Ctrl + Space (hold, let go); Gathering is Ctrl + E.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Placeholder textures and buildings: judge the mechanics, moves and effects, not the textures.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test5",
+  "notes": "Dao Ascendant test build 0.1.0-test5\n  • City Atlas: the great city is the same in every world now, and every city gate has a map of it on the wall. Right-click the map to open the atlas: hover a district to see what's there. Use a NEW world to get the gate maps.\n  • The launcher has a City Atlas tab: the city from above, every district's photo, and what's in each (restaurants, inns, shops and homes to buy, who works there). Search it: \"inn\", \"blacksmith\", \"restaurant\".\n  • Every weapon is a 3D model in your hands.\n  • Final art for every Dao block and item; tiger claws are worn over the fist.\n  • All 14 wild animals have their final looks, habits (resting, drinking, herds) and animations.\n  • Keys: if you haven't since test4, open the launcher's Controls page and press \"Apply Alantria layout\" once (layout v3).\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "07c1868219ba9aae65cc2b2d1b80fe46e596f67d",
-    "size": 39887938,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/07c1868219ba9aae65cc2b2d1b80fe46e596f67d.jar",
+    "sha1": "01b20bf564a24ce021e16f942e66e2f9fa966000",
+    "size": 47967409,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/01b20bf564a24ce021e16f942e66e2f9fa966000.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
    }
   ]
+ },
+ "atlas": {
+  "data": {
+   "grid": 13,
+   "tile": 224,
+   "originX": -1456,
+   "originZ": -1456,
+   "map": "map.jpg",
+   "mapSize": 2912,
+   "gates": [
+    {
+     "index": 0,
+     "name": "Weizhou Gate",
+     "i": 4,
+     "j": 0
+    },
+    {
+     "index": 1,
+     "name": "Fengqiu Gate",
+     "i": 8,
+     "j": 0
+    },
+    {
+     "index": 2,
+     "name": "Xinsong Gate",
+     "i": 12,
+     "j": 4
+    },
+    {
+     "index": 3,
+     "name": "Xincao Gate",
+     "i": 12,
+     "j": 8
+    },
+    {
+     "index": 4,
+     "name": "Chenzhou Gate",
+     "i": 8,
+     "j": 12
+    },
+    {
+     "index": 5,
+     "name": "Nanxun Gate",
+     "i": 4,
+     "j": 12
+    },
+    {
+     "index": 6,
+     "name": "Xinzheng Gate",
+     "i": 0,
+     "j": 8
+    },
+    {
+     "index": 7,
+     "name": "Wansheng Gate",
+     "i": 0,
+     "j": 4
+    }
+   ],
+   "districts": [
+    {
+     "i": 0,
+     "j": 0,
+     "id": "t00_00",
+     "name": "North-West Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": -1344,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×9",
+      "Teahouse ×10",
+      "General store ×2",
+      "Herbalist ×2",
+      "Alchemist",
+      "Fortune teller ×2",
+      "Shrine priest ×3",
+      "Governor (writs and bounties)",
+      "Steward",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sect leader",
+      "18 homes and 19 shops to buy",
+      "53 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 0,
+     "id": "t00_01",
+     "name": "North-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1120,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×4",
+      "15 homes to buy",
+      "4 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 0,
+     "id": "t00_02",
+     "name": "North-West Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": -896,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Teahouse ×2",
+      "Scroll seller ×5",
+      "Talisman maker ×6",
+      "Fortune teller ×2",
+      "Shrine priest ×5",
+      "Steward",
+      "18 homes and 13 shops to buy",
+      "27 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 0,
+     "id": "t00_03",
+     "name": "North-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -672,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Shrine priest",
+      "18 homes to buy",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 0,
+     "id": "t00_04",
+     "name": "Weizhou Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": -448,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×27",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×57",
+      "84 shops to buy",
+      "117 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 0,
+     "id": "t00_05",
+     "name": "North Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -224,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Shrine priest",
+      "18 homes to buy",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 0,
+     "id": "t00_06",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 0,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×2",
+      "Scroll seller ×5",
+      "Talisman maker ×8",
+      "Fortune teller ×3",
+      "Shrine priest ×3",
+      "18 homes and 15 shops to buy",
+      "31 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 0,
+     "id": "t00_07",
+     "name": "North Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 224,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Shrine priest",
+      "18 homes to buy",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 0,
+     "id": "t00_08",
+     "name": "Fengqiu Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": 448,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×20",
+      "Inn (rooms to rent) ×10",
+      "Merchant ×63",
+      "83 shops to buy",
+      "113 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 0,
+     "id": "t00_09",
+     "name": "North-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 672,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×3",
+      "16 homes to buy",
+      "3 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 0,
+     "id": "t00_10",
+     "name": "North-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 896,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Teahouse ×3",
+      "Scroll seller ×2",
+      "Talisman maker ×10",
+      "Fortune teller ×2",
+      "Shrine priest ×4",
+      "Steward",
+      "18 homes and 15 shops to buy",
+      "31 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 0,
+     "id": "t00_11",
+     "name": "North-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1120,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "19 homes to buy"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 0,
+     "id": "t00_12",
+     "name": "North-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 1344,
+     "z": -1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×3",
+      "Scroll seller ×3",
+      "Talisman maker ×6",
+      "Fortune teller ×2",
+      "Shrine priest ×4",
+      "Sedan chairs",
+      "17 homes and 12 shops to buy",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 1,
+     "id": "t01_12",
+     "name": "North-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1344,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "21 homes to buy"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 1,
+     "id": "t01_11",
+     "name": "White Crane Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 1120,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles) ×3",
+      "3 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 1,
+     "id": "t01_10",
+     "name": "White Crane Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 896,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Chief disciple ×7",
+      "Sect disciple ×16",
+      "23 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 1,
+     "id": "t01_09",
+     "name": "North-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 672,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse",
+      "Scroll seller ×2",
+      "Talisman maker ×4",
+      "Fortune teller ×3",
+      "Shrine priest ×3",
+      "18 homes and 7 shops to buy",
+      "24 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 1,
+     "id": "t01_08",
+     "name": "North Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 448,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×10",
+      "Inn (rooms to rent)",
+      "Merchant ×9",
+      "Shrine priest ×5",
+      "Steward",
+      "Sedan chairs",
+      "36 homes and 19 shops to buy",
+      "44 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 1,
+     "id": "t01_07",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 224,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Teahouse ×5",
+      "Scroll seller ×3",
+      "Talisman maker ×4",
+      "Fortune teller ×3",
+      "Shrine priest ×6",
+      "17 homes and 12 shops to buy",
+      "29 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 1,
+     "id": "t01_06",
+     "name": "North Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 0,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Merchant ×15",
+      "Shrine priest ×3",
+      "55 homes and 19 shops to buy",
+      "27 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 1,
+     "id": "t01_05",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": -224,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Teahouse ×4",
+      "Scroll seller ×2",
+      "Talisman maker ×7",
+      "Fortune teller ×7",
+      "Shrine priest ×4",
+      "Sedan chairs ×2",
+      "17 homes and 13 shops to buy",
+      "35 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 1,
+     "id": "t01_04",
+     "name": "North Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -448,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×59",
+      "83 shops to buy",
+      "112 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 1,
+     "id": "t01_03",
+     "name": "North-West Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": -672,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×3",
+      "Scroll seller ×5",
+      "Talisman maker ×3",
+      "Fortune teller ×3",
+      "Shrine priest ×3",
+      "Sedan chairs",
+      "19 homes and 11 shops to buy",
+      "27 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 1,
+     "id": "t01_02",
+     "name": "Tiger Fang Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -896,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles)",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 1,
+     "id": "t01_01",
+     "name": "Tiger Fang Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -1120,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Chief disciple ×7",
+      "Sect disciple ×16",
+      "23 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 1,
+     "id": "t01_00",
+     "name": "North-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1344,
+     "z": -1120,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "17 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 2,
+     "id": "t02_00",
+     "name": "North-West Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": -1344,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×8",
+      "Teahouse ×4",
+      "Scroll seller",
+      "Talisman maker",
+      "Fortune teller",
+      "Gambling den",
+      "Shrine priest ×3",
+      "Governor (writs and bounties)",
+      "Steward ×2",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sedan chairs ×2",
+      "Sect leader",
+      "18 homes and 20 shops to buy",
+      "56 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 2,
+     "id": "t02_01",
+     "name": "Tiger Fang Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -1120,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Steward",
+      "Martial master (fighting styles)",
+      "Sect elder",
+      "Chief disciple ×8",
+      "Sect disciple ×18",
+      "Sect enforcer",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 2,
+     "id": "t02_02",
+     "name": "Tiger Fang Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -896,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles)",
+      "Sect elder ×3",
+      "Sect leader ×3",
+      "Chief disciple",
+      "Sect enforcer",
+      "9 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 2,
+     "id": "t02_03",
+     "name": "North-West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -672,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×23",
+      "Inn (rooms to rent) ×8",
+      "Merchant ×63",
+      "86 shops to buy",
+      "116 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 2,
+     "id": "t02_04",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": -448,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×2",
+      "Scroll seller",
+      "Talisman maker ×11",
+      "Shrine priest ×4",
+      "17 homes and 12 shops to buy",
+      "29 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 2,
+     "id": "t02_05",
+     "name": "North Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -224,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×58",
+      "83 shops to buy",
+      "114 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 2,
+     "id": "t02_06",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 0,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×2",
+      "Scroll seller ×2",
+      "Talisman maker ×7",
+      "Fortune teller ×5",
+      "Shrine priest ×4",
+      "Sedan chairs",
+      "17 homes and 11 shops to buy",
+      "31 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 2,
+     "id": "t02_07",
+     "name": "North Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 224,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×6",
+      "Inn (rooms to rent)",
+      "Merchant ×17",
+      "Shrine priest ×9",
+      "51 homes and 23 shops to buy",
+      "39 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 2,
+     "id": "t02_08",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 448,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Teahouse ×2",
+      "Scroll seller ×3",
+      "Talisman maker ×5",
+      "Fortune teller ×2",
+      "Shrine priest ×4",
+      "18 homes and 10 shops to buy",
+      "24 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 2,
+     "id": "t02_09",
+     "name": "North-East Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 672,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×9",
+      "Inn (rooms to rent) ×4",
+      "Merchant ×11",
+      "Shrine priest ×7",
+      "Sedan chairs",
+      "33 homes and 20 shops to buy",
+      "49 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 2,
+     "id": "t02_10",
+     "name": "White Crane Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 896,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Steward",
+      "Martial master (fighting styles)",
+      "Sect elder",
+      "Chief disciple ×8",
+      "Sect disciple ×18",
+      "Sect enforcer ×2",
+      "31 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 2,
+     "id": "t02_11",
+     "name": "White Crane Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 1120,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles) ×2",
+      "Sect elder ×3",
+      "Sect leader ×3",
+      "Chief disciple",
+      "9 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 2,
+     "id": "t02_12",
+     "name": "North-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 1344,
+     "z": -896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×5",
+      "Scroll seller ×2",
+      "Talisman maker ×7",
+      "Fortune teller ×5",
+      "Shrine priest ×6",
+      "Sedan chairs ×2",
+      "17 homes and 14 shops to buy",
+      "31 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 3,
+     "id": "t03_12",
+     "name": "North-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1344,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Shrine priest ×3",
+      "16 homes to buy",
+      "3 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 3,
+     "id": "t03_11",
+     "name": "North-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 1120,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Teahouse ×4",
+      "Scroll seller ×2",
+      "Talisman maker ×8",
+      "Fortune teller ×4",
+      "Shrine priest ×5",
+      "Sedan chairs",
+      "18 homes and 14 shops to buy",
+      "32 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 3,
+     "id": "t03_10",
+     "name": "North-East Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 896,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×11",
+      "Inn (rooms to rent) ×3",
+      "Merchant ×8",
+      "Fortune teller ×2",
+      "Shrine priest ×5",
+      "34 homes and 19 shops to buy",
+      "45 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 3,
+     "id": "t03_09",
+     "name": "North-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 672,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×5",
+      "Scroll seller ×2",
+      "Talisman maker ×5",
+      "Fortune teller ×8",
+      "Shrine priest ×7",
+      "Sedan chairs",
+      "16 homes and 12 shops to buy",
+      "37 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 3,
+     "id": "t03_08",
+     "name": "North Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 448,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Merchant ×15",
+      "Shrine priest ×6",
+      "52 homes and 19 shops to buy",
+      "29 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 3,
+     "id": "t03_07",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 224,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Teahouse ×3",
+      "Scroll seller ×6",
+      "Talisman maker ×4",
+      "Fortune teller ×4",
+      "Shrine priest ×5",
+      "Steward ×2",
+      "Sedan chairs",
+      "19 homes and 13 shops to buy",
+      "33 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 3,
+     "id": "t03_06",
+     "name": "North Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 0,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×57",
+      "81 shops to buy",
+      "111 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 3,
+     "id": "t03_05",
+     "name": "North Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": -224,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Teahouse",
+      "Scroll seller ×2",
+      "Talisman maker ×9",
+      "Fortune teller ×2",
+      "Shrine priest ×5",
+      "Sedan chairs",
+      "17 homes and 12 shops to buy",
+      "26 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 3,
+     "id": "t03_04",
+     "name": "North Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -448,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×7",
+      "Merchant ×57",
+      "82 shops to buy",
+      "113 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 3,
+     "id": "t03_03",
+     "name": "North-West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -672,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Merchant ×15",
+      "Shrine priest ×6",
+      "54 homes and 19 shops to buy",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 3,
+     "id": "t03_02",
+     "name": "North-West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -896,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×27",
+      "Inn (rooms to rent) ×9",
+      "Merchant ×60",
+      "87 shops to buy",
+      "122 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 3,
+     "id": "t03_01",
+     "name": "North-West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -1120,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Scroll seller ×2",
+      "Talisman maker ×2",
+      "Fortune teller",
+      "Shrine priest ×12",
+      "51 homes and 4 shops to buy",
+      "17 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 3,
+     "id": "t03_00",
+     "name": "North-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1344,
+     "z": -672,
+     "img": true,
+     "has": [
+      "Shrine priest",
+      "18 homes to buy",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 4,
+     "id": "t04_00",
+     "name": "Wansheng Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": -1344,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×10",
+      "Merchant ×63",
+      "87 shops to buy",
+      "120 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 4,
+     "id": "t04_01",
+     "name": "West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -1120,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×4",
+      "Merchant ×54",
+      "78 shops to buy",
+      "106 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 4,
+     "id": "t04_02",
+     "name": "West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -896,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Teahouse",
+      "Scroll seller ×2",
+      "Talisman maker ×4",
+      "Fortune teller ×2",
+      "Shrine priest ×10",
+      "53 homes and 7 shops to buy",
+      "19 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 4,
+     "id": "t04_03",
+     "name": "West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -672,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×4",
+      "Merchant ×53",
+      "78 shops to buy",
+      "106 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 4,
+     "id": "t04_04",
+     "name": "Supreme Oneness Ward",
+     "inner": true,
+     "kind": "Temples",
+     "x": -448,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Teahouse ×4",
+      "Scroll seller ×3",
+      "Talisman maker ×6",
+      "Fortune teller ×3",
+      "Shrine priest ×4",
+      "37 homes and 13 shops to buy",
+      "20 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 4,
+     "id": "t04_05",
+     "name": "Tiger Fang Sect Quarter",
+     "inner": true,
+     "kind": "Sect quarter",
+     "x": -224,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Merchant ×15",
+      "Artisan ×14",
+      "Shrine priest",
+      "Town crier (the Heavenly Ranking)",
+      "Martial master (fighting styles)",
+      "City guard ×8",
+      "Sect elder",
+      "Sect leader",
+      "Chief disciple",
+      "Sect disciple ×2",
+      "21 homes and 34 shops to buy",
+      "54 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 4,
+     "id": "t04_06",
+     "name": "North Gate",
+     "inner": true,
+     "kind": "Gates",
+     "x": 0,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×9",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×33",
+      "Shrine priest ×6",
+      "City guard ×2",
+      "33 homes and 42 shops to buy",
+      "61 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 4,
+     "id": "t04_07",
+     "name": "White Crane Sect Quarter",
+     "inner": true,
+     "kind": "Sect quarter",
+     "x": 224,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×9",
+      "Inn (rooms to rent)",
+      "Merchant ×15",
+      "Fortune teller",
+      "Shrine priest ×3",
+      "Town crier (the Heavenly Ranking)",
+      "Sedan chairs ×2",
+      "Martial master (fighting styles)",
+      "City guard ×8",
+      "Sect elder",
+      "Sect leader",
+      "Chief disciple",
+      "Sect disciple ×2",
+      "16 homes and 22 shops to buy",
+      "59 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 4,
+     "id": "t04_08",
+     "name": "Iron Pagoda Ward",
+     "inner": true,
+     "kind": "Wards",
+     "x": 448,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse",
+      "Scroll seller ×3",
+      "Talisman maker",
+      "Fortune teller ×3",
+      "Shrine priest ×8",
+      "34 homes and 5 shops to buy",
+      "21 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 4,
+     "id": "t04_09",
+     "name": "East Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 672,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×15",
+      "Shrine priest ×5",
+      "53 homes and 19 shops to buy",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 4,
+     "id": "t04_10",
+     "name": "East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 896,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Teahouse ×3",
+      "Scroll seller ×2",
+      "Talisman maker ×6",
+      "Fortune teller ×4",
+      "Shrine priest ×5",
+      "Sedan chairs",
+      "17 homes and 11 shops to buy",
+      "27 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 4,
+     "id": "t04_11",
+     "name": "East Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 1120,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×10",
+      "Inn (rooms to rent)",
+      "Merchant ×12",
+      "Fortune teller",
+      "Shrine priest ×9",
+      "32 homes and 22 shops to buy",
+      "51 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 4,
+     "id": "t04_12",
+     "name": "Xinsong Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": 1344,
+     "z": -448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×11",
+      "Merchant ×60",
+      "84 shops to buy",
+      "117 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 5,
+     "id": "t05_12",
+     "name": "East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1344,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "19 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 5,
+     "id": "t05_11",
+     "name": "Golden Leopard Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 1120,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles) ×2",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 5,
+     "id": "t05_10",
+     "name": "Golden Leopard Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 896,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Chief disciple ×7",
+      "Sect disciple ×16",
+      "23 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 5,
+     "id": "t05_09",
+     "name": "East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 672,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Teahouse ×6",
+      "Scroll seller ×2",
+      "Talisman maker ×2",
+      "Fortune teller ×2",
+      "Shrine priest ×3",
+      "Sedan chairs",
+      "18 homes and 10 shops to buy",
+      "23 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 5,
+     "id": "t05_08",
+     "name": "Golden Leopard Sect Quarter",
+     "inner": true,
+     "kind": "Sect quarter",
+     "x": 448,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×12",
+      "Inn (rooms to rent) ×3",
+      "Merchant ×29",
+      "Shrine priest ×4",
+      "Town crier (the Heavenly Ranking)",
+      "Martial master (fighting styles)",
+      "City guard ×8",
+      "Sect elder",
+      "Sect leader",
+      "Chief disciple",
+      "Sect disciple ×2",
+      "17 homes and 41 shops to buy",
+      "75 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 5,
+     "id": "t05_07",
+     "name": "East Ward",
+     "inner": true,
+     "kind": "Wards",
+     "x": 224,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Merchant ×15",
+      "Shrine priest ×5",
+      "52 homes and 19 shops to buy",
+      "29 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 5,
+     "id": "t05_06",
+     "name": "Sundries Market",
+     "inner": true,
+     "kind": "Markets",
+     "x": 0,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×6",
+      "Teahouse ×5",
+      "Merchant ×42",
+      "Fortune teller",
+      "Gambling den",
+      "71 shops to buy",
+      "111 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 5,
+     "id": "t05_05",
+     "name": "West Ward",
+     "inner": true,
+     "kind": "Wards",
+     "x": -224,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×5",
+      "Inn (rooms to rent)",
+      "Merchant ×18",
+      "Shrine priest ×9",
+      "48 homes and 23 shops to buy",
+      "38 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 5,
+     "id": "t05_04",
+     "name": "Prosperity Haven",
+     "inner": true,
+     "kind": "Markets",
+     "x": -448,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×23",
+      "Inn (rooms to rent) ×7",
+      "Merchant ×58",
+      "81 shops to buy",
+      "109 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 5,
+     "id": "t05_03",
+     "name": "West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -672,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Teahouse ×2",
+      "Scroll seller ×2",
+      "Talisman maker ×4",
+      "Shrine priest ×3",
+      "55 homes and 8 shops to buy",
+      "11 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 5,
+     "id": "t05_02",
+     "name": "Qionglin Garden",
+     "inner": false,
+     "kind": "Garden",
+     "x": -896,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Gardens, ponds, bridges and pavilions to stroll"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 5,
+     "id": "t05_01",
+     "name": "Qionglin Garden",
+     "inner": false,
+     "kind": "Garden",
+     "x": -1120,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Gardens, ponds, bridges and pavilions to stroll"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 5,
+     "id": "t05_00",
+     "name": "West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1344,
+     "z": -224,
+     "img": true,
+     "has": [
+      "Shrine priest ×3",
+      "16 homes to buy",
+      "3 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 6,
+     "id": "t06_00",
+     "name": "West Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": -1344,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×7",
+      "Teahouse ×9",
+      "General store",
+      "Herbalist ×2",
+      "Fortune teller",
+      "Gambling den",
+      "Shrine priest ×3",
+      "Governor (writs and bounties)",
+      "Steward",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sect leader",
+      "19 homes and 23 shops to buy",
+      "55 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 6,
+     "id": "t06_01",
+     "name": "Qionglin Garden",
+     "inner": false,
+     "kind": "Garden",
+     "x": -1120,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 6,
+     "id": "t06_02",
+     "name": "Qionglin Garden",
+     "inner": false,
+     "kind": "Garden",
+     "x": -896,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Storyteller",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 6,
+     "id": "t06_03",
+     "name": "West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -672,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×26",
+      "Inn (rooms to rent) ×9",
+      "Merchant ×57",
+      "83 shops to buy",
+      "117 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 6,
+     "id": "t06_04",
+     "name": "West Gate",
+     "inner": true,
+     "kind": "Gates",
+     "x": -448,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×10",
+      "Inn (rooms to rent) ×3",
+      "Merchant ×32",
+      "Shrine priest ×6",
+      "City guard ×2",
+      "35 homes and 42 shops to buy",
+      "63 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 6,
+     "id": "t06_05",
+     "name": "Prefecture",
+     "inner": true,
+     "kind": "Civic",
+     "x": -224,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×6",
+      "Inn (rooms to rent) ×2",
+      "Teahouse ×2",
+      "Merchant ×15",
+      "General store ×2",
+      "Herbalist ×4",
+      "Alchemist ×2",
+      "Scroll seller ×4",
+      "Talisman maker ×2",
+      "Shrine priest ×5",
+      "Governor (writs and bounties) ×2",
+      "Steward ×2",
+      "Sedan chairs",
+      "Sect leader ×2",
+      "18 homes and 47 shops to buy",
+      "73 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 6,
+     "id": "t06_06",
+     "name": "Imperial Palace",
+     "inner": true,
+     "kind": "Palace",
+     "x": 0,
+     "z": 0,
+     "img": true,
+     "has": [
+      "City guard ×7",
+      "The Emperor",
+      "11 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 6,
+     "id": "t06_07",
+     "name": "Xiangguo Temple Fairgrounds",
+     "inner": true,
+     "kind": "Temples",
+     "x": 224,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×15",
+      "Inn (rooms to rent) ×3",
+      "Teahouse ×6",
+      "Merchant ×29",
+      "Scroll seller ×2",
+      "Talisman maker ×3",
+      "Temple-fair stall ×8",
+      "Fortune teller ×4",
+      "Shrine priest",
+      "Leitai (bouts)",
+      "60 shops to buy",
+      "93 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 6,
+     "id": "t06_08",
+     "name": "Jinming Pond",
+     "inner": true,
+     "kind": "Wards",
+     "x": 448,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×11",
+      "Teahouse ×9",
+      "Gambling den ×3",
+      "Dragon-boat races ×3",
+      "City guard ×2",
+      "18 shops to buy",
+      "50 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 6,
+     "id": "t06_09",
+     "name": "East Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 672,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Merchant ×60",
+      "84 shops to buy",
+      "108 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 6,
+     "id": "t06_10",
+     "name": "Golden Leopard Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 896,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Steward",
+      "Martial master (fighting styles)",
+      "Sect elder",
+      "Chief disciple ×8",
+      "Sect disciple ×18",
+      "Sect enforcer",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 6,
+     "id": "t06_11",
+     "name": "Golden Leopard Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 1120,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles) ×4",
+      "Sect elder ×3",
+      "Sect leader ×3",
+      "Chief disciple",
+      "Sect enforcer",
+      "12 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 6,
+     "id": "t06_12",
+     "name": "East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 1344,
+     "z": 0,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×2",
+      "Teahouse ×3",
+      "Scroll seller",
+      "Talisman maker ×7",
+      "Fortune teller ×2",
+      "Shrine priest ×3",
+      "20 homes and 11 shops to buy",
+      "27 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 7,
+     "id": "t07_12",
+     "name": "East River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": 1344,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×14",
+      "Inn (rooms to rent) ×2",
+      "Teahouse ×2",
+      "Merchant ×24",
+      "Blacksmith",
+      "Artisan ×9",
+      "Fortune teller",
+      "Gambling den",
+      "Opera and performers",
+      "Storyteller",
+      "Ferry ×3",
+      "5 homes and 52 shops to buy",
+      "76 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 7,
+     "id": "t07_11",
+     "name": "East River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": 1120,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Merchant ×12",
+      "Scroll seller ×2",
+      "Talisman maker",
+      "Fortune teller ×4",
+      "Shrine priest ×5",
+      "Ferry ×4",
+      "12 homes and 19 shops to buy",
+      "40 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 7,
+     "id": "t07_10",
+     "name": "East River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": 896,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×16",
+      "Inn (rooms to rent) ×2",
+      "Teahouse ×3",
+      "Merchant ×23",
+      "Blacksmith ×2",
+      "Artisan ×11",
+      "Gambling den",
+      "Opera and performers",
+      "Storyteller",
+      "Ferry ×3",
+      "2 homes and 54 shops to buy",
+      "81 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 7,
+     "id": "t07_09",
+     "name": "East River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": 672,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Teahouse",
+      "Merchant ×14",
+      "Scroll seller",
+      "Talisman maker ×3",
+      "Fortune teller ×3",
+      "Shrine priest ×2",
+      "Ferry ×4",
+      "Sedan chairs ×2",
+      "14 homes and 23 shops to buy",
+      "43 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 7,
+     "id": "t07_08",
+     "name": "East Water Gate",
+     "inner": true,
+     "kind": "River",
+     "x": 448,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Shrine priest ×11",
+      "Ferry ×4",
+      "57 homes to buy",
+      "15 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 7,
+     "id": "t07_07",
+     "name": "Teahouse Docks",
+     "inner": true,
+     "kind": "River",
+     "x": 224,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×6",
+      "Teahouse ×7",
+      "Merchant ×19",
+      "Fortune teller",
+      "Opera and performers ×2",
+      "Storyteller ×2",
+      "Ferry ×4",
+      "44 shops to buy",
+      "91 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 7,
+     "id": "t07_06",
+     "name": "Rainbow Bridge",
+     "inner": true,
+     "kind": "Wards",
+     "x": 0,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×20",
+      "Inn (rooms to rent) ×8",
+      "Merchant ×48",
+      "Ferry ×4",
+      "68 shops to buy",
+      "92 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 7,
+     "id": "t07_05",
+     "name": "Furnace Docks",
+     "inner": true,
+     "kind": "River",
+     "x": -224,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×5",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×12",
+      "Blacksmith ×5",
+      "Artisan ×32",
+      "Ferry ×4",
+      "9 homes and 59 shops to buy",
+      "63 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 7,
+     "id": "t07_04",
+     "name": "Works Bureau Docks",
+     "inner": true,
+     "kind": "River",
+     "x": -448,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Blacksmith ×13",
+      "Artisan ×35",
+      "Ferry ×4",
+      "16 homes and 51 shops to buy",
+      "52 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 7,
+     "id": "t07_03",
+     "name": "West River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": -672,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Merchant ×14",
+      "Scroll seller ×2",
+      "Talisman maker ×6",
+      "Fortune teller ×2",
+      "Shrine priest ×2",
+      "Ferry ×4",
+      "Sedan chairs",
+      "14 homes and 26 shops to buy",
+      "44 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 7,
+     "id": "t07_02",
+     "name": "West River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": -896,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×13",
+      "Inn (rooms to rent) ×2",
+      "Teahouse ×4",
+      "Merchant ×25",
+      "Blacksmith ×2",
+      "Artisan ×8",
+      "Gambling den",
+      "Opera and performers",
+      "Storyteller",
+      "Ferry ×4",
+      "6 homes and 53 shops to buy",
+      "76 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 7,
+     "id": "t07_01",
+     "name": "West River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": -1120,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×7",
+      "Merchant ×12",
+      "Scroll seller ×2",
+      "Talisman maker ×3",
+      "Fortune teller ×2",
+      "Ferry ×4",
+      "Sedan chairs",
+      "17 homes and 21 shops to buy",
+      "43 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 7,
+     "id": "t07_00",
+     "name": "West River Docks",
+     "inner": false,
+     "kind": "River",
+     "x": -1344,
+     "z": 224,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×12",
+      "Inn (rooms to rent) ×3",
+      "Teahouse ×8",
+      "Merchant ×23",
+      "Blacksmith",
+      "Artisan ×11",
+      "Opera and performers",
+      "Storyteller",
+      "Ferry ×3",
+      "3 homes and 60 shops to buy",
+      "76 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 8,
+     "id": "t08_00",
+     "name": "Xinzheng Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": -1344,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×11",
+      "Merchant ×60",
+      "84 shops to buy",
+      "117 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 8,
+     "id": "t08_01",
+     "name": "West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -1120,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×26",
+      "Inn (rooms to rent) ×3",
+      "Merchant ×54",
+      "80 shops to buy",
+      "109 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 8,
+     "id": "t08_02",
+     "name": "West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -896,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Merchant ×15",
+      "Shrine priest ×9",
+      "51 homes and 19 shops to buy",
+      "32 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 8,
+     "id": "t08_03",
+     "name": "West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -672,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×58",
+      "83 shops to buy",
+      "113 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 8,
+     "id": "t08_04",
+     "name": "Coiling Serpent Sect Quarter",
+     "inner": true,
+     "kind": "Sect quarter",
+     "x": -448,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×5",
+      "Merchant ×16",
+      "Blacksmith",
+      "Artisan ×16",
+      "Shrine priest",
+      "Town crier (the Heavenly Ranking)",
+      "City guard ×8",
+      "Sect elder",
+      "Sect leader",
+      "Chief disciple",
+      "Sect disciple ×2",
+      "21 homes and 38 shops to buy",
+      "58 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 8,
+     "id": "t08_05",
+     "name": "Forsaken Quarter",
+     "inner": true,
+     "kind": "Poor quarter",
+     "x": -224,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×10",
+      "Inn (rooms to rent) ×4",
+      "Merchant ×32",
+      "39 homes and 42 shops to buy",
+      "56 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 8,
+     "id": "t08_06",
+     "name": "South Gate",
+     "inner": true,
+     "kind": "Gates",
+     "x": 0,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×16",
+      "Inn (rooms to rent) ×2",
+      "Teahouse ×3",
+      "Merchant ×25",
+      "General store ×4",
+      "Herbalist ×4",
+      "Alchemist",
+      "Scroll seller",
+      "Talisman maker ×4",
+      "Fortune teller ×2",
+      "Sedan chairs",
+      "City guard ×2",
+      "65 shops to buy",
+      "90 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 8,
+     "id": "t08_07",
+     "name": "Academy Fields",
+     "inner": true,
+     "kind": "Fields",
+     "x": 224,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×3",
+      "Fortune teller ×2",
+      "Shrine priest",
+      "Sage",
+      "Archery range",
+      "Cuju field",
+      "Sedan chairs ×6",
+      "Martial master (fighting styles)",
+      "38 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 8,
+     "id": "t08_08",
+     "name": "Cloud Dragon Sect Quarter",
+     "inner": true,
+     "kind": "Sect quarter",
+     "x": 448,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×13",
+      "Inn (rooms to rent) ×3",
+      "Merchant ×25",
+      "Fortune teller",
+      "Town crier (the Heavenly Ranking)",
+      "Sedan chairs",
+      "Martial master (fighting styles)",
+      "City guard ×8",
+      "Sect elder",
+      "Sect leader",
+      "Chief disciple",
+      "Sect disciple ×2",
+      "38 shops to buy",
+      "78 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 8,
+     "id": "t08_09",
+     "name": "East Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 672,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×59",
+      "83 shops to buy",
+      "112 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 8,
+     "id": "t08_10",
+     "name": "East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 896,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×2",
+      "Scroll seller ×7",
+      "Talisman maker ×7",
+      "Fortune teller ×4",
+      "Shrine priest ×5",
+      "Steward",
+      "Sedan chairs ×2",
+      "18 homes and 16 shops to buy",
+      "38 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 8,
+     "id": "t08_11",
+     "name": "East Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 1120,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×5",
+      "Merchant ×58",
+      "83 shops to buy",
+      "111 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 8,
+     "id": "t08_12",
+     "name": "Xincao Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": 1344,
+     "z": 448,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×10",
+      "Merchant ×63",
+      "87 shops to buy",
+      "120 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 9,
+     "id": "t09_12",
+     "name": "South-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1344,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "17 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 9,
+     "id": "t09_11",
+     "name": "South-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 1120,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Teahouse",
+      "Scroll seller ×3",
+      "Talisman maker ×7",
+      "Fortune teller ×3",
+      "Shrine priest ×7",
+      "15 homes and 11 shops to buy",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 9,
+     "id": "t09_10",
+     "name": "South-East Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 896,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×9",
+      "Merchant ×58",
+      "82 shops to buy",
+      "114 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 9,
+     "id": "t09_09",
+     "name": "South-East Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 672,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent)",
+      "Merchant ×15",
+      "Shrine priest ×6",
+      "54 homes and 19 shops to buy",
+      "30 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 9,
+     "id": "t09_08",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 448,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×23",
+      "Inn (rooms to rent) ×8",
+      "Merchant ×57",
+      "80 shops to buy",
+      "109 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 9,
+     "id": "t09_07",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 224,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Scroll seller ×2",
+      "Talisman maker ×4",
+      "Fortune teller ×3",
+      "Shrine priest ×3",
+      "55 homes and 6 shops to buy",
+      "12 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 9,
+     "id": "t09_06",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 0,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×27",
+      "Inn (rooms to rent) ×5",
+      "Merchant ×52",
+      "79 shops to buy",
+      "111 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 9,
+     "id": "t09_05",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -224,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×6",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×16",
+      "Fortune teller",
+      "Shrine priest ×7",
+      "Sedan chairs",
+      "34 homes and 22 shops to buy",
+      "48 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 9,
+     "id": "t09_04",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -448,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×7",
+      "Merchant ×58",
+      "83 shops to buy",
+      "115 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 9,
+     "id": "t09_03",
+     "name": "South-West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -672,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×15",
+      "Shrine priest ×2",
+      "55 homes and 19 shops to buy",
+      "27 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 9,
+     "id": "t09_02",
+     "name": "South-West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -896,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×26",
+      "Inn (rooms to rent) ×10",
+      "Merchant ×50",
+      "76 shops to buy",
+      "111 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 9,
+     "id": "t09_01",
+     "name": "South-West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -1120,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Teahouse ×2",
+      "Scroll seller",
+      "Talisman maker ×4",
+      "Fortune teller",
+      "Shrine priest ×7",
+      "55 homes and 7 shops to buy",
+      "15 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 9,
+     "id": "t09_00",
+     "name": "South-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1344,
+     "z": 672,
+     "img": true,
+     "has": [
+      "Shrine priest",
+      "18 homes to buy",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 10,
+     "id": "t10_00",
+     "name": "South-West Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": -1344,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Teahouse ×7",
+      "General store ×2",
+      "Herbalist",
+      "Alchemist",
+      "Scroll seller",
+      "Fortune teller",
+      "Gambling den ×2",
+      "Shrine priest ×4",
+      "Governor (writs and bounties)",
+      "Steward",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sedan chairs ×2",
+      "Sect leader",
+      "17 homes and 25 shops to buy",
+      "53 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 10,
+     "id": "t10_01",
+     "name": "Coiling Serpent Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -1120,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Chief disciple ×7",
+      "Sect disciple ×16",
+      "23 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 10,
+     "id": "t10_02",
+     "name": "Coiling Serpent Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -896,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles)",
+      "Sect elder",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 10,
+     "id": "t10_03",
+     "name": "South-West Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -672,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×8",
+      "Merchant ×58",
+      "82 shops to buy",
+      "112 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 10,
+     "id": "t10_04",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -448,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×4",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×15",
+      "Shrine priest ×8",
+      "51 homes and 19 shops to buy",
+      "33 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 10,
+     "id": "t10_05",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -224,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×20",
+      "Inn (rooms to rent) ×7",
+      "Merchant ×65",
+      "85 shops to buy",
+      "112 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 10,
+     "id": "t10_06",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 0,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×10",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×10",
+      "Shrine priest ×4",
+      "Steward",
+      "Sedan chairs ×2",
+      "35 homes and 19 shops to buy",
+      "44 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 10,
+     "id": "t10_07",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 224,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×25",
+      "Inn (rooms to rent) ×7",
+      "Merchant ×58",
+      "83 shops to buy",
+      "114 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 10,
+     "id": "t10_08",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 448,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Teahouse ×2",
+      "Talisman maker ×2",
+      "Fortune teller ×3",
+      "Shrine priest ×7",
+      "51 homes and 4 shops to buy",
+      "14 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 10,
+     "id": "t10_09",
+     "name": "South-East Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 672,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×9",
+      "Merchant ×52",
+      "76 shops to buy",
+      "109 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 10,
+     "id": "t10_10",
+     "name": "Cloud Dragon Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 896,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Chief disciple ×7",
+      "Sect disciple ×16",
+      "23 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 10,
+     "id": "t10_11",
+     "name": "Cloud Dragon Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 1120,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles)",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 10,
+     "id": "t10_12",
+     "name": "South-East Temple Ward",
+     "inner": false,
+     "kind": "Temples",
+     "x": 1344,
+     "z": 896,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook)",
+      "Teahouse ×7",
+      "Scroll seller ×2",
+      "Talisman maker ×6",
+      "Fortune teller ×3",
+      "Shrine priest ×4",
+      "Sedan chairs ×2",
+      "17 homes and 15 shops to buy",
+      "33 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 11,
+     "id": "t11_12",
+     "name": "South-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1344,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Shrine priest",
+      "18 homes to buy",
+      "1 townsperson about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 11,
+     "id": "t11_11",
+     "name": "Cloud Dragon Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 1120,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles) ×2",
+      "Sect elder ×2",
+      "Sect leader ×3",
+      "Chief disciple",
+      "8 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 11,
+     "id": "t11_10",
+     "name": "Cloud Dragon Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": 896,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Steward",
+      "Martial master (fighting styles)",
+      "Sect elder ×2",
+      "Chief disciple ×8",
+      "Sect disciple ×18",
+      "Sect enforcer ×2",
+      "32 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 11,
+     "id": "t11_09",
+     "name": "South-East Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 672,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Teahouse",
+      "Talisman maker ×3",
+      "Fortune teller ×3",
+      "Shrine priest ×14",
+      "47 homes and 4 shops to buy",
+      "21 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 11,
+     "id": "t11_08",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 448,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×24",
+      "Inn (rooms to rent) ×9",
+      "Merchant ×56",
+      "80 shops to buy",
+      "112 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 11,
+     "id": "t11_07",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": 224,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×10",
+      "Inn (rooms to rent) ×2",
+      "Merchant ×9",
+      "Fortune teller",
+      "Shrine priest ×6",
+      "Sedan chairs",
+      "38 homes and 19 shops to buy",
+      "42 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 11,
+     "id": "t11_06",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": 0,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×22",
+      "Inn (rooms to rent) ×9",
+      "Merchant ×53",
+      "75 shops to buy",
+      "106 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 11,
+     "id": "t11_05",
+     "name": "South Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -224,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×5",
+      "Inn (rooms to rent)",
+      "Merchant ×18",
+      "Shrine priest ×6",
+      "55 homes and 23 shops to buy",
+      "35 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 11,
+     "id": "t11_04",
+     "name": "South Market",
+     "inner": false,
+     "kind": "Markets",
+     "x": -448,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×23",
+      "Inn (rooms to rent) ×7",
+      "Merchant ×59",
+      "82 shops to buy",
+      "111 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 11,
+     "id": "t11_03",
+     "name": "South-West Ward",
+     "inner": false,
+     "kind": "Wards",
+     "x": -672,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Teahouse",
+      "Talisman maker ×2",
+      "Fortune teller ×2",
+      "Shrine priest ×15",
+      "49 homes and 3 shops to buy",
+      "20 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 11,
+     "id": "t11_02",
+     "name": "Coiling Serpent Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -896,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Martial master (fighting styles) ×2",
+      "Sect elder ×3",
+      "Sect leader ×3",
+      "Chief disciple",
+      "9 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 11,
+     "id": "t11_01",
+     "name": "Coiling Serpent Sect Headquarters",
+     "inner": false,
+     "kind": "Sect headquarters",
+     "x": -1120,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Steward",
+      "Martial master (fighting styles)",
+      "Sect elder",
+      "Chief disciple ×8",
+      "Sect disciple ×18",
+      "Sect enforcer ×2",
+      "31 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 11,
+     "id": "t11_00",
+     "name": "South-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1344,
+     "z": 1120,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "18 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 0,
+     "j": 12,
+     "id": "t12_00",
+     "name": "South-West Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": -1344,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×8",
+      "Teahouse ×7",
+      "General store",
+      "Herbalist ×3",
+      "Alchemist",
+      "Scroll seller",
+      "Fortune teller ×3",
+      "Gambling den",
+      "Shrine priest ×2",
+      "Governor (writs and bounties)",
+      "Steward",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sedan chairs ×3",
+      "Sect leader",
+      "18 homes and 17 shops to buy",
+      "55 townspeople about"
+     ]
+    },
+    {
+     "i": 1,
+     "j": 12,
+     "id": "t12_01",
+     "name": "South-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -1120,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×5",
+      "15 homes to buy",
+      "5 townspeople about"
+     ]
+    },
+    {
+     "i": 2,
+     "j": 12,
+     "id": "t12_02",
+     "name": "South-West Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": -896,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×7",
+      "Teahouse ×5",
+      "Herbalist",
+      "Alchemist ×2",
+      "Scroll seller ×2",
+      "Talisman maker",
+      "Fortune teller ×3",
+      "Gambling den",
+      "Shrine priest ×3",
+      "Governor (writs and bounties)",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sedan chairs ×3",
+      "Sect leader",
+      "18 homes and 22 shops to buy",
+      "57 townspeople about"
+     ]
+    },
+    {
+     "i": 3,
+     "j": 12,
+     "id": "t12_03",
+     "name": "South-West Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -672,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "17 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 4,
+     "j": 12,
+     "id": "t12_04",
+     "name": "Nanxun Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": -448,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×20",
+      "Inn (rooms to rent) ×10",
+      "Merchant ×63",
+      "83 shops to buy",
+      "113 townspeople about"
+     ]
+    },
+    {
+     "i": 5,
+     "j": 12,
+     "id": "t12_05",
+     "name": "South Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": -224,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "17 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 6,
+     "j": 12,
+     "id": "t12_06",
+     "name": "South Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": 0,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×3",
+      "Teahouse ×6",
+      "General store ×2",
+      "Herbalist ×2",
+      "Alchemist",
+      "Scroll seller",
+      "Gambling den",
+      "Shrine priest",
+      "Governor (writs and bounties)",
+      "Steward ×2",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sedan chairs",
+      "Sect leader",
+      "20 homes and 21 shops to buy",
+      "45 townspeople about"
+     ]
+    },
+    {
+     "i": 7,
+     "j": 12,
+     "id": "t12_07",
+     "name": "South Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 224,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×4",
+      "16 homes to buy",
+      "4 townspeople about"
+     ]
+    },
+    {
+     "i": 8,
+     "j": 12,
+     "id": "t12_08",
+     "name": "Chenzhou Gate Market",
+     "inner": false,
+     "kind": "Gate market",
+     "x": 448,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×27",
+      "Inn (rooms to rent) ×6",
+      "Merchant ×57",
+      "84 shops to buy",
+      "117 townspeople about"
+     ]
+    },
+    {
+     "i": 9,
+     "j": 12,
+     "id": "t12_09",
+     "name": "South-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 672,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×4",
+      "16 homes to buy",
+      "4 townspeople about"
+     ]
+    },
+    {
+     "i": 10,
+     "j": 12,
+     "id": "t12_10",
+     "name": "South-East Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": 896,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×9",
+      "Teahouse ×3",
+      "General store ×3",
+      "Alchemist",
+      "Talisman maker ×4",
+      "Gambling den ×2",
+      "Shrine priest",
+      "Governor (writs and bounties)",
+      "Steward",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sedan chairs ×3",
+      "Sect leader",
+      "20 homes and 19 shops to buy",
+      "55 townspeople about"
+     ]
+    },
+    {
+     "i": 11,
+     "j": 12,
+     "id": "t12_11",
+     "name": "South-East Fields",
+     "inner": false,
+     "kind": "Fields",
+     "x": 1120,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Shrine priest ×2",
+      "17 homes to buy",
+      "2 townspeople about"
+     ]
+    },
+    {
+     "i": 12,
+     "j": 12,
+     "id": "t12_12",
+     "name": "South-East Barracks",
+     "inner": false,
+     "kind": "Barracks",
+     "x": 1344,
+     "z": 1344,
+     "img": true,
+     "has": [
+      "Restaurant (watch the chef cook) ×9",
+      "Teahouse ×10",
+      "General store ×2",
+      "Herbalist ×2",
+      "Alchemist",
+      "Fortune teller ×2",
+      "Shrine priest ×3",
+      "Governor (writs and bounties)",
+      "Steward",
+      "Leitai (bouts)",
+      "Archery range",
+      "Sect leader",
+      "18 homes and 19 shops to buy",
+      "53 townspeople about"
+     ]
+    }
+   ]
+  },
+  "map": {
+   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-b05e79f75af872585bae8e7b147cefbe528ce444.jpg",
+   "sha1": "b05e79f75af872585bae8e7b147cefbe528ce444"
+  },
+  "photos": {
+   "t00_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-8e23cb2a73ffffed01d24bfc90d8c04fddc86ab9.jpg",
+    "sha1": "8e23cb2a73ffffed01d24bfc90d8c04fddc86ab9"
+   },
+   "t00_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-1f31500f29cbb6e3f60d484c86fb2787bfd97554.jpg",
+    "sha1": "1f31500f29cbb6e3f60d484c86fb2787bfd97554"
+   },
+   "t00_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-8eee81756036b3a1f22b1f26f87533bf6ca3fd0f.jpg",
+    "sha1": "8eee81756036b3a1f22b1f26f87533bf6ca3fd0f"
+   },
+   "t00_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2858bfb2a159551e9abbb99a2090820ebdaf9c60.jpg",
+    "sha1": "2858bfb2a159551e9abbb99a2090820ebdaf9c60"
+   },
+   "t00_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-aa74ad877e205390d7a1acb5c30d4384583fe02d.jpg",
+    "sha1": "aa74ad877e205390d7a1acb5c30d4384583fe02d"
+   },
+   "t00_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-666128c63475f2c9b4c804fe92b4aba0cdafb177.jpg",
+    "sha1": "666128c63475f2c9b4c804fe92b4aba0cdafb177"
+   },
+   "t00_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2617c1e8fcb998e69dde8a296733e8676172e265.jpg",
+    "sha1": "2617c1e8fcb998e69dde8a296733e8676172e265"
+   },
+   "t00_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-58d8efe76555b39d85403ba17ab5ecade7334bdb.jpg",
+    "sha1": "58d8efe76555b39d85403ba17ab5ecade7334bdb"
+   },
+   "t00_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-07b7ac5f9f59111aafc2340bebd2d51087c34036.jpg",
+    "sha1": "07b7ac5f9f59111aafc2340bebd2d51087c34036"
+   },
+   "t00_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6863694eddbefbe6c3eae30cfcc2f46f0d5902f3.jpg",
+    "sha1": "6863694eddbefbe6c3eae30cfcc2f46f0d5902f3"
+   },
+   "t00_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-4b86cc1e1777f9a923f6e7c7d9b5b89927b46a98.jpg",
+    "sha1": "4b86cc1e1777f9a923f6e7c7d9b5b89927b46a98"
+   },
+   "t00_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f745372f74ad46bb358ce95efabf6cab6eebd9bb.jpg",
+    "sha1": "f745372f74ad46bb358ce95efabf6cab6eebd9bb"
+   },
+   "t00_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-b368019b0188ee8c987b686e3256756f346a3d43.jpg",
+    "sha1": "b368019b0188ee8c987b686e3256756f346a3d43"
+   },
+   "t01_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-bf47af8c2bdc53c62bf564f5fdc12a0475df6c6c.jpg",
+    "sha1": "bf47af8c2bdc53c62bf564f5fdc12a0475df6c6c"
+   },
+   "t01_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-79c3e2cebc95e4419e007148744c7ed2e37d765e.jpg",
+    "sha1": "79c3e2cebc95e4419e007148744c7ed2e37d765e"
+   },
+   "t01_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e7157d52d0257a2f611010b244774033338b1f63.jpg",
+    "sha1": "e7157d52d0257a2f611010b244774033338b1f63"
+   },
+   "t01_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6e1282e703f7eabc0f2fe3035a94152c45d42d27.jpg",
+    "sha1": "6e1282e703f7eabc0f2fe3035a94152c45d42d27"
+   },
+   "t01_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-ae51b84dca97757e5a745633d7d469a8c1e42684.jpg",
+    "sha1": "ae51b84dca97757e5a745633d7d469a8c1e42684"
+   },
+   "t01_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-17ad978357c67d5bbfe08e91a376696d6e54fd1b.jpg",
+    "sha1": "17ad978357c67d5bbfe08e91a376696d6e54fd1b"
+   },
+   "t01_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-082acae30e82c36d53df5d994be1ac0d4d457c09.jpg",
+    "sha1": "082acae30e82c36d53df5d994be1ac0d4d457c09"
+   },
+   "t01_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-c1d977ea51d0e72ab4ec80ff2bcaae756d32316a.jpg",
+    "sha1": "c1d977ea51d0e72ab4ec80ff2bcaae756d32316a"
+   },
+   "t01_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-cb5199d14ba1f320bdd9125972843b564adc36ec.jpg",
+    "sha1": "cb5199d14ba1f320bdd9125972843b564adc36ec"
+   },
+   "t01_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-7c53175da2b8c425983defbb1e2f465b36d43ef1.jpg",
+    "sha1": "7c53175da2b8c425983defbb1e2f465b36d43ef1"
+   },
+   "t01_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-07d1a3393d15eadde74b81b9ebafb076bf0cb255.jpg",
+    "sha1": "07d1a3393d15eadde74b81b9ebafb076bf0cb255"
+   },
+   "t01_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-64e80ac269030c7b60a44da947c3f1cff3650e3a.jpg",
+    "sha1": "64e80ac269030c7b60a44da947c3f1cff3650e3a"
+   },
+   "t01_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-988d72322a6c5411e5ddfcb27c6bc6309a8806cb.jpg",
+    "sha1": "988d72322a6c5411e5ddfcb27c6bc6309a8806cb"
+   },
+   "t02_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f392d7f66efbea4a33f3be44168950d0ac1561b4.jpg",
+    "sha1": "f392d7f66efbea4a33f3be44168950d0ac1561b4"
+   },
+   "t02_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f24846b60440a7c3754721d33cd9ac3f1a3458bb.jpg",
+    "sha1": "f24846b60440a7c3754721d33cd9ac3f1a3458bb"
+   },
+   "t02_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0615377f51cbb16d5127994fe0df46bc6c490150.jpg",
+    "sha1": "0615377f51cbb16d5127994fe0df46bc6c490150"
+   },
+   "t02_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5bb6dc8c346375d60f19bd7fac5f46adaa15030c.jpg",
+    "sha1": "5bb6dc8c346375d60f19bd7fac5f46adaa15030c"
+   },
+   "t02_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-595299bb019ea1a7b6ba12769956fc1a421c5648.jpg",
+    "sha1": "595299bb019ea1a7b6ba12769956fc1a421c5648"
+   },
+   "t02_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2bf2bfe191e14ece3326ec9c5d1240992b4fc6a4.jpg",
+    "sha1": "2bf2bfe191e14ece3326ec9c5d1240992b4fc6a4"
+   },
+   "t02_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0f515e8d0d7fa1b1831422b277458ed008243f72.jpg",
+    "sha1": "0f515e8d0d7fa1b1831422b277458ed008243f72"
+   },
+   "t02_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-74d63df4339c078e123e6b45a50157fee2a511cb.jpg",
+    "sha1": "74d63df4339c078e123e6b45a50157fee2a511cb"
+   },
+   "t02_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2805fe8ed1738214bbfb4047727ca873bf9be4f1.jpg",
+    "sha1": "2805fe8ed1738214bbfb4047727ca873bf9be4f1"
+   },
+   "t02_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2d9eb4bf48c8f6e79c2d2b48e1f34fe37a223a29.jpg",
+    "sha1": "2d9eb4bf48c8f6e79c2d2b48e1f34fe37a223a29"
+   },
+   "t02_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-c1247f77ac958e84a3547c9ff8f2b3b7a0a7f989.jpg",
+    "sha1": "c1247f77ac958e84a3547c9ff8f2b3b7a0a7f989"
+   },
+   "t02_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-1a27bd33109d447d7461ddd78e9b7e63e28f1f4e.jpg",
+    "sha1": "1a27bd33109d447d7461ddd78e9b7e63e28f1f4e"
+   },
+   "t02_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-070efbf505fbd7c0cc4770381d799b32ddc1fd87.jpg",
+    "sha1": "070efbf505fbd7c0cc4770381d799b32ddc1fd87"
+   },
+   "t03_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-b5cb24c7b8b53b556bee22f99ebdca84a29657eb.jpg",
+    "sha1": "b5cb24c7b8b53b556bee22f99ebdca84a29657eb"
+   },
+   "t03_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-aacd1815e76929686dfbdbc931622672a751eb91.jpg",
+    "sha1": "aacd1815e76929686dfbdbc931622672a751eb91"
+   },
+   "t03_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-9af25239f9afd914c751cf649fefe8152db65b91.jpg",
+    "sha1": "9af25239f9afd914c751cf649fefe8152db65b91"
+   },
+   "t03_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e89e4665982d881723730ca211e9cc859f7749fd.jpg",
+    "sha1": "e89e4665982d881723730ca211e9cc859f7749fd"
+   },
+   "t03_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-038257e17e59d26b16637a103f0ae442afe69ff3.jpg",
+    "sha1": "038257e17e59d26b16637a103f0ae442afe69ff3"
+   },
+   "t03_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-3b3096481e966cdeaa7ea5e0cf79616be12b11b9.jpg",
+    "sha1": "3b3096481e966cdeaa7ea5e0cf79616be12b11b9"
+   },
+   "t03_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e93df15e9b3233b4b6e766a66cd952819f4cbdc8.jpg",
+    "sha1": "e93df15e9b3233b4b6e766a66cd952819f4cbdc8"
+   },
+   "t03_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-a13eaee694bbe7a86302a495e81e9584fd6db4c8.jpg",
+    "sha1": "a13eaee694bbe7a86302a495e81e9584fd6db4c8"
+   },
+   "t03_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-ffd11a10d83dee2734b46a41dd2b687d7d904993.jpg",
+    "sha1": "ffd11a10d83dee2734b46a41dd2b687d7d904993"
+   },
+   "t03_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-a5312cc6a636a4757c29183b2c41abae6815f311.jpg",
+    "sha1": "a5312cc6a636a4757c29183b2c41abae6815f311"
+   },
+   "t03_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f3b675bd4e40e3ebcb92984b4deec9ee93bd4168.jpg",
+    "sha1": "f3b675bd4e40e3ebcb92984b4deec9ee93bd4168"
+   },
+   "t03_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5000438260b554cf98271caa8b1095f0bf193ce1.jpg",
+    "sha1": "5000438260b554cf98271caa8b1095f0bf193ce1"
+   },
+   "t03_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-589f71bcbf548f186963c947032065fd10046a7b.jpg",
+    "sha1": "589f71bcbf548f186963c947032065fd10046a7b"
+   },
+   "t04_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0053e39f22767e55e973d1c1d2b64e5830b40d5a.jpg",
+    "sha1": "0053e39f22767e55e973d1c1d2b64e5830b40d5a"
+   },
+   "t04_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5fb90f97481d58ab2f2d4bb8ad733b8946ffa42d.jpg",
+    "sha1": "5fb90f97481d58ab2f2d4bb8ad733b8946ffa42d"
+   },
+   "t04_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-17e19d7f8cc7c8b6300f83d3861e76fa0fe21b3d.jpg",
+    "sha1": "17e19d7f8cc7c8b6300f83d3861e76fa0fe21b3d"
+   },
+   "t04_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-867f08d3c7c0a757a883c768305a2bcd6c4c1191.jpg",
+    "sha1": "867f08d3c7c0a757a883c768305a2bcd6c4c1191"
+   },
+   "t04_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-64a038726f54d721a66bbc063c26b823e10e8d6d.jpg",
+    "sha1": "64a038726f54d721a66bbc063c26b823e10e8d6d"
+   },
+   "t04_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-399e17440c4b6b1a0f278ff23bc47f604bf4dc51.jpg",
+    "sha1": "399e17440c4b6b1a0f278ff23bc47f604bf4dc51"
+   },
+   "t04_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-4a48003932e511f90189789ff85b0b7d2d66cdc1.jpg",
+    "sha1": "4a48003932e511f90189789ff85b0b7d2d66cdc1"
+   },
+   "t04_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-fb9debf15011eafbe7121be70b2941f8ecda6d0d.jpg",
+    "sha1": "fb9debf15011eafbe7121be70b2941f8ecda6d0d"
+   },
+   "t04_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-48cceb6b868a261cdd688e4e1da58ea3feeb5e83.jpg",
+    "sha1": "48cceb6b868a261cdd688e4e1da58ea3feeb5e83"
+   },
+   "t04_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0c2f95afa20ce5c897fc6e8244c3090c7e5dcd48.jpg",
+    "sha1": "0c2f95afa20ce5c897fc6e8244c3090c7e5dcd48"
+   },
+   "t04_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-1ae4db8aa473f1bbdd02f8cd3f744c3341ec795f.jpg",
+    "sha1": "1ae4db8aa473f1bbdd02f8cd3f744c3341ec795f"
+   },
+   "t04_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6a51b485ee73bb5cd402ac4a8bc8840985ba3b96.jpg",
+    "sha1": "6a51b485ee73bb5cd402ac4a8bc8840985ba3b96"
+   },
+   "t04_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0cfc2c3f965075d242bdb7cff1ab9c26e2388ea9.jpg",
+    "sha1": "0cfc2c3f965075d242bdb7cff1ab9c26e2388ea9"
+   },
+   "t05_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2ff4c364f6bf0f6aad7770f8f74748cb296705d0.jpg",
+    "sha1": "2ff4c364f6bf0f6aad7770f8f74748cb296705d0"
+   },
+   "t05_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-41304a5e411f9fe29e45329a467fc1d849c5755a.jpg",
+    "sha1": "41304a5e411f9fe29e45329a467fc1d849c5755a"
+   },
+   "t05_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6be0461a9613cb40d46bbfa3a28cd35af2185f42.jpg",
+    "sha1": "6be0461a9613cb40d46bbfa3a28cd35af2185f42"
+   },
+   "t05_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e5ba94b111ebc59d349d38c3e6a8c332a635223a.jpg",
+    "sha1": "e5ba94b111ebc59d349d38c3e6a8c332a635223a"
+   },
+   "t05_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6f2296323fc8242e4681cf83f121e48d3b3a85d1.jpg",
+    "sha1": "6f2296323fc8242e4681cf83f121e48d3b3a85d1"
+   },
+   "t05_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-36bf057bc2d9067c827aad9c46d2aae6f94aa4db.jpg",
+    "sha1": "36bf057bc2d9067c827aad9c46d2aae6f94aa4db"
+   },
+   "t05_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f524186bdef6efe1054d955ba57a731b4822e933.jpg",
+    "sha1": "f524186bdef6efe1054d955ba57a731b4822e933"
+   },
+   "t05_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-079522084a7f804dd221c69fa3df8e52c44331d7.jpg",
+    "sha1": "079522084a7f804dd221c69fa3df8e52c44331d7"
+   },
+   "t05_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-bee5792ce633e87cdd94080cab4b3a287df69f5d.jpg",
+    "sha1": "bee5792ce633e87cdd94080cab4b3a287df69f5d"
+   },
+   "t05_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-7fe9cc03bb7eed996404a060591c6776a6e48f87.jpg",
+    "sha1": "7fe9cc03bb7eed996404a060591c6776a6e48f87"
+   },
+   "t05_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0962ad8334585f4e99e2bc8d1d85d97cf6c39a62.jpg",
+    "sha1": "0962ad8334585f4e99e2bc8d1d85d97cf6c39a62"
+   },
+   "t05_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-8420637a1bd8749f1fed8cbb48fef7064d427326.jpg",
+    "sha1": "8420637a1bd8749f1fed8cbb48fef7064d427326"
+   },
+   "t05_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-44e23a2f664be8d8a2460d5f2d0ff6e375c2b7ca.jpg",
+    "sha1": "44e23a2f664be8d8a2460d5f2d0ff6e375c2b7ca"
+   },
+   "t06_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-8b94a004563a3cf0e28eddcd85dd83f1bec3d381.jpg",
+    "sha1": "8b94a004563a3cf0e28eddcd85dd83f1bec3d381"
+   },
+   "t06_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-aaf9e6d60ba4f92de17aff12399f83aadc0f9fd4.jpg",
+    "sha1": "aaf9e6d60ba4f92de17aff12399f83aadc0f9fd4"
+   },
+   "t06_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-4ef78b58e51a9bfd9f6582efb415f985f301793a.jpg",
+    "sha1": "4ef78b58e51a9bfd9f6582efb415f985f301793a"
+   },
+   "t06_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f7b3667fa4b7bbf207bc27052dea8b11a8c7fdac.jpg",
+    "sha1": "f7b3667fa4b7bbf207bc27052dea8b11a8c7fdac"
+   },
+   "t06_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-7194808dac6a13e6139b2e410691afa6fc88bbed.jpg",
+    "sha1": "7194808dac6a13e6139b2e410691afa6fc88bbed"
+   },
+   "t06_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-546649328d2cbfcad417586cb102ccfa97dcc311.jpg",
+    "sha1": "546649328d2cbfcad417586cb102ccfa97dcc311"
+   },
+   "t06_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-08b25cffb29db6c7ad77219e0c163686bc465814.jpg",
+    "sha1": "08b25cffb29db6c7ad77219e0c163686bc465814"
+   },
+   "t06_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6926b928852d7359130bfa74d3794bae1ac3bb92.jpg",
+    "sha1": "6926b928852d7359130bfa74d3794bae1ac3bb92"
+   },
+   "t06_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-d9193ad81492eec1d0631b00790225f2c3226a34.jpg",
+    "sha1": "d9193ad81492eec1d0631b00790225f2c3226a34"
+   },
+   "t06_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-1ac0aab407b7f6c747f91992380986c5330d1a2b.jpg",
+    "sha1": "1ac0aab407b7f6c747f91992380986c5330d1a2b"
+   },
+   "t06_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-48f4cd61cf6b75785264e6b16cdb0270ec626f75.jpg",
+    "sha1": "48f4cd61cf6b75785264e6b16cdb0270ec626f75"
+   },
+   "t06_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-ab71b8db5ac89d9f2196a4aa9e26c937a1d763ee.jpg",
+    "sha1": "ab71b8db5ac89d9f2196a4aa9e26c937a1d763ee"
+   },
+   "t06_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-175c7661ae5b48241f2fb019ca243a3951546f66.jpg",
+    "sha1": "175c7661ae5b48241f2fb019ca243a3951546f66"
+   },
+   "t07_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-a6939eca42bf2cd8d8f930171b4ffee5638e79e1.jpg",
+    "sha1": "a6939eca42bf2cd8d8f930171b4ffee5638e79e1"
+   },
+   "t07_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-9d93c8ba83908b2faaeeeced5b31540bf69e9297.jpg",
+    "sha1": "9d93c8ba83908b2faaeeeced5b31540bf69e9297"
+   },
+   "t07_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-3a48812f288ad64a0d3e02ea2b1544d5aa13e685.jpg",
+    "sha1": "3a48812f288ad64a0d3e02ea2b1544d5aa13e685"
+   },
+   "t07_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-64d13a0eae025d0a64fd5a4bc4088b37e5eec928.jpg",
+    "sha1": "64d13a0eae025d0a64fd5a4bc4088b37e5eec928"
+   },
+   "t07_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-a590c4c7153fd5815052fe88898fe107032ba98d.jpg",
+    "sha1": "a590c4c7153fd5815052fe88898fe107032ba98d"
+   },
+   "t07_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-05019beeaac2e709cd75125097143afef5eaec35.jpg",
+    "sha1": "05019beeaac2e709cd75125097143afef5eaec35"
+   },
+   "t07_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5365172fdee1278d2d1286c4153175194eb434ba.jpg",
+    "sha1": "5365172fdee1278d2d1286c4153175194eb434ba"
+   },
+   "t07_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0bba0d282262166ecd1665cde23943b7d3fe3731.jpg",
+    "sha1": "0bba0d282262166ecd1665cde23943b7d3fe3731"
+   },
+   "t07_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-8993fe8f846addd971d9a5d267468890146ea01a.jpg",
+    "sha1": "8993fe8f846addd971d9a5d267468890146ea01a"
+   },
+   "t07_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-c2a77775a3fef75a1e2de2c443b366413e516eb7.jpg",
+    "sha1": "c2a77775a3fef75a1e2de2c443b366413e516eb7"
+   },
+   "t07_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-197663f985f7abc3b449f79ffc356ae8793f9c0a.jpg",
+    "sha1": "197663f985f7abc3b449f79ffc356ae8793f9c0a"
+   },
+   "t07_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-b0c5ea3d46d4efbe646c55320aa60f2a0d5ab272.jpg",
+    "sha1": "b0c5ea3d46d4efbe646c55320aa60f2a0d5ab272"
+   },
+   "t07_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e344fb4a25456681af4fd8aa8bbecdc06bbe5b6a.jpg",
+    "sha1": "e344fb4a25456681af4fd8aa8bbecdc06bbe5b6a"
+   },
+   "t08_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-bb25342575a903ad5ffcdfd5c44a3dc423cb9685.jpg",
+    "sha1": "bb25342575a903ad5ffcdfd5c44a3dc423cb9685"
+   },
+   "t08_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-c14e6712c53bcec99a05686074ab950f1cd04087.jpg",
+    "sha1": "c14e6712c53bcec99a05686074ab950f1cd04087"
+   },
+   "t08_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-b1d23a743fc61c043a465c56deee4c4794be3a53.jpg",
+    "sha1": "b1d23a743fc61c043a465c56deee4c4794be3a53"
+   },
+   "t08_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-fec4b22b4a4adf286c0917875cd0f58a6cca29ca.jpg",
+    "sha1": "fec4b22b4a4adf286c0917875cd0f58a6cca29ca"
+   },
+   "t08_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-39719d709b24f61713348a2bb1ca11800656a602.jpg",
+    "sha1": "39719d709b24f61713348a2bb1ca11800656a602"
+   },
+   "t08_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-c1e3698d85eb247ca86bff722562a27e10f3bcca.jpg",
+    "sha1": "c1e3698d85eb247ca86bff722562a27e10f3bcca"
+   },
+   "t08_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-512e6e98119d6dd2743c7794e448fc914909d2e1.jpg",
+    "sha1": "512e6e98119d6dd2743c7794e448fc914909d2e1"
+   },
+   "t08_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0336104bd30f3f3603af6577f2797e9f402e0096.jpg",
+    "sha1": "0336104bd30f3f3603af6577f2797e9f402e0096"
+   },
+   "t08_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-364590e87b31aa7ef1cd49a5e3186b3f84a94add.jpg",
+    "sha1": "364590e87b31aa7ef1cd49a5e3186b3f84a94add"
+   },
+   "t08_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5b6b8c1d9863eabf21428fe7df994b6e38583ec5.jpg",
+    "sha1": "5b6b8c1d9863eabf21428fe7df994b6e38583ec5"
+   },
+   "t08_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-76ff184c9d8507fcd8beacc04f496a9749301d4e.jpg",
+    "sha1": "76ff184c9d8507fcd8beacc04f496a9749301d4e"
+   },
+   "t08_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-d30ffb4b2ea6f330c8e33e356a42a712e7b8ea99.jpg",
+    "sha1": "d30ffb4b2ea6f330c8e33e356a42a712e7b8ea99"
+   },
+   "t08_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-10d673c0973568a20666ca911bfc5ddc1273e240.jpg",
+    "sha1": "10d673c0973568a20666ca911bfc5ddc1273e240"
+   },
+   "t09_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-234c8fae031332c15d663b078e72923bd9516c6f.jpg",
+    "sha1": "234c8fae031332c15d663b078e72923bd9516c6f"
+   },
+   "t09_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-98d5b5499eaccb306dc11ccf463d70a398319111.jpg",
+    "sha1": "98d5b5499eaccb306dc11ccf463d70a398319111"
+   },
+   "t09_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-bde071eabace87c69acb6876413e03d3a0c44d46.jpg",
+    "sha1": "bde071eabace87c69acb6876413e03d3a0c44d46"
+   },
+   "t09_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-68530987c6e48d00757d94966b7032db3163af89.jpg",
+    "sha1": "68530987c6e48d00757d94966b7032db3163af89"
+   },
+   "t09_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-eeec82cd21b214fa3547161d57525702f1ffb2c6.jpg",
+    "sha1": "eeec82cd21b214fa3547161d57525702f1ffb2c6"
+   },
+   "t09_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-a08280496412dc24b06983cf646a5d7df8515901.jpg",
+    "sha1": "a08280496412dc24b06983cf646a5d7df8515901"
+   },
+   "t09_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e69a4e05525ea440bb0bdea95f3c603b1bda5f05.jpg",
+    "sha1": "e69a4e05525ea440bb0bdea95f3c603b1bda5f05"
+   },
+   "t09_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-05ceaf103b357c415097425e5a46b077b45822c9.jpg",
+    "sha1": "05ceaf103b357c415097425e5a46b077b45822c9"
+   },
+   "t09_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5c02c1a91771e3d568a929eccc1944cc10a084d1.jpg",
+    "sha1": "5c02c1a91771e3d568a929eccc1944cc10a084d1"
+   },
+   "t09_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-54480af287a6a48bd5f64e014f236cdc8c313fdc.jpg",
+    "sha1": "54480af287a6a48bd5f64e014f236cdc8c313fdc"
+   },
+   "t09_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-84b5c9c29acffd28216a1e1232cb370d331e8699.jpg",
+    "sha1": "84b5c9c29acffd28216a1e1232cb370d331e8699"
+   },
+   "t09_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-ce18424000d8c546b0294eaadbb6b9055403e69a.jpg",
+    "sha1": "ce18424000d8c546b0294eaadbb6b9055403e69a"
+   },
+   "t09_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-776e3675e20a01d4118bbd0749c58cf7777907a0.jpg",
+    "sha1": "776e3675e20a01d4118bbd0749c58cf7777907a0"
+   },
+   "t10_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-ef0f17f493eadfbe716605343d17b4643a0b409d.jpg",
+    "sha1": "ef0f17f493eadfbe716605343d17b4643a0b409d"
+   },
+   "t10_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-b6344782ac4d058d611402d922a16b4558ef51a9.jpg",
+    "sha1": "b6344782ac4d058d611402d922a16b4558ef51a9"
+   },
+   "t10_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-52d5105b7d9d4161edaa45807885ab6ccfd57507.jpg",
+    "sha1": "52d5105b7d9d4161edaa45807885ab6ccfd57507"
+   },
+   "t10_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-1141eeb41a5142b8220b52ff915d33e9af9f3486.jpg",
+    "sha1": "1141eeb41a5142b8220b52ff915d33e9af9f3486"
+   },
+   "t10_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6f00595ca0cc4d5c8f8a031f18b92df591387495.jpg",
+    "sha1": "6f00595ca0cc4d5c8f8a031f18b92df591387495"
+   },
+   "t10_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-7651f0b3f954b7a218cb5776b4c1d84ebc8c6f33.jpg",
+    "sha1": "7651f0b3f954b7a218cb5776b4c1d84ebc8c6f33"
+   },
+   "t10_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f578f5590abcf4dd99226081b8ce467e5257f237.jpg",
+    "sha1": "f578f5590abcf4dd99226081b8ce467e5257f237"
+   },
+   "t10_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-e411637a176bd0dba00116facf6ce8a56a260b43.jpg",
+    "sha1": "e411637a176bd0dba00116facf6ce8a56a260b43"
+   },
+   "t10_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-4c5ed0b7196fe40f2a561f8932b56e459e9df001.jpg",
+    "sha1": "4c5ed0b7196fe40f2a561f8932b56e459e9df001"
+   },
+   "t10_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-c6a0034d172fb744efcdfb0d1b33d45a316c1fcf.jpg",
+    "sha1": "c6a0034d172fb744efcdfb0d1b33d45a316c1fcf"
+   },
+   "t10_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-64ff0c842f893f4d7ad22c430df72cb7be3a744e.jpg",
+    "sha1": "64ff0c842f893f4d7ad22c430df72cb7be3a744e"
+   },
+   "t10_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2c1d8d937c14a132a608156ec737040193f4f1ef.jpg",
+    "sha1": "2c1d8d937c14a132a608156ec737040193f4f1ef"
+   },
+   "t10_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-0bd6fdf7f49902b0a2eb283e828a43d4ba0b0b63.jpg",
+    "sha1": "0bd6fdf7f49902b0a2eb283e828a43d4ba0b0b63"
+   },
+   "t11_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-396dabdcb5070a637f181783fe75140f9815aedc.jpg",
+    "sha1": "396dabdcb5070a637f181783fe75140f9815aedc"
+   },
+   "t11_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5bb11a3666f5debb68858d56b0ce8413afcd4fb0.jpg",
+    "sha1": "5bb11a3666f5debb68858d56b0ce8413afcd4fb0"
+   },
+   "t11_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-70317432cfd6e63049b857acc469bc566696d959.jpg",
+    "sha1": "70317432cfd6e63049b857acc469bc566696d959"
+   },
+   "t11_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f0ad5a80c34d315367f453a0c9d8824306ce381d.jpg",
+    "sha1": "f0ad5a80c34d315367f453a0c9d8824306ce381d"
+   },
+   "t11_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-7575aa1bd0d4987f77f5e1ffe01f83f623152cce.jpg",
+    "sha1": "7575aa1bd0d4987f77f5e1ffe01f83f623152cce"
+   },
+   "t11_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-289813793139a0fee97cff9e48fd702a4ec31fb2.jpg",
+    "sha1": "289813793139a0fee97cff9e48fd702a4ec31fb2"
+   },
+   "t11_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-d32008254f0e26855f21dd04e31a536818ac93f2.jpg",
+    "sha1": "d32008254f0e26855f21dd04e31a536818ac93f2"
+   },
+   "t11_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-f74fa7c9b067f22a2b19590313c30b94dce0ad54.jpg",
+    "sha1": "f74fa7c9b067f22a2b19590313c30b94dce0ad54"
+   },
+   "t11_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-9306f42b1d61277af91e55cdab29801968c7d20c.jpg",
+    "sha1": "9306f42b1d61277af91e55cdab29801968c7d20c"
+   },
+   "t11_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-9baf567a0854b2e81607604489dede2a166b12a4.jpg",
+    "sha1": "9baf567a0854b2e81607604489dede2a166b12a4"
+   },
+   "t11_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-762d24a03cec12a99cbbfc89e953afafa3c08e8e.jpg",
+    "sha1": "762d24a03cec12a99cbbfc89e953afafa3c08e8e"
+   },
+   "t11_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-627f687892827be4b70f67430a77f12c8b84e1ef.jpg",
+    "sha1": "627f687892827be4b70f67430a77f12c8b84e1ef"
+   },
+   "t11_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6937188869cc03f8ec30199e8ecf737574c979e8.jpg",
+    "sha1": "6937188869cc03f8ec30199e8ecf737574c979e8"
+   },
+   "t12_00": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-3f48489fb06985b69d162249574b7e08fee97397.jpg",
+    "sha1": "3f48489fb06985b69d162249574b7e08fee97397"
+   },
+   "t12_01": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-5d8df5bf85e0a9861ff8788cc2af7864263373ed.jpg",
+    "sha1": "5d8df5bf85e0a9861ff8788cc2af7864263373ed"
+   },
+   "t12_02": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-6246a1e2fff4f8889246f65a9a75882b2d8b3595.jpg",
+    "sha1": "6246a1e2fff4f8889246f65a9a75882b2d8b3595"
+   },
+   "t12_03": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-2442d62bc0a65ceb3911fea991b8ef35ae2da88c.jpg",
+    "sha1": "2442d62bc0a65ceb3911fea991b8ef35ae2da88c"
+   },
+   "t12_04": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-4019cc109925c7425702442e5927e6f7f6b3bb5e.jpg",
+    "sha1": "4019cc109925c7425702442e5927e6f7f6b3bb5e"
+   },
+   "t12_05": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-dbe18e128864ca4e4ec5908e4cc60b41b3fe95f1.jpg",
+    "sha1": "dbe18e128864ca4e4ec5908e4cc60b41b3fe95f1"
+   },
+   "t12_06": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-9d87933090211485a29cb4978a54741cedb3153b.jpg",
+    "sha1": "9d87933090211485a29cb4978a54741cedb3153b"
+   },
+   "t12_07": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-57e1594e26645dd1f85d9ce14a27f76e799f694e.jpg",
+    "sha1": "57e1594e26645dd1f85d9ce14a27f76e799f694e"
+   },
+   "t12_08": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-8f4e1b0b7185d4a8de03ad5628d284baa439ec77.jpg",
+    "sha1": "8f4e1b0b7185d4a8de03ad5628d284baa439ec77"
+   },
+   "t12_09": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-aa3650117a73aac317e819fcf4822887e6726257.jpg",
+    "sha1": "aa3650117a73aac317e819fcf4822887e6726257"
+   },
+   "t12_10": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-3bc01f7f9542efa95cf5975a789c4e62acbe71ef.jpg",
+    "sha1": "3bc01f7f9542efa95cf5975a789c4e62acbe71ef"
+   },
+   "t12_11": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-4c30f46eba174681b802b4f4411e1e2444458221.jpg",
+    "sha1": "4c30f46eba174681b802b4f4411e1e2444458221"
+   },
+   "t12_12": {
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/atlas-1e1c2f5e34dfe3697e00ddccdc1d39b6efc02751.jpg",
+    "sha1": "1e1c2f5e34dfe3697e00ddccdc1d39b6efc02751"
+   }
+  }
  }
 }

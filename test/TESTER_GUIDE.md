@@ -1,10 +1,16 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test4)
+# Dao Ascendant: tester guide (test build 0.1.0-test5)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
-mechanics are all there, but the looks aren't finished: textures, skins and many buildings are placeholders, and the
-grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
+mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
+skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test5:** the **City Atlas**: the great city is the same in every world, every city gate has a **map of it on
+the wall** (right-click it), and the launcher has a **City Atlas** tab with every district's photo and what's there
+(restaurants, inns, shops and homes to buy, who works there); every weapon is a **3D model** in your hands; final
+art for every Dao block and item; tiger claws worn over the fist; all 14 **wild animals** have their final looks,
+habits and animations.
 
 **New in test4:** the pack's key layout v3 (press **Apply Alantria layout** on the launcher's Controls page once);
 the Vatansever's finisher on **Z**; NightFall weapons' held-button moves fixed; **lock-on in third person** now turns
@@ -24,7 +30,7 @@ warehouses, shrines and **mansions that grow**; the last city decor; no mod says
    the server, and your normal Alantria instance stays untouched.
 4. Set **Memory** to at least 10 GB in Settings (12 GB if your PC has 32 GB).
 5. In game: **Singleplayer → Create New World**, Game Mode **Survival**, **Allow Cheats: ON** (you need commands).
-   Use a **new world**: the great city's walls only appear in worlds made with this build.
+   Use a **new world**: the great city's walls and the maps at its gates only appear in worlds made with this build.
 
 New test builds arrive by themselves the next time you press Play on the Test instance tab.
 
@@ -218,6 +224,8 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
 7. [ ] Each weapon (`/give @s daoascendant:iron_jian`, `iron_dao`, `iron_qiang`, `iron_guandao`, `iron_staff`,
        `iron_war_fan`, `iron_twin_hooks`, `iron_tiger_claws`) and bare hands in combat mode: combo, V, Z / X / C,
        mouse 5, right-click guard (unlock Guard on the skill tree, key `I`). Feel right? Too fast or slow?
+   - [ ] (new) The weapons are 3D models now: do they look right and sit right in the hand, in first and third
+         person?
 8. [ ] Leaps (Ctrl + Space, hold and let go), and lock-on leaps onto a mob. Does Ctrl + Space get in the way of
    crouching or jumping?
 9. [ ] Gathering (Ctrl + E): the crouch, rubble rising, the scream when full. A Spirit Pouch with stones.
@@ -233,6 +241,10 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
         Anything floating, empty or broken? Any stutter?
 14. [ ] Buy a house at its red plaque, build it up (a mansion too); rent an inn room; ride a sedan chair; try
         pickpocketing. Find a restaurant (jiulou) and watch the chef cook; buy a dish.
+   - [ ] (new) At a city gate, find the map on the wall and right-click it: the City Atlas opens. Hover a few
+         districts, then walk there: does what it lists match what you find?
+   - [ ] (new) The launcher's **City Atlas** tab: zoom, pan, click a district, search ("inn", "blacksmith",
+         "restaurant"). Easy to find what you need?
 
 **F. The world's events (new)**
 15. [ ] A world boss (`/dao boss summon thunder_qilin here`): do the red warnings give you time to dodge? Spoils?
@@ -244,7 +256,7 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
 19. [ ] Alchemy, the Spirit Forge, talismans, a spirit iron blueprint, a Dao steel weapon at the smithing table.
 20. [ ] Sects: join, Mission Board, ranks, Living Quarters, styles, leaving and coming back with a writ.
 21. [ ] Explore a fresh world: hermit caves, spirit-vein caves, wildlife, our enemies; no place full of one mod's
-        monsters?
+        monsters? (new) The wild animals' looks, habits (resting, drinking, herds) and animations.
 22. [ ] Performance: any stutter or FPS drops (big effects, the city, a boss fight)? Note your PC's RAM and the
         launcher's RAM setting.
 
