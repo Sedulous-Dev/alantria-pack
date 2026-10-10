@@ -1,10 +1,16 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test3)
+# Dao Ascendant: tester guide (test build 0.1.0-test4)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: textures, skins and many buildings are placeholders, and the
 grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test4:** the pack's key layout v3 (press **Apply Alantria layout** on the launcher's Controls page once);
+the Vatansever's finisher on **Z**; NightFall weapons' held-button moves fixed; **lock-on in third person** now turns
+you to the target; sect **weapon styles** on any weapon and the Hundred Schools' **fused techniques**; spirit beasts
+from real artists' models; no more black 3D rocks and swords by day; restaurants with a **chef you can watch cook**,
+warehouses, shrines and **mansions that grow**; the last city decor; no mod says "mana" any more.
 
 ---
 
@@ -64,7 +70,7 @@ realm's page. Every art now plays **its own animation** and **its own 3D effect*
 **Gathering.** Hold **Ctrl + E** to gather energy: you crouch, power up and the meter refills fast. You learn it by
 meditating. A **Spirit Pouch** (its own Curios slot) burns spirit stones for a quick refill.
 
-**Leaps** (Earth Realm on). Hold **Alt + Space** to coil, let go to leap; longer holds go further. The landing hits
+**Leaps** (Earth Realm on). Hold **Ctrl + Space** to coil, let go to leap; longer holds go further. The landing hits
 what's round you and cracks the ground, which settles back. Each sect has its own leap.
 
 **Weapons.** Eight Chinese weapons (jian, dao, qiang, guandao, staff, war fan, twin hooks, tiger claws) and bare hands
@@ -72,6 +78,15 @@ each have a full moveset of their own. In combat mode: left click combo, **V** h
 charge; in the air, strike down), **Z / X / C** the weapon's three skills, **mouse button 5** its arts, **right click**
 guards and parries (other mods' weapons keep their right-click power on **Z**). Every weapon comes in wood, stone,
 iron, gold, diamond, spirit iron, netherite and **Dao steel**. Each sect has a **signature weapon** with its own moves.
+Your sect's **weapon style** works on any weapon (Tiger heavier hits, Crane reach, Leopard bleeding, Serpent venom,
+Dragon launches); beat every Chief Disciple or sect leader for the Hundred Schools' fused Fist or Blade.
+
+**Other mods' weapons.** Their buttons are on the weapon's tooltip where they're not obvious. The **Vatansever**:
+left click combo, **Z** right after the 3rd hit is a finisher (one click per hit, not spam), **mouse 5** frost blades,
+left click + **B** with 7 stacks and a locked target close by: execution. **NightFall** weapons: left click combo,
+**mouse 5** skills spend stacks you earn by landing hits. **Ctrl + right click** is Sword Soaring's sword skill: it
+tells you what's missing when it can't fire (it never works with the Vatansever). **F** locks on, also in third
+person.
 
 **Spells.** Iron's Spellbooks mana is replaced by your energy. Six new schools (Water, Earth, Metal and three
 deepened ones), every spell with its own 3D effect and casting animation. Our scrolls are made at Iron's Scroll Forge
@@ -96,7 +111,7 @@ dies, the winners get contribution, stones and a few days of glory.
 inside. Walk through a gate's glowing veil and you're in the city itself, its own world: the inner city (palace,
 markets, the river, temples, theatres), the outer wards, and the five sects' grand headquarters. Buy and build up a
 **house or shop**, rent an inn room, ride a **sedan chair** or a ferry, eat, bathe, gamble, watch the opera, enter
-contests (archery, leitai, cuju, dragon boats), pick pockets (at your own risk: sink your standing low enough and the
+contests (archery, leitai, cuju, dragon boats), watch a chef cook in a restaurant's kitchen, pick pockets (at your own risk: sink your standing low enough and the
 gates are closed to you until you defend one from a raid). No player may hurt another inside the city.
 
 **The world.** Sect compounds and **hermit caves** in the mountains (hermit sages sell hints), spirit-vein caves,
@@ -131,10 +146,11 @@ fights), the **Respec altar** (start over with a new element), and at the very t
 | City standing | How the city sees you: buys houses, opens doors; theft lowers it. |
 | Spirit stones | Money and cultivation material. |
 
-**Keys:** `K` cultivation menu · hold `R` for the wheel, tap `R` to cast · `Ctrl + E` Gathering · `Alt + Space` leap
-· `V` heavy · `Z / X / C` weapon skills · mouse button 5 arts / charged attack · right click guard. All rebindable in
-Controls (the launcher's Controls page shows the whole layout). **Alt is also Epic Fight's dodge:** if the leap gets in
-the way, move it in Controls and tell us which key you picked.
+**Keys** (after **Apply Alantria layout** on the launcher's Controls page): `K` cultivation menu · hold `R` for the wheel, tap `R` to cast · `Ctrl + E` Gathering · `Ctrl + Space` leap
+· `V` heavy · `Z / X / C` weapon skills · mouse button 5 arts / charged attack · right click guard · `F` lock-on ·
+`Ctrl + K` Dao Record. All rebindable in
+Controls (the launcher's Controls page shows the whole layout). **Ctrl is also sneak** in the pack's layout, so you
+crouch as you coil for a leap; if the leap gets in the way, move it in Controls and tell us which key you picked.
 
 ---
 
@@ -191,11 +207,19 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
        Descends, Immortal Crane Ascends.
 6. [ ] The wheel itself: favorites, pages, quick to flick?
 
+**B2. Keys and other mods' weapons (new)**
+- [ ] Launcher → Controls → **Apply Alantria layout**, then play. Anything that still clashes or doesn't fire?
+- [ ] The Vatansever (`/give @s sword_soaring:vatansever`): combo, **Z** finisher after the 3rd hit, mouse 5 blades.
+- [ ] A NightFall weapon (`/give @s efn:yamato_dmc`, `efn:sword_of_pioneer`...): hit something, then mouse 5.
+- [ ] Third person (F5), walk away from a mob, then **F**: do you turn to face it and keep facing it while strafing?
+- [ ] Your sect's weapon style on a weapon from another mod.
+
 **C. Combat**
 7. [ ] Each weapon (`/give @s daoascendant:iron_jian`, `iron_dao`, `iron_qiang`, `iron_guandao`, `iron_staff`,
        `iron_war_fan`, `iron_twin_hooks`, `iron_tiger_claws`) and bare hands in combat mode: combo, V, Z / X / C,
        mouse 5, right-click guard (unlock Guard on the skill tree, key `I`). Feel right? Too fast or slow?
-8. [ ] Leaps (Alt + Space, hold and let go), and lock-on leaps onto a mob. Does Alt clash with dodging?
+8. [ ] Leaps (Ctrl + Space, hold and let go), and lock-on leaps onto a mob. Does Ctrl + Space get in the way of
+   crouching or jumping?
 9. [ ] Gathering (Ctrl + E): the crouch, rubble rising, the scream when full. A Spirit Pouch with stones.
 
 **D. Mortal Plane and training**
@@ -207,7 +231,8 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
 **E. The Great City (new world)**
 13. [ ] `/dao city find`, walk through a gate's veil. Walk the inner city, the wards and a sect's headquarters.
         Anything floating, empty or broken? Any stutter?
-14. [ ] Buy a house at its red plaque, build it up; rent an inn room; ride a sedan chair; try pickpocketing.
+14. [ ] Buy a house at its red plaque, build it up (a mansion too); rent an inn room; ride a sedan chair; try
+        pickpocketing. Find a restaurant (jiulou) and watch the chef cook; buy a dish.
 
 **F. The world's events (new)**
 15. [ ] A world boss (`/dao boss summon thunder_qilin here`): do the red warnings give you time to dodge? Spoils?
