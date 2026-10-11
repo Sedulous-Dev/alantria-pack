@@ -29945,9 +29945,9 @@
   ]
  },
  "launcher": {
-  "version": "1.4.0",
-  "sha1": "8a8d92131a573d55d60e952575ede7d315540eae",
-  "size": 28114648,
+  "version": "1.4.1",
+  "sha1": "8d2a6c8b45b1821633e398c36f0cb25217e57c0e",
+  "size": 28112936,
   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/launcher/AlantriaLauncher.exe"
  },
  "test": {
@@ -29958,9 +29958,9 @@
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "01b20bf564a24ce021e16f942e66e2f9fa966000",
-    "size": 47967409,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/01b20bf564a24ce021e16f942e66e2f9fa966000.jar",
+    "sha1": "7826af15cc4dfcedd382ae87e3213cd82564cc06",
+    "size": 78715946,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/7826af15cc4dfcedd382ae87e3213cd82564cc06.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
