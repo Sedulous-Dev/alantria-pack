@@ -29952,18 +29952,64 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test5",
-  "notes": "Dao Ascendant test build 0.1.0-test5\n  • City Atlas: the great city is the same in every world now, and every city gate has a map of it on the wall. Right-click the map to open the atlas: hover a district to see what's there. Use a NEW world to get the gate maps.\n  • The launcher has a City Atlas tab: the city from above, every district's photo, and what's in each (restaurants, inns, shops and homes to buy, who works there). Search it: \"inn\", \"blacksmith\", \"restaurant\".\n  • Every weapon is a 3D model in your hands.\n  • Final art for every Dao block and item; tiger claws are worn over the fist.\n  • All 14 wild animals have their final looks, habits (resting, drinking, herds) and animations.\n  • Keys: if you haven't since test4, open the launcher's Controls page and press \"Apply Alantria layout\" once (layout v3).\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test6",
+  "notes": "Dao Ascendant test build 0.1.0-test6\n  • Weapons: held through the closed fist; drawing pulls only the blade and the sheath stays on your hip or back (jian and dao at the hip, nine-ring broadsword and hooks on the back, emei in the sash, polearms on a back strap); tassels swing; the war fan opens in your hand; every weapon comes in several designs (the city's blacksmith reforges the look).\n  • Our own sounds for animals, foes, bosses, weapons, spells, screens and townsfolk. Music and the places' own background sounds come as a resource pack that's on by itself.\n  • World bosses and legendary beasts on their own models with their own moves and effects; bandits, jiangshi, the fox spirit, the Door Guardian, the Heart Demon and the Heavenly Dao in new looks.\n  • Every screen in the Alantria look; textures that move; creatures' glowing marks and eyes; qi in your element's colour (meditation, sword-qi trails, your weapon's qi bands); Aura Sight shows auras.\n  • Townsfolk at work and at rest; a new animal, the quokka.\n  • The Vatansever works with sword skills (Ctrl + right click goes to the sword skill alone) and its spirit sword keeps pace with you; the skill tree's skill book is no longer hidden under the tree.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "7826af15cc4dfcedd382ae87e3213cd82564cc06",
-    "size": 78715946,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/7826af15cc4dfcedd382ae87e3213cd82564cc06.jar",
+    "sha1": "2d7043acd169f3d0d4677af122133caf4f679264",
+    "size": 139079339,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2d7043acd169f3d0d4677af122133caf4f679264.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
+   },
+   {
+    "path": "mods/epicfight-skilltree-neoforge-21.3.3-1.21.1-SLOT-FIX.jar",
+    "sha1": "b49cb7c84cd36c1f21bc075174f571f52469114b",
+    "size": 313660,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/b49cb7c84cd36c1f21bc075174f571f52469114b.jar",
+    "mode": "strict",
+    "name": "Epic Fight: Skill Tree",
+    "version": "21.3.3"
+   },
+   {
+    "path": "mods/sword_soaring-21.14.2.5-mc1.21.1-neoforge-EF21.17-PATCHED-v17-HOOKS-FIX.jar",
+    "sha1": "3f57758d3dc0da93f9bc2a50534dffa1a9909d7e",
+    "size": 18527459,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/3f57758d3dc0da93f9bc2a50534dffa1a9909d7e.jar",
+    "mode": "strict",
+    "name": "Epic Fight - Sword Soaring",
+    "version": "21.14.2.5"
+   },
+   {
+    "path": "config/sword_soaring-common.toml",
+    "sha1": "14e19e8161ed7668034572027bf39a79e300c1c1",
+    "size": 1174,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/14e19e8161ed7668034572027bf39a79e300c1c1.toml",
+    "mode": "strict"
+   },
+   {
+    "path": "config/openloader/resources/alantria_sounds.zip",
+    "sha1": "d9ca8bcb1c2a3582837e2db6f7a2264e75203762",
+    "size": 75006331,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/d9ca8bcb1c2a3582837e2db6f7a2264e75203762.zip",
+    "mode": "strict"
+   },
+   {
+    "path": "config/openloader/resources/alantria-fixes/pack.mcmeta",
+    "sha1": "225755945b158a0a09d7732a28aa1b7631baf1d9",
+    "size": 106,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/225755945b158a0a09d7732a28aa1b7631baf1d9.mcmeta",
+    "mode": "strict"
+   },
+   {
+    "path": "config/openloader/resources/alantria-fixes/assets/sword_soaring/lang/en_us.json",
+    "sha1": "2109084985fdb9e35b0bb519953d45de18c5a27e",
+    "size": 129,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2109084985fdb9e35b0bb519953d45de18c5a27e.json",
+    "mode": "strict"
    }
   ]
  }

@@ -1,10 +1,23 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test5)
+# Dao Ascendant: tester guide (test build 0.1.0-test6)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
 skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test6:** **weapons held by the grip**: drawing pulls only the blade, and the **sheath stays on your hip
+or back** (jian and dao at the hip, the nine-ring broadsword and hooks on the back, emei piercers in the sash,
+polearms on a back strap); **tassels swing**; the **war fan opens in your hand**; polearm moves keep the shaft beside
+the body; every weapon comes in **several designs** (a crafted one is random; the city's blacksmith reforges the
+look). **Our own sounds** for animals, foes, bosses, weapons, spells, screens and townsfolk, plus **music and the
+places' own background sounds** (a resource pack that's on by itself). The **world bosses and legendary beasts** on
+their own models with their own moves and effects; bandits, jiangshi, the fox spirit, the Door Guardian, the Heart
+Demon and the Heavenly Dao in new looks. **Every screen** in the Alantria look, and textures that move. Creatures'
+**glowing marks and eyes**; **qi in your element's colour** (meditation, sword-qi trails, your weapon's qi bands); **Aura Sight** shows
+auras around cultivators. Townsfolk **at work and at rest**; a new animal, the **quokka**. The **Vatansever** works
+with sword skills (Gate of Babylon; **Ctrl + right click** goes to the sword skill alone), and the skill tree's
+skill book is no longer drawn under the tree.
 
 **New in test5:** the **City Atlas**: the great city is the same in every world, every city gate has a **map of it on
 the wall** (right-click it), and the launcher has a **City Atlas** tab with every district's photo and what's there
@@ -216,6 +229,7 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
 **B2. Keys and other mods' weapons (new)**
 - [ ] Launcher → Controls → **Apply Alantria layout**, then play. Anything that still clashes or doesn't fire?
 - [ ] The Vatansever (`/give @s sword_soaring:vatansever`): combo, **Z** finisher after the 3rd hit, mouse 5 blades.
+- [ ] (new) The Vatansever with a sword skill equipped (Gate of Babylon, skill tree key `I`): **Ctrl + right click** fires the skill and nothing else.
 - [ ] A NightFall weapon (`/give @s efn:yamato_dmc`, `efn:sword_of_pioneer`...): hit something, then mouse 5.
 - [ ] Third person (F5), walk away from a mob, then **F**: do you turn to face it and keep facing it while strafing?
 - [ ] Your sect's weapon style on a weapon from another mod.
@@ -224,8 +238,9 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
 7. [ ] Each weapon (`/give @s daoascendant:iron_jian`, `iron_dao`, `iron_qiang`, `iron_guandao`, `iron_staff`,
        `iron_war_fan`, `iron_twin_hooks`, `iron_tiger_claws`) and bare hands in combat mode: combo, V, Z / X / C,
        mouse 5, right-click guard (unlock Guard on the skill tree, key `I`). Feel right? Too fast or slow?
-   - [ ] (new) The weapons are 3D models now: do they look right and sit right in the hand, in first and third
-         person?
+   - [ ] The weapons are 3D models: do they look right and sit right in the hand, in first and third person?
+   - [ ] (new) Draw and put away (right click draws; a weapon left idle is put away): does the sheath stay on your
+         hip or back? Do the tassels swing? Does the war fan open in your hand?
 8. [ ] Leaps (Ctrl + Space, hold and let go), and lock-on leaps onto a mob. Does Ctrl + Space get in the way of
    crouching or jumping?
 9. [ ] Gathering (Ctrl + E): the crouch, rubble rising, the scream when full. A Spirit Pouch with stones.
