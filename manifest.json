@@ -29952,15 +29952,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test6",
-  "notes": "Dao Ascendant test build 0.1.0-test6\n  • Weapons: held through the closed fist; drawing pulls only the blade and the sheath stays on your hip or back (jian and dao at the hip, nine-ring broadsword and hooks on the back, emei in the sash, polearms on a back strap); tassels swing; the war fan opens in your hand; every weapon comes in several designs (the city's blacksmith reforges the look).\n  • Our own sounds for animals, foes, bosses, weapons, spells, screens and townsfolk. Music and the places' own background sounds come as a resource pack that's on by itself.\n  • World bosses and legendary beasts on their own models with their own moves and effects; bandits, jiangshi, the fox spirit, the Door Guardian, the Heart Demon and the Heavenly Dao in new looks.\n  • Every screen in the Alantria look; textures that move; creatures' glowing marks and eyes; qi in your element's colour (meditation, sword-qi trails, your weapon's qi bands); Aura Sight shows auras.\n  • Townsfolk at work and at rest; a new animal, the quokka.\n  • The Vatansever works with sword skills (Ctrl + right click goes to the sword skill alone) and its spirit sword keeps pace with you; the skill tree's skill book is no longer hidden under the tree.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test7",
+  "notes": "Dao Ascendant test build 0.1.0-test7\n  • Wrists: the fist now bends at the wrist with whatever it holds, so every weapon stays held in the hand through every move: ours, and other mods' too (Epic Fight's own, NightFall, the Vatansever...). Our weapons sit in the grip shown on Epic Fight's own model, and all their moves were rebuilt for it.\n  • Townsfolk hold their tools with natural wrists: the smith's tongs, Meng Po's ladle, the archer's bow, the chef's wok, spatula and dishes, teapots and brushes.\n  • The jian's ready stance holds the blade forward and up.\n  • Everything from test6 is still here: sheaths stay on the body, swinging tassels, the war fan opens in the hand, music and city sounds.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "2d7043acd169f3d0d4677af122133caf4f679264",
-    "size": 139079339,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/2d7043acd169f3d0d4677af122133caf4f679264.jar",
+    "sha1": "1332e6cd5f0fd4b9007721a3b42e360883550f61",
+    "size": 139155972,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1332e6cd5f0fd4b9007721a3b42e360883550f61.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"

@@ -1,10 +1,15 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test6)
+# Dao Ascendant: tester guide (test build 0.1.0-test7)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
 skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test7:** **wrists**: the fist bends at the wrist with whatever it holds, so every weapon stays in the hand
+through every move, ours and other mods' alike; our weapons sit in a proper grip through the closed fist and all
+their moves were rebuilt for it. Townsfolk hold their tools with natural wrists. The jian's ready stance holds the
+blade forward and up.
 
 **New in test6:** **weapons held by the grip**: drawing pulls only the blade, and the **sheath stays on your hip
 or back** (jian and dao at the hip, the nine-ring broadsword and hooks on the back, emei piercers in the sash,
@@ -239,8 +244,11 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
        `iron_war_fan`, `iron_twin_hooks`, `iron_tiger_claws`) and bare hands in combat mode: combo, V, Z / X / C,
        mouse 5, right-click guard (unlock Guard on the skill tree, key `I`). Feel right? Too fast or slow?
    - [ ] The weapons are 3D models: do they look right and sit right in the hand, in first and third person?
-   - [ ] (new) Draw and put away (right click draws; a weapon left idle is put away): does the sheath stay on your
+   - [ ] Draw and put away (right click draws; a weapon left idle is put away): does the sheath stay on your
          hip or back? Do the tassels swing? Does the war fan open in your hand?
+   - [ ] (new) Watch your hands in third person (F5) through combos, skills and arts: is the weapon always held
+         through the fist, and does the wrist bend look natural? Try another mod's weapon too (Vatansever, NightFall,
+         Epic Fight's own) and a chestplate.
 8. [ ] Leaps (Ctrl + Space, hold and let go), and lock-on leaps onto a mob. Does Ctrl + Space get in the way of
    crouching or jumping?
 9. [ ] Gathering (Ctrl + E): the crouch, rubble rising, the scream when full. A Spirit Pouch with stones.
