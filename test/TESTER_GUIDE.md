@@ -1,10 +1,15 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test7)
+# Dao Ascendant: tester guide (test build 0.1.0-test7.5)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
 skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test7.5:** the **realm arts and skills with the new wrists**: the palm arts keep your fist straight, and
+a sword in your hand hangs down and out, clear of you (across your lap while you meditate); Sword Domain holds the
+blade upright before your face; Sword Qi Wave, Sword Rain and Qi Infusion bend the wrist only as far as a real one
+goes.
 
 **New in test7:** **wrists**: the fist bends at the wrist with whatever it holds, so every weapon stays in the hand
 through every move, ours and other mods' alike; our weapons sit in a proper grip through the closed fist and all

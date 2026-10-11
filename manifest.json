@@ -29952,15 +29952,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test7",
-  "notes": "Dao Ascendant test build 0.1.0-test7\n  • Wrists: the fist now bends at the wrist with whatever it holds, so every weapon stays held in the hand through every move: ours, and other mods' too (Epic Fight's own, NightFall, the Vatansever...). Our weapons sit in the grip shown on Epic Fight's own model, and all their moves were rebuilt for it.\n  • Townsfolk hold their tools with natural wrists: the smith's tongs, Meng Po's ladle, the archer's bow, the chef's wok, spatula and dishes, teapots and brushes.\n  • The jian's ready stance holds the blade forward and up.\n  • Everything from test6 is still here: sheaths stay on the body, swinging tassels, the war fan opens in the hand, music and city sounds.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test7.5",
+  "notes": "Dao Ascendant test build 0.1.0-test7.5\n  • The realm arts and skills with the new wrists: the palm arts keep your fist straight, and a sword in your hand hangs down and out, clear of you (across your lap while you meditate); Sword Domain holds the blade upright before your face; Sword Qi Wave, Sword Rain and Qi Infusion bend the wrist only as far as a real one goes.\n  • Wrists: the fist now bends at the wrist with whatever it holds, so every weapon stays held in the hand through every move: ours, and other mods' too (Epic Fight's own, NightFall, the Vatansever...). Our weapons sit in the grip shown on Epic Fight's own model, and all their moves were rebuilt for it.\n  • Townsfolk hold their tools with natural wrists: the smith's tongs, Meng Po's ladle, the archer's bow, the chef's wok, spatula and dishes, teapots and brushes.\n  • The jian's ready stance holds the blade forward and up.\n  • Everything from test6 is still here: sheaths stay on the body, swinging tassels, the war fan opens in the hand, music and city sounds.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "1332e6cd5f0fd4b9007721a3b42e360883550f61",
-    "size": 139155972,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1332e6cd5f0fd4b9007721a3b42e360883550f61.jar",
+    "sha1": "6668aa8db4684073cc0abc8fe1674f24a7158bbf",
+    "size": 139171912,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/6668aa8db4684073cc0abc8fe1674f24a7158bbf.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
