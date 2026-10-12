@@ -29973,15 +29973,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test8",
-  "notes": "Dao Ascendant test build 0.1.0-test8 (the same build as the server's pack)\n  • Cores: meditation now feeds your core meter for as long as you sit (no daily limit); each core needs 1.5x the points instead, so the overall pace is about the same.\n  • The great city's overworld walls: nobody can build, dig or use buckets within 100 blocks of the walls (inside or out), and explosions leave that ground alone. Ops in creative can still build.\n  • Tiger claws in their four new designs, the bracer split at the wrist.\n  • Each sect's fist style has its own moves (the five animals' hands at the wrist; the Hundred Schools Fist uses them in turn), striking in the sect's colours; the sect styles' marks now show on the foe you hit.\n  • Sword Soaring: every sword skill works with the Vatansever, and its floating sword moves in step with you. Kill Aura is a ring about 2 blocks round you; the Gate of Babylon's volleys land from about 10 blocks out.\n  • Everything from test7.5 is still here: wrists, rebuilt moves, sheaths on the body, music and city sounds.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test9",
+  "notes": "Dao Ascendant test build 0.1.0-test9\n  • The cultivation menu's tab names fit whole (no more \"Spiritual Roo\").\n  • Ctrl + right click explains a sword skill only when you hold a weapon; with empty hands, blocks, tools or food it stays quiet.\n  • The welcome flow's race step: Origins' race chooser in the Alantria look, and back from it the page shows the race you chose (it kept saying \"Choose your race\" with Next greyed out); class and element names read better on the red buttons.\n  • Everything from test8 is still here:\n    - Cores: meditation now feeds your core meter for as long as you sit (no daily limit); each core needs 1.5x the points instead, so the overall pace is about the same.\n    - The great city's overworld walls: nobody can build, dig or use buckets within 100 blocks of the walls (inside or out), and explosions leave that ground alone. Ops in creative can still build.\n    - Tiger claws in their four new designs, the bracer split at the wrist.\n    - Each sect's fist style has its own moves (the five animals' hands at the wrist; the Hundred Schools Fist uses them in turn), striking in the sect's colours; the sect styles' marks now show on the foe you hit.\n    - Sword Soaring: every sword skill works with the Vatansever, and its floating sword moves in step with you. Kill Aura is a ring about 2 blocks round you; the Gate of Babylon's volleys land from about 10 blocks out.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "7e9830c6a226087108b038dc11c80a24d032345a",
-    "size": 142354646,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/7e9830c6a226087108b038dc11c80a24d032345a.jar",
+    "sha1": "a96cc7ecd8a3b65e13e5a56fcd5ec1408e736de9",
+    "size": 142452833,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/a96cc7ecd8a3b65e13e5a56fcd5ec1408e736de9.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
