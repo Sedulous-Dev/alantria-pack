@@ -1,10 +1,16 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test9)
+# Dao Ascendant: tester guide (test build 0.1.0-test10)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
 skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test10:** the **welcome flow** in its final look; **Elder Shen in person** (a voice through the first hour,
+then met at the nearest gate for his parting gift); the **Alantria font** (Macondo) everywhere; your **race power's bar**
+with its name and seconds left; the **main quest**, a chapter per realm in the Guide tab; **master and disciple**
+(Sect tab or `/lineage`) with six merit arts; **both auras pay** (Condition tab); core points **capped per lotus cycle**;
+concealment hides you on **JourneyMap**; a **server freeze** near the city walls fixed.
 
 **New in test9:** the cultivation menu's **tab names fit**; **Ctrl + right click** explains a sword skill only with a
 weapon in hand; the welcome flow's **race step** in the Alantria look, and it now shows the race you chose.
