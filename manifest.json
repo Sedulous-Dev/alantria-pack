@@ -29973,36 +29973,18 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test7.5",
-  "notes": "Dao Ascendant test build 0.1.0-test7.5\n  • The realm arts and skills with the new wrists: the palm arts keep your fist straight, and a sword in your hand hangs down and out, clear of you (across your lap while you meditate); Sword Domain holds the blade upright before your face; Sword Qi Wave, Sword Rain and Qi Infusion bend the wrist only as far as a real one goes.\n  • Wrists: the fist now bends at the wrist with whatever it holds, so every weapon stays held in the hand through every move: ours, and other mods' too (Epic Fight's own, NightFall, the Vatansever...). Our weapons sit in the grip shown on Epic Fight's own model, and all their moves were rebuilt for it.\n  • Townsfolk hold their tools with natural wrists: the smith's tongs, Meng Po's ladle, the archer's bow, the chef's wok, spatula and dishes, teapots and brushes.\n  • The jian's ready stance holds the blade forward and up.\n  • Everything from test6 is still here: sheaths stay on the body, swinging tassels, the war fan opens in the hand, music and city sounds.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON. The Tester guide (book button, top right) says what's new and what to test.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
+  "version": "0.1.0-test8",
+  "notes": "Dao Ascendant test build 0.1.0-test8 (the same build as the server's pack)\n  • Cores: meditation now feeds your core meter for as long as you sit (no daily limit); each core needs 1.5x the points instead, so the overall pace is about the same.\n  • The great city's overworld walls: nobody can build, dig or use buckets within 100 blocks of the walls (inside or out), and explosions leave that ground alone. Ops in creative can still build.\n  • Tiger claws in their four new designs, the bracer split at the wrist.\n  • Each sect's fist style has its own moves (the five animals' hands at the wrist; the Hundred Schools Fist uses them in turn), striking in the sect's colours; the sect styles' marks now show on the foe you hit.\n  • Sword Soaring: every sword skill works with the Vatansever, and its floating sword moves in step with you. Kill Aura is a ring about 2 blocks round you; the Gate of Babylon's volleys land from about 10 blocks out.\n  • Everything from test7.5 is still here: wrists, rebuilt moves, sheaths on the body, music and city sounds.\n  • Set Memory to at least 10 GB in Settings (12 GB if your PC has 32 GB). Create a new Survival world with Allow Cheats ON.\n  • Skins and many buildings are still placeholders: judge the mechanics, moves and effects.\n  • If the game crashes, the launcher offers to send a crash report: please say yes.",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "6668aa8db4684073cc0abc8fe1674f24a7158bbf",
-    "size": 139171912,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/6668aa8db4684073cc0abc8fe1674f24a7158bbf.jar",
+    "sha1": "7e9830c6a226087108b038dc11c80a24d032345a",
+    "size": 142354646,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/7e9830c6a226087108b038dc11c80a24d032345a.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
-   },
-   {
-    "path": "mods/epicfight-skilltree-neoforge-21.3.3-1.21.1-SLOT-FIX.jar",
-    "sha1": "b49cb7c84cd36c1f21bc075174f571f52469114b",
-    "size": 313660,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/b49cb7c84cd36c1f21bc075174f571f52469114b.jar",
-    "mode": "strict",
-    "name": "Epic Fight: Skill Tree",
-    "version": "21.3.3"
-   },
-   {
-    "path": "mods/sword_soaring-21.14.2.5-mc1.21.1-neoforge-EF21.17-PATCHED-v17-HOOKS-FIX.jar",
-    "sha1": "3f57758d3dc0da93f9bc2a50534dffa1a9909d7e",
-    "size": 18527459,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/3f57758d3dc0da93f9bc2a50534dffa1a9909d7e.jar",
-    "mode": "strict",
-    "name": "Epic Fight - Sword Soaring",
-    "version": "21.14.2.5"
    },
    {
     "path": "config/sword_soaring-common.toml",
