@@ -1,10 +1,18 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test10)
+# Dao Ascendant: tester guide (test build 0.1.0-test11)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
 skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test11:** the five **realm places**, one per realm, each with its last foe and the **Blood Moon Sect** (the
+main quest's chapters end at them): the Jiangshi Tomb (Earth), the Thunder Peaks (Heaven), the Trial Pagoda (Golden
+Immortal), the **Sky Islands** above the clouds through the Southern Heavenly Gate (Divine) and the **Underworld Gate**
+through the Ghost Gate Pass (Dao); **souls** replace the RPG Attribute System (the new Souls tab: attributes, talents,
+art ranks); **one currency**, spirit shards and stones (the Qiankun purse's own slot, every trader in stones, Cobblemon
+battles pay shards, a Poké Mart in the city); the **player market** and auction house; **robes and capes** in their own
+slot.
 
 **New in test10:** the **welcome flow** in its final look; **Elder Shen in person** (a voice through the first hour,
 then met at the nearest gate for his parting gift); the **Alantria font** (Macondo) everywhere; your **race power's bar**
@@ -223,7 +231,10 @@ Use your own name, or `@s`. Tab fills in ids.
 | Grade the held item / alchemy level | `/dao item grade heaven perfect` · `/dao alchemy 7` |
 | Find a structure | `/dao debug gotostructure daoascendant:hermit_cave` |
 | Skill tree points (Guard etc.) | `/abilitypoints add @s 5`, then key `I` |
-| Money | `/give @s daoascendant:spirit_stone 64` |
+| Money | `/give @s daoascendant:spirit_stone 64` · `/dao money add 1000` (shards) · `/dao money purse` |
+| Souls | `/dao souls add 5000`, then the Souls tab of the menu |
+| A realm place where you stand | `/dao debug realmplace jiangshi_tomb` (or `thunder_peaks`, `trial_pagoda`, `sky_gate`, `ghost_gate`) · `/dao debug realmplace visit <part>` (Tab lists them) |
+| Straight to the Sky Islands / underworld | `/dao debug realmplace sky` · `/dao debug realmplace underworld` |
 | Start over | `/dao reset @s` |
 
 Everything the mod adds is in the creative **Dao Ascendant** tab. Use `/gamemode creative` to grab items, then switch
@@ -241,6 +252,24 @@ Tick each one, and note anything that breaks, confuses you, or feels off. The ne
        chatty? Does its arrow find the city?
 3. [ ] `K`: the cultivation menu tabs (Overview, Guide, Lotus, Roots, Cores, Abilities, Condition, Spells, Sect,
        Stats, Ranking) and the Dao Record (top right).
+
+**A2. New in test11: the realm places**
+- [ ] Earth: the Jiangshi Tomb (`/dao set @s stage daoascendant:earth_realm`, then `/dao debug realmplace jiangshi_tomb`).
+  The coffins wake as you pass; crouch and keep still and the dead lose you; the Tomb Lord rises in the deepest hall.
+- [ ] Heaven: the Thunder Peaks. The Thunder Thief comes down in a bolt: step out of the circles of sparks; at half
+  health keep away from the jars.
+- [ ] Golden Immortal: the Trial Pagoda. A trial on each of the first three floors, the Blood Moon on the fourth, the
+  False Master at the great seal on top: hit the true one among his images, jump his bell's ring.
+- [ ] Divine: the Sky Islands (`/dao debug realmplace sky_gate`, walk into the gate's middle as a Divine cultivator).
+  Lu Yan at the jade heart: leave the red shadow at your feet; he flees when brought low. Jump off an island: the
+  clouds catch you. The little gate on the first island takes you back.
+- [ ] Dao: the Underworld Gate (`/dao debug realmplace ghost_gate`). Lu Yan's last stand: at half health he cracks the
+  Gate; move out of the ring of souls at your feet.
+- [ ] The main quest's chapters end at these places (Guide tab). The Blood Moon cultivators roam at night from the
+  Earth Realm on.
+- [ ] Souls: the Souls tab, buying attributes, talents and art ranks; a death leaves your souls on a mark.
+- [ ] Money: the purse in its slot, prices in stones at any villager or townsperson, the city's Poké Mart, a Cobble
+  Merchant's shop paying from your purse.
 
 **B. Arts: moves and effects (new)**
 4. [ ] `/dao set @s stage daoascendant:dao_realm`, `/dao set @s cores 5`, `/dao set @s energy 5000`, join a sect,
