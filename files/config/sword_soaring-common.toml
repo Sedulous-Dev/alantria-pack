@@ -1,9 +1,9 @@
 #A list of items considered as sword.
 #被视为剑的物品
-items_considered_as_sword = []
+items_considered_as_sword = ["sword_soaring:vatansever"]
 #A list of items not considered as sword.
 #不被视为剑的物品
-items_not_considered_as_sword = ["sword_soaring:vatansever"]
+items_not_considered_as_sword = []
 
 ["Sword Soaring 御剑凌虚"]
 	#time mills between double click of starting flying
