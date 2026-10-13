@@ -29681,8 +29681,8 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test12",
-  "notes": "Dao Ascendant test build 0.1.0-test12 (the same jar as pack 2026.10.12-2)\n  • The great city overhaul: curved tiled roofs everywhere, glazed ones on the palace and the temples; every building its own windows, walls, doors and yard wall; Huizhou horse-head gables; striped awnings\n  • Patterned streets (Macaw's paving), gutters and wheel ruts, tree pits and flower beds\n  • Street decoration: carts, wells, parasols, signboards, laundry, shrines; bunting across the streets; every shop sets its goods out front\n  • Shops: 44 kinds, about 1,300 wares with a daily pick, new merchant robes, each sect's merchant in their own look\n  • Crowds (setting: city crowds) and street animals (setting: city animals): pigeons, cats, dogs, chickens, ducks; /citylife shows them\n  • Insects in the city: butterflies and dragonflies by day, moths at the lanterns at night; fireflies fixed\n  • The palace's stairs fixed (the inner gate could not be passed); Nurse Joy's full dialogue; awakened art variants",
+  "version": "0.1.0-test13",
+  "notes": "Dao Ascendant test build 0.1.0-test13 (the same jar as pack 2026.10.13-1)\n  • The City Atlas retaken after the city overhaul: new photos, counts, gate maps and the atlas screen's map\n  • Every menu 3D piece clean: the welcome page's class pieces, the pause token, the cauldron, the Condition figure, the Lotus pillars, the chest and the bellows (no more dark shards); a new Arcanist book and Spirit Healer gourd\n  • The cultivation menu's tabs scroll when they don't fit the window (mouse wheel over the tabs)\n  • 3D weapons use far less memory (one mesh shared by every material tier)\n  • Every item craftable or explained in JEI: decor recipes, an alchemy page, the purification basin craftable\n  • Repainted skins and icons; new sounds (some still play stand-ins until picked)",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
