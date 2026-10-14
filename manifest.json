@@ -29672,15 +29672,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test14",
-  "notes": "Dao Ascendant test build 0.1.0-test14 (the same jar as the main pack)\n  • Rival cultivators: 40 named rivals on the Heavenly Ranking cross your path and challenge you; wager coin you both agree to, ambushes after your treasures (beat the thief to win it back), a shamed young master's sect elder, rivals beset by bandits who remember your help\n  • The Dharma Avatar: awaken it in the Heaven Realm, a glowing form of your element with its own moves and four arts; more on its skill tree page; Sutra Libraries to find\n  • Cave abodes: set a sealed gate in a mountain for your own private abode; upgrade it room by room\n  • Cinematic moments (realms, chapters, places, bosses) and Aura Sight showing a cultivator's realm, sect and title; strong cultivators press on you\n  • Armour lines for every sect at every realm, forged at the Armourer's Forge (heat, timed strikes, quench, temper); tailored capes at the Tailor's Bench\n  • A faster pace (core progress cap raised by 70%); 30 lantern riddles; nicer boss bars; no more freeze when leaving the city through a gate\n  • Lighter on memory: plays on the server with 6 GB; the City Atlas retaken",
+  "version": "0.1.0-test15",
+  "notes": "Dao Ascendant test build 0.1.0-test15 (the same jar as the main pack)\n  • A working Armourer's Forge in every city and sect smithy, a Tailor's Bench in every weaving workshop (new worlds)\n  • The first-hour guide gives enough plum-blossom poles for a whole run (12)\n  • A crash when teleporting fixed\n  • Everything from test14: rival cultivators, the Dharma Avatar, cave abodes, cinematics and Aura Sight, armour and the forge, a faster pace",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "1a330006204372ec6e63af0242d7b8040eb24c97",
-    "size": 182690782,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1a330006204372ec6e63af0242d7b8040eb24c97.jar",
+    "sha1": "ab82b60a44447a710d8a8137a5e21d5ab1c935d9",
+    "size": 182699200,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/ab82b60a44447a710d8a8137a5e21d5ab1c935d9.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
