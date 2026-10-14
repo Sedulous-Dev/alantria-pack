@@ -1,10 +1,16 @@
-# Dao Ascendant: tester guide (test build 0.1.0-test12)
+# Dao Ascendant: tester guide (test build 0.1.0-test13)
 
 Thanks for testing! Dao Ascendant is a cultivation mod for the Alantria pack: you rise from a mortal martial
 artist to an immortal, and it plays alongside Epic Fight combat and Iron's Spells. **This is an early build.** The
 mechanics are all there, but the looks aren't finished: the Dao blocks, items and weapons have their final art, but
 skins and many buildings are placeholders, and the grand versions come later. The moves and 3D effects are new and real. Please judge **whether things work and feel
 right**, and tell us which moves and effects look great or poor.
+
+**New in test13:** the **City Atlas** retaken after the city overhaul (the map at every gate, the atlas screen, the
+launcher's page); every **menu 3D piece** clean (the welcome page's class pieces, the pause token, the cauldron, the
+Condition figure, the Lotus pillars, the chest, the bellows); the cultivation menu's **tabs scroll** when they don't fit;
+3D weapons use far less memory; **every item can be crafted** or has a JEI note (decor recipes, an Alchemy Cauldron page,
+the purification basin); repainted skins and icons; new sounds.
 
 **New in test12:** the **great city overhauled**: curved tiled roofs everywhere (glazed gold on the palace, jade
 and azure on temples), every building its own windows, walls, doors and yard wall, Huizhou horse-head gables, striped

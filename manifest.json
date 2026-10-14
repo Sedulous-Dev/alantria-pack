@@ -29672,15 +29672,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test13",
-  "notes": "Dao Ascendant test build 0.1.0-test13 (the same jar as pack 2026.10.13-1)\n  • The City Atlas retaken after the city overhaul: new photos, counts, gate maps and the atlas screen's map\n  • Every menu 3D piece clean: the welcome page's class pieces, the pause token, the cauldron, the Condition figure, the Lotus pillars, the chest and the bellows (no more dark shards); a new Arcanist book and Spirit Healer gourd\n  • The cultivation menu's tabs scroll when they don't fit the window (mouse wheel over the tabs)\n  • 3D weapons use far less memory (one mesh shared by every material tier)\n  • Every item craftable or explained in JEI: decor recipes, an alchemy page, the purification basin craftable\n  • Repainted skins and icons; new sounds (some still play stand-ins until picked)",
+  "version": "0.1.0-test14",
+  "notes": "Dao Ascendant test build 0.1.0-test14 (the same jar as the main pack)\n  • Rival cultivators: 40 named rivals on the Heavenly Ranking cross your path and challenge you; wager coin you both agree to, ambushes after your treasures (beat the thief to win it back), a shamed young master's sect elder, rivals beset by bandits who remember your help\n  • The Dharma Avatar: awaken it in the Heaven Realm, a glowing form of your element with its own moves and four arts; more on its skill tree page; Sutra Libraries to find\n  • Cave abodes: set a sealed gate in a mountain for your own private abode; upgrade it room by room\n  • Cinematic moments (realms, chapters, places, bosses) and Aura Sight showing a cultivator's realm, sect and title; strong cultivators press on you\n  • Armour lines for every sect at every realm, forged at the Armourer's Forge (heat, timed strikes, quench, temper); tailored capes at the Tailor's Bench\n  • A faster pace (core progress cap raised by 70%); 30 lantern riddles; nicer boss bars; no more freeze when leaving the city through a gate\n  • Lighter on memory: plays on the server with 6 GB; the City Atlas retaken",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "00fe83c432d64e84185aad9a6ffb89b9ae607bda",
-    "size": 169774661,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/00fe83c432d64e84185aad9a6ffb89b9ae607bda.jar",
+    "sha1": "1a330006204372ec6e63af0242d7b8040eb24c97",
+    "size": 182690782,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1a330006204372ec6e63af0242d7b8040eb24c97.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
@@ -29694,9 +29694,9 @@
    },
    {
     "path": "config/openloader/resources/alantria_sounds.zip",
-    "sha1": "d9ca8bcb1c2a3582837e2db6f7a2264e75203762",
-    "size": 75006331,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/d9ca8bcb1c2a3582837e2db6f7a2264e75203762.zip",
+    "sha1": "67408771b121b09dbe98854dd2ce3e418e7edb5f",
+    "size": 80093323,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/67408771b121b09dbe98854dd2ce3e418e7edb5f.zip",
     "mode": "strict"
    },
    {
