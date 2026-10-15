@@ -29672,15 +29672,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test15",
-  "notes": "Dao Ascendant test build 0.1.0-test15 (the same jar as the main pack)\n  • A working Armourer's Forge in every city and sect smithy, a Tailor's Bench in every weaving workshop (new worlds)\n  • The first-hour guide gives enough plum-blossom poles for a whole run (12)\n  • A crash when teleporting fixed\n  • Everything from test14: rival cultivators, the Dharma Avatar, cave abodes, cinematics and Aura Sight, armour and the forge, a faster pace",
+  "version": "0.1.0-test16",
+  "notes": "Dao Ascendant test build 0.1.0-test16 (the same jar as the main pack)\n  • Light combos flow: each move picks up where the last one ended, and the next can start as soon as a blow lands (every weapon, bare hands and the fist styles)\n  • A draw-cut out of the scabbard counts as your first hit: mouse 5 right after it plays the second art\n  • Armour coloured at the Tailor's Bench, part by part, shows on the worn pieces (block armour and the sculpted Tiger Fang set)\n  • The Dharma Avatar's moves polished",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "ab82b60a44447a710d8a8137a5e21d5ab1c935d9",
-    "size": 182699200,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/ab82b60a44447a710d8a8137a5e21d5ab1c935d9.jar",
+    "sha1": "b9e78dd03e3521ffc15cdb53769813f49e36ed72",
+    "size": 182883500,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/b9e78dd03e3521ffc15cdb53769813f49e36ed72.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
