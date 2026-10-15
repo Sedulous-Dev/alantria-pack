@@ -29672,15 +29672,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test16",
-  "notes": "Dao Ascendant test build 0.1.0-test16 (the same jar as the main pack)\n  • Light combos flow: each move picks up where the last one ended, and the next can start as soon as a blow lands (every weapon, bare hands and the fist styles)\n  • A draw-cut out of the scabbard counts as your first hit: mouse 5 right after it plays the second art\n  • Armour coloured at the Tailor's Bench, part by part, shows on the worn pieces (block armour and the sculpted Tiger Fang set)\n  • The Dharma Avatar's moves polished",
+  "version": "0.1.0-test17",
+  "notes": "Dao Ascendant test build 0.1.0-test17 (the same jar as the main pack)\n  • Every skill in the skill menu (Enter) tried by the test bot, all 161 of them\n  • Gate of Babylon: fires a barrage of your weapons (24 shots), no longer everything in your bag and backpacks: no more lag\n  • The Vatansever's spirit sword comes back after a teleport, a city gate or another dimension\n  • In creative you have every sect's fighting styles and leaps without joining a sect\n  • The six leaps have their own icons in the skill menu\n  • Charging V or mouse 5 winds up the body, then the release throws a blast of qi shaped by your weapon\n  • The skill tree (I) scrolls with the mouse wheel\n  • Tailor's Bench: right click a part's button to undye it\n  • Flying swords no longer stretch your arm\n  • Mythic spells say Mythic\n  • The ability wheel shows the realm's coming arts greyed out",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "b9e78dd03e3521ffc15cdb53769813f49e36ed72",
-    "size": 182883500,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/b9e78dd03e3521ffc15cdb53769813f49e36ed72.jar",
+    "sha1": "9bdeaec45bb8b6b6a0caa15183d8f3259f155dc9",
+    "size": 197508155,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/9bdeaec45bb8b6b6a0caa15183d8f3259f155dc9.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
