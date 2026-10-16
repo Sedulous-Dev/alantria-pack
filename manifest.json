@@ -29672,15 +29672,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test17",
-  "notes": "Dao Ascendant test build 0.1.0-test17 (the same jar as the main pack)\n  • Every skill in the skill menu (Enter) tried by the test bot, all 161 of them\n  • Gate of Babylon: fires a barrage of your weapons (24 shots), no longer everything in your bag and backpacks: no more lag\n  • The Vatansever's spirit sword comes back after a teleport, a city gate or another dimension\n  • In creative you have every sect's fighting styles and leaps without joining a sect\n  • The six leaps have their own icons in the skill menu\n  • Charging V or mouse 5 winds up the body, then the release throws a blast of qi shaped by your weapon\n  • The skill tree (I) scrolls with the mouse wheel\n  • Tailor's Bench: right click a part's button to undye it\n  • Flying swords no longer stretch your arm\n  • Mythic spells say Mythic\n  • The ability wheel shows the realm's coming arts greyed out",
+  "version": "0.1.0-test18",
+  "notes": "Dao Ascendant test build 0.1.0-test18 (the same jar as the main pack)\n  • Air, the sixth element: Elder Shen's secret quest after the first hour (the Ruins of the Sixth Hall, report to him at your gate, then beat Abbot Qingfeng at the Windless Monastery). Air's five arts, its own spells, and its Wind and Void paths, each opened by a trial\n  • Wind spells now belong to Air's Wind path: players without Air lose them\n  • The grand spells: three Legendary and one Mythic for every element, and a second Mythic for Air, the Wind and the Void\n  • Every element's spells have a new look, their school's sign and their own sounds; the great ones call their name as they are released\n  • The story: Lu Yan's six letters and history pages in the Dao Record, two choices in the Guide tab, quest progress saved step by step (old saves carry over)\n  • Yun Qi waits at the Teahouse Docks after chapter 3, Elder Shen at the Ghost Gate Pass in the Dao chapter, and a rival of your own meets you once a realm\n  • Arts land harder: blows shake the view, heavy blows freeze both fighters for a split second, your body and weapon shimmer with qi while you cast, dashes leave afterimages\n  • The big arts (sect signatures, the Hundred Schools Strike, merit and Dao Realm arts) call their name and flash an impact frame: turn it off in Alantria Settings > Effects if the flash bothers you\n  • A glow round every spell's and art's 3D effects (off by itself with a shader pack)\n  • Carrying Air: pick your qi colour in Alantria Settings > Effects (your element, Air, or both by turns)\n  • Known: the Peng's dive still lands 44 blocks ahead, past nearby foes (a fix is coming)",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "9bdeaec45bb8b6b6a0caa15183d8f3259f155dc9",
-    "size": 197508155,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/9bdeaec45bb8b6b6a0caa15183d8f3259f155dc9.jar",
+    "sha1": "196e4446c243d573d0ab49d8e7c6db54833baf6f",
+    "size": 207523958,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/196e4446c243d573d0ab49d8e7c6db54833baf6f.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
