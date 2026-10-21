@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test21",
-  "notes": "Dao Ascendant test build 0.1.0-test21 (the same jar as the main pack)\n  • True Fire: our own Fire school (next to Iron's Fire) with twelve new spells: Ember Needle, Blazing Palm, Hearth's Warmth, Moth to the Flame, Furnace Ring, Phoenix Feather Mantle, Rain of Embers, Fire Dragon Wave, Sea of Flames, Golden Crow's Breath, Phoenix Flash and Ten Thousand Fire Lotuses. Every one that strikes sets foes alight. The Vermilion Bird, Nine Suns, the Furnace, the Great Sun Falls and Samadhi True Fire now belong to True Fire too (nothing you learned is lost). Their sounds are stand-ins for now\n  • Every spell and art looks new: Effekseer's free sample effects layered into ours (anime bursts and toon blows, flame bursts, water splashes, feathers and petals, auras and energy drawn in), the Qi Gathering remade for Jing, Qi and Shen, every grand spell and Mythic, the ordinary spells and every realm, sect and Hundred Schools art\n  • The third-person camera no longer flickers when you stand under a ledge\n  • For movesets that carry them: qi blasts, a guard that knocks blasts away or sends them back, charged smashes that send foes flying, specials (beams, rushes, thrown spheres) and beam clashes\n  • Please try: learn a few True Fire spells (Spells tab) and cast them by day and night; cast arts near walls and in caves; stand under a ledge in third person",
+  "version": "0.1.0-test22",
+  "notes": "Dao Ascendant test build 0.1.0-test22 (the same jar as the main pack)\n  • True Fire's own sounds: the school's and each of its twelve spells', picked by Dylan (four takes each, played at random)\n  • Alantria FX: True Fire's effects with pieces of BleachCraft's fire effects laid in: red-black-gold impacts on Ember Needle, the lantern's burst, Phoenix Flash's cuts, the Golden Crow's sun and the great lotus; a burning lantern for Moth to the Flame; fire rings rising round the feet for Hearth's Warmth and Furnace Ring; flames and black smoke where the embers land\n  • Everything in test21: True Fire's twelve spells, the new look of every spell and art, no camera flicker under ledges\n  • Please try: cast the True Fire spells by day and by night and listen; say if any blow is too bright or too big near the camera",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "4dda76bf90f80ec3b5cb54e08e5a08b1d53a954f",
-    "size": 249852497,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/4dda76bf90f80ec3b5cb54e08e5a08b1d53a954f.jar",
+    "sha1": "97096ea4a999c4b1ea5d713a5cc9407cbed939a3",
+    "size": 251011747,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/97096ea4a999c4b1ea5d713a5cc9407cbed939a3.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
