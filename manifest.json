@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test22",
-  "notes": "Dao Ascendant test build 0.1.0-test22 (the same jar as the main pack)\n  • True Fire's own sounds: the school's and each of its twelve spells', picked by Dylan (four takes each, played at random)\n  • Alantria FX: True Fire's effects with pieces of BleachCraft's fire effects laid in: red-black-gold impacts on Ember Needle, the lantern's burst, Phoenix Flash's cuts, the Golden Crow's sun and the great lotus; a burning lantern for Moth to the Flame; fire rings rising round the feet for Hearth's Warmth and Furnace Ring; flames and black smoke where the embers land\n  • Everything in test21: True Fire's twelve spells, the new look of every spell and art, no camera flicker under ledges\n  • Please try: cast the True Fire spells by day and by night and listen; say if any blow is too bright or too big near the camera",
+  "version": "0.1.0-test23",
+  "notes": "Dao Ascendant test build 0.1.0-test23 (the same jars as the main pack 2026.10.21-1)\n  • Sects of your own: found one from the Earth Realm (500 spirit stones), ranks, a treasury, a hall stone whose grounds only members may build on (and cultivate faster on), hall levels, three sect missions a week (F7 or /sect)\n  • The Grand Martial Tournament: every third day at noon on the great city's leitai; enter at the leitai master or with /tournament, bet on the champion, fight the rival cultivators of the world (nobody dies)\n  • The Tower of a Thousand Trials: the Dao Realm's endless climb, a warden every tenth floor, the best climbers on the ranking tab\n  • Spirit beast companions: the young of the legendary beasts (and your sect's form of them, and Air's Kunpeng) grow with you and fight beside you\n  • Wood, Metal, Water and Ice remade as our own schools, with their own sounds; Alantria FX lays BleachCraft's pieces over Water and Ice too\n  • The moves add-on: defence and counters, flight moves, the sphere on the hands, fists that hit like a weapon, foes and bosses with qi blasts and beams\n  • Please try: found a sect with a friend, enter a tournament, climb a few Tower floors, hatch a companion; say what feels off",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "97096ea4a999c4b1ea5d713a5cc9407cbed939a3",
-    "size": 251011747,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/97096ea4a999c4b1ea5d713a5cc9407cbed939a3.jar",
+    "sha1": "d7b2cf4acb6038bd02c7f93c8d0e8bcf6d12e557",
+    "size": 277764646,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/d7b2cf4acb6038bd02c7f93c8d0e8bcf6d12e557.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
