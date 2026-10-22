@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test24",
-  "notes": "Dao Ascendant test build 0.1.0-test24 (the same jars as the main pack 2026.10.21-2)\n  • The Fallen God's Fist: the moves add-on's second style, taught by a fallen immortal in his ruined temple from the Earth Realm (four lessons)\n  • Vanish battles: strike a cultivator foe and they may vanish behind you; dodge just before their blow lands to vanish behind them in turn, back and forth until one misses\n  • A vanish is instant and lands right behind its foe; a move's camera hands your view back when it ends\n  • Please try: learn the Fallen God's Fist, trade vanishes with a Blood Moon cultivator or a rival; say what feels off",
+  "version": "0.1.0-test25",
+  "notes": "Dao Ascendant test build 0.1.0-test25 (the same jars as the main pack 2026.10.22-1)\n  • Every player starts with Epic Fight's Guard and Step: right click guards, and the moveset's dodges and defences work\n  • A move's key turns you to face the crosshair first: ki blasts, beams and rush specials go where you aim\n  • Every move of the two taught fist styles has a flying version, and the ultimates now go off in the air (charging aloft costs no flight)\n  • Rush cinematics carry foes that stood still before (most other mods' mobs) and throw them; their opening shot keeps clear of the foe\n  • The defences allow for your connection's lag: a Sway, Evasion, Super Counter or Z-Counter pressed a moment late still counts\n  • With bare hands in battle mode, picked-up items and gifts go to another slot, so your fist hand stays empty\n  • The moves add-on's effects are about a third dimmer; the Lift and Sweep lessons ask for a light hit first\n  • From the other sweeps: cinematic cameras pulled back, screens that fit at every GUI scale, spirit beast animations, biome-mod animals and places, part-way lotus marks\n  • Please try: every combo of your fist style on the server, the specials while flying, and the defences against a cultivator foe; say what feels off",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "1820986d17e2e4a51a0c529f7b0a9f4478581aa2",
-    "size": 277818315,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1820986d17e2e4a51a0c529f7b0a9f4478581aa2.jar",
+    "sha1": "82eb1837ebc653470020698de611be6fef841243",
+    "size": 278344467,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/82eb1837ebc653470020698de611be6fef841243.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
