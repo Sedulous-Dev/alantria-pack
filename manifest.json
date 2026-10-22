@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test23",
-  "notes": "Dao Ascendant test build 0.1.0-test23 (the same jars as the main pack 2026.10.21-1)\n  • Sects of your own: found one from the Earth Realm (500 spirit stones), ranks, a treasury, a hall stone whose grounds only members may build on (and cultivate faster on), hall levels, three sect missions a week (F7 or /sect)\n  • The Grand Martial Tournament: every third day at noon on the great city's leitai; enter at the leitai master or with /tournament, bet on the champion, fight the rival cultivators of the world (nobody dies)\n  • The Tower of a Thousand Trials: the Dao Realm's endless climb, a warden every tenth floor, the best climbers on the ranking tab\n  • Spirit beast companions: the young of the legendary beasts (and your sect's form of them, and Air's Kunpeng) grow with you and fight beside you\n  • Wood, Metal, Water and Ice remade as our own schools, with their own sounds; Alantria FX lays BleachCraft's pieces over Water and Ice too\n  • The moves add-on: defence and counters, flight moves, the sphere on the hands, fists that hit like a weapon, foes and bosses with qi blasts and beams\n  • Please try: found a sect with a friend, enter a tournament, climb a few Tower floors, hatch a companion; say what feels off",
+  "version": "0.1.0-test24",
+  "notes": "Dao Ascendant test build 0.1.0-test24 (the same jars as the main pack 2026.10.21-2)\n  • The Fallen God's Fist: the moves add-on's second style, taught by a fallen immortal in his ruined temple from the Earth Realm (four lessons)\n  • Vanish battles: strike a cultivator foe and they may vanish behind you; dodge just before their blow lands to vanish behind them in turn, back and forth until one misses\n  • A vanish is instant and lands right behind its foe; a move's camera hands your view back when it ends\n  • Please try: learn the Fallen God's Fist, trade vanishes with a Blood Moon cultivator or a rival; say what feels off",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "d7b2cf4acb6038bd02c7f93c8d0e8bcf6d12e557",
-    "size": 277764646,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/d7b2cf4acb6038bd02c7f93c8d0e8bcf6d12e557.jar",
+    "sha1": "1820986d17e2e4a51a0c529f7b0a9f4478581aa2",
+    "size": 277818315,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1820986d17e2e4a51a0c529f7b0a9f4478581aa2.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
