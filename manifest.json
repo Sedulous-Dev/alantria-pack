@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test26",
-  "notes": "Dao Ascendant test build 0.1.0-test26 (the same jars as the main pack 2026.10.22-2)\n  • A Mythic's charge-up no longer turns your own screen white: in first person you see out through it (Golden Lotus most of all)\n  • Mythic blasts lose Minecraft's grey explosion puffs; Void Step's landing no longer washes the screen white\n  • Void Step's trench ends in a staircase: you land near the top looking out, not face to a wall at the bottom of a pit\n  • Story subtitles stand above the chat while it shows, and the chat stands above your energy gourd and lotus marks\n  • The effects of your spells and arts load ahead (while a menu is open or you stand still), so a first cast doesn't pause the game\n  • The guide's first step names the key that opens the ability wheel (hold R)\n  • Please try: cast a Mythic in first person, Void Step across open ground, and read a story line while chat messages come in",
+  "version": "0.1.0-test27",
+  "notes": "Dao Ascendant test build 0.1.0-test27 (the same jars as the main pack 2026.10.23-1)\n  • Holding the Gathering (Ctrl+E), every special's key works again: V, X, C, R and Z no longer go to other mods' Ctrl shortcuts (ParCool, Sword Soaring)\n  • The Nine Heavens and Fallen God styles' dodges carry you (back, left, right, forward) instead of stepping in place\n  • A rush special with nobody in front (Falling Stars, God Slicer) dashes ahead and takes whoever it meets on the way\n  • Joining no longer fails with \"Invalid player data\" for someone who logged out bare-handed in battle mode\n  • A sideways dodge no longer spins the third-person camera\n  • In battle mode, right click on altars, doors and chests works again (sneak-click too)\n  • Please try: Ctrl+E then each special's key, a dodge in each direction, Falling Stars at nothing",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "9c69d6711c606e9321894fed0f6a286930c990ec",
-    "size": 278348879,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/9c69d6711c606e9321894fed0f6a286930c990ec.jar",
+    "sha1": "ae2e768379ce200d3a55809da56ef2a96af823e2",
+    "size": 278357630,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/ae2e768379ce200d3a55809da56ef2a96af823e2.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
