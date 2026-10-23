@@ -31,7 +31,7 @@ provider = "NULL"
 	long_press_count = 2
 	camera_auto_switch = false
 	#Allowed Values: NONE, INTERACTION, ITEM_USE, INTERACTION_AND_ITEM_USE
-	key_conflict_resolve_scope = "INTERACTION"
+	key_conflict_resolve_scope = "ITEM_USE"
 	#Allowed Values: ADAPTIVE, SWITCHING_MODE
 	preference_work = "ADAPTIVE"
 	#Defines how the camera toggles perspectives.
