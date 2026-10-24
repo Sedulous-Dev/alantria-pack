@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test28",
-  "notes": "Dao Ascendant test build 0.1.0-test28 (the same jars as the main pack 2026.10.23-2)\n  • The guide shows the way: every first-hour and quest step has a tracker - an arrow, the place's name and the distance at the top of the screen, a pillar of gold light at the spot and a JourneyMap waypoint (Settings: track_hud, track_beam)\n  • Every step says where to go and who to talk to, and the Guide tab has \"How it works\" pages (lotus, meditation, sects, spiritual roots, leaving the Mortal Plane, cores and the tribulation, the realms, world bosses, spells, alchemy, the forge, fist styles and more), opened from the step or the list\n  • Everyone starts with Epic Fight's Parrying: a quick right click parries, holding it guards\n  • An ultimate goes off on a full-looking energy bar: a bar a hair under the top no longer says \"needs a full store\"\n  • After a kill, the lock-on moves only to another foe (never a wild Pokemon, a pet, townsfolk or a player), or lets go\n  • Purification basins stand at every spirit-vein cave's mouth, every wild sect compound's training plaza and Xiangguo Temple's court (in land explored from now on); the basin takes essences of your element, and you can craft one\n  • No thief takes the Core Vessel, the Spirit Beast Egg or its pearl\n  • Glowing eyes glow in both eyes\n  • Please try: follow the tracker for your current quest step, open a How it works page from the Guide tab, a quick right click to parry",
+  "version": "0.1.0-test29",
+  "notes": "Dao Ascendant test build 0.1.0-test29 (the same jars as the main pack 2026.10.24-1)\n  • The masters' lessons have trackers: during a lesson the arrow and the pillar of light lead to the spot it needs (the Bajiquan master's ledge, the stone, the ring and the rest)\n  • Mission board tasks have a Track button: each task says where it's done, and Track points the tracker there until it's done (press again to stop)\n  • The tracker's line sits just above the guide panel instead of at the top of the screen\n  • The skill tree's column of trees scrolls when they don't all fit (mouse wheel over it; arrows show there are more)\n  • With Phantom Ascent equipped, one Space press in the air no longer fires both the double jump and the cloud step: Phantom Ascent jumps first, then your cloud steps\n  • Please try: start a master's lesson and follow the tracker, press Track on a mission board task, scroll the skill tree's trees, double jump with Phantom Ascent and then cloud step",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "47d8dd4ac1fce7a5fc4cc436ef50392cfc6c9d00",
-    "size": 278408358,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/47d8dd4ac1fce7a5fc4cc436ef50392cfc6c9d00.jar",
+    "sha1": "f90769d1d4b5a35adbef293292d304c534fe99ea",
+    "size": 278413243,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/f90769d1d4b5a35adbef293292d304c534fe99ea.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
