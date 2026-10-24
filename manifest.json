@@ -29717,15 +29717,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test27",
-  "notes": "Dao Ascendant test build 0.1.0-test27 (the same jars as the main pack 2026.10.23-1)\n  • Holding the Gathering (Ctrl+E), every special's key works again: V, X, C, R and Z no longer go to other mods' Ctrl shortcuts (ParCool, Sword Soaring)\n  • The Nine Heavens and Fallen God styles' dodges carry you (back, left, right, forward) instead of stepping in place\n  • A rush special with nobody in front (Falling Stars, God Slicer) dashes ahead and takes whoever it meets on the way\n  • Joining no longer fails with \"Invalid player data\" for someone who logged out bare-handed in battle mode\n  • A sideways dodge no longer spins the third-person camera\n  • In battle mode, right click on altars, doors and chests works again (sneak-click too)\n  • Please try: Ctrl+E then each special's key, a dodge in each direction, Falling Stars at nothing",
+  "version": "0.1.0-test28",
+  "notes": "Dao Ascendant test build 0.1.0-test28 (the same jars as the main pack 2026.10.23-2)\n  • The guide shows the way: every first-hour and quest step has a tracker - an arrow, the place's name and the distance at the top of the screen, a pillar of gold light at the spot and a JourneyMap waypoint (Settings: track_hud, track_beam)\n  • Every step says where to go and who to talk to, and the Guide tab has \"How it works\" pages (lotus, meditation, sects, spiritual roots, leaving the Mortal Plane, cores and the tribulation, the realms, world bosses, spells, alchemy, the forge, fist styles and more), opened from the step or the list\n  • Everyone starts with Epic Fight's Parrying: a quick right click parries, holding it guards\n  • An ultimate goes off on a full-looking energy bar: a bar a hair under the top no longer says \"needs a full store\"\n  • After a kill, the lock-on moves only to another foe (never a wild Pokemon, a pet, townsfolk or a player), or lets go\n  • Purification basins stand at every spirit-vein cave's mouth, every wild sect compound's training plaza and Xiangguo Temple's court (in land explored from now on); the basin takes essences of your element, and you can craft one\n  • No thief takes the Core Vessel, the Spirit Beast Egg or its pearl\n  • Glowing eyes glow in both eyes\n  • Please try: follow the tracker for your current quest step, open a How it works page from the Guide tab, a quick right click to parry",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "ae2e768379ce200d3a55809da56ef2a96af823e2",
-    "size": 278357630,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/ae2e768379ce200d3a55809da56ef2a96af823e2.jar",
+    "sha1": "47d8dd4ac1fce7a5fc4cc436ef50392cfc6c9d00",
+    "size": 278408358,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/47d8dd4ac1fce7a5fc4cc436ef50392cfc6c9d00.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
