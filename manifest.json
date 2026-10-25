@@ -29741,15 +29741,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test29",
-  "notes": "Dao Ascendant test build 0.1.0-test29 (the same jars as the main pack 2026.10.24-1)\n  • The masters' lessons have trackers: during a lesson the arrow and the pillar of light lead to the spot it needs (the Bajiquan master's ledge, the stone, the ring and the rest)\n  • Mission board tasks have a Track button: each task says where it's done, and Track points the tracker there until it's done (press again to stop)\n  • The tracker's line sits just above the guide panel instead of at the top of the screen\n  • The skill tree's column of trees scrolls when they don't all fit (mouse wheel over it; arrows show there are more)\n  • With Phantom Ascent equipped, one Space press in the air no longer fires both the double jump and the cloud step: Phantom Ascent jumps first, then your cloud steps\n  • Please try: start a master's lesson and follow the tracker, press Track on a mission board task, scroll the skill tree's trees, double jump with Phantom Ascent and then cloud step",
+  "version": "0.1.0-test30",
+  "notes": "Dao Ascendant test build 0.1.0-test30 (the same jars as the main pack 2026.10.25-1)\n  • Spells and arts light the world round them in their own colours (Veil): the falling sun turns the land gold, fire lights it orange, lightning blue; the night stays dark\n  • The world wears Conquest's look, and our own blocks were redone to match it\n  • New skies, fog and drifting motes across the regions; lanterns glow at dusk\n  • A road leads up to every city gate, and the first sect courtyard is dressed\n  • Elder Shen and the five sect recruiters wear new 3D outfits; your starter robe takes your creator colours\n  • Dodges and dashes always carry you their full way\n  • Please try: cast a few spells at night, walk a gate road at dusk, meet Elder Shen and a recruiter, dodge in each direction with a qi style",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "f90769d1d4b5a35adbef293292d304c534fe99ea",
-    "size": 278413243,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/f90769d1d4b5a35adbef293292d304c534fe99ea.jar",
+    "sha1": "cc33ab04db0f3dd5f9a947b2643bd5c746888f3c",
+    "size": 279980492,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/cc33ab04db0f3dd5f9a947b2643bd5c746888f3c.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
