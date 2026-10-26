@@ -29741,15 +29741,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test32",
-  "notes": "Dao Ascendant test build 0.1.0-test32 (the same jars as the main pack 2026.10.25-3)\n  • The server no longer stands still (up to 40 seconds, timing everyone out) when a world boss comes down\n  • Going through a city gate, or by sedan or ferry, to land nobody has explored yet: you wait a moment on the way while the land is made, and the server keeps running for everyone else\n  • Please try: travel by gate, sedan and ferry to far places; stay on when a world boss is announced",
+  "version": "0.1.0-test33",
+  "notes": "Dao Ascendant test build 0.1.0-test33 (the same jars as the main pack 2026.10.26-1): A FRESH WORLD\n  • The live server starts a fresh world for the new sect layout\n  • The five sects' compounds each stand on their own spot now (three had been stacked on the same places); each sect's nearest compound lies on the open side, away from the city walls, about 1,400 to 1,550 blocks from spawn\n  • The great city dressed: the inner wall rebuilt (arrow slits, battlements with lanterns, watchtowers, banners), the gatehouse dressed, a lamp behind every window at night and lanterns by the doors, and Qionglin Garden with its pagoda, groves and lilies\n  • The sects' compounds and their city headquarters dressed: lacquered posts, paper lanterns, banners, lantern strings, guardian lions and braziers, each in its sect's own colours and trees\n  • The realm bosses in full 3D, each with a second look past half health: the Door Guardian and his twin, the Tomb Lord, the Thunder Thief, the False Master, Lu Yan the Crimson Hand and the Patriarch Xue Ming\n  • The Door Guardian's trial staged: his entrance, his slam told before it lands, his twin's arrival and his fall\n  • A new starter robe; loose clothes sway (sashes, capes, tassels, banners); townsfolk stand at ease; the masters have habits of their own\n  • Effects fade out close to the camera instead of filling the screen; with the brightness cap on, a spell's light also counts against the daylight\n  • Please try: visit each sect's compound and the city's districts by day and by night, fight a realm boss past half health, and face the Door Guardian's trial",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "6b95dfc1f9b357ade2d69c31bc2d649fbcc97d4c",
-    "size": 285042849,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/6b95dfc1f9b357ade2d69c31bc2d649fbcc97d4c.jar",
+    "sha1": "41d68d5b32a6c52722f257d9c74fea18bdc2517b",
+    "size": 288647887,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/41d68d5b32a6c52722f257d9c74fea18bdc2517b.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
