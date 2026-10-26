@@ -29741,15 +29741,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test31",
-  "notes": "Dao Ascendant test build 0.1.0-test31 (the same jars as the main pack 2026.10.25-2)\n  • Spells, arts and weapon moves read better: a dark under-layer and contact with the ground, so they no longer vanish on snow or wash out by day\n  • Effects can't flood the whole screen with light any more, and still keep their glow (setting: effect brightness cap)\n  • No more big white squares flying off plain-qi, metal and lightning blows and arts\n  • A Mythic's name card fades just before its blow, higher and smaller, so the impact is in full view\n  • The Gathering at full and Sword Net were redone by hand\n  • The Alantria look on every menu stays on top of your other resource packs (Cobblemon Interface and others drew over it)\n  • The five Chief Disciples and eight masters wear new 3D outfits, each sect's own (capes, mantles, crowns, sashes)\n  • Townsfolk who guard keep their clothes on (a hidden guard's armour no longer strips their robes)\n  • Please try: cast spells and arts by day, at night and on snow, a Mythic from a distance, open your inventory and a few menus, visit a sect's Chief Disciple and a master",
+  "version": "0.1.0-test32",
+  "notes": "Dao Ascendant test build 0.1.0-test32 (the same jars as the main pack 2026.10.25-3)\n  • The server no longer stands still (up to 40 seconds, timing everyone out) when a world boss comes down\n  • Going through a city gate, or by sedan or ferry, to land nobody has explored yet: you wait a moment on the way while the land is made, and the server keeps running for everyone else\n  • Please try: travel by gate, sedan and ferry to far places; stay on when a world boss is announced",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "59898d346546a00392eb1186504ca2d5e1c29e25",
-    "size": 285042570,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/59898d346546a00392eb1186504ca2d5e1c29e25.jar",
+    "sha1": "6b95dfc1f9b357ade2d69c31bc2d649fbcc97d4c",
+    "size": 285042849,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/6b95dfc1f9b357ade2d69c31bc2d649fbcc97d4c.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
