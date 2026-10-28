@@ -29762,15 +29762,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test34",
-  "notes": "Dao Ascendant test build 0.1.0-test34 (the same jars as the main pack 2026.10.26-2): A FRESH WORLD AGAIN\n  • The live server starts a fresh world again, so the sects' new compounds stand in their landscapes from the start, and the Cloud Dragon's nearest compound lies about as close as the other sects' (it had fallen thousands of blocks out)\n  • Each sect's compound framed by its own land: karst pillars with glowing veins and a waterfall, bamboo groves along the way in, tea terraces, all on a stone plinth where the ground falls away\n  • The world alive by place and hour: mist over morning water, pollen in the meadows, diamond dust in the snow, heat haze and dust devils in the desert, marsh wisps, light shafts under the canopy, valley clouds, glitter on the sea; at night shooting stars and a qi aurora in the north; a rainbow after rain, storm fronts on the horizon\n  • Lanterns, torches, fires and lit windows throw real light at night\n  • The great city's horizon, the trial arenas' skies and each realm boss's own air\n  • Every building in the great city lived in: candles by the bed, open books, laid tables, wares in the shops\n  • The city's people in 3D: passers-by, townsfolk and the sects' ranks in real clothes; townsfolk notice you and greet you when you stop before them\n  • The great city by day runs far faster (its passers-by were costing almost half of every frame)\n  • Karate and Re-Taekwondo rebuilt in full: low combos, air chains, kicks by direction with charged forms, two-part skills, a guard counter, a throw and an ultimate each\n  • The Door Guardian fights with his guandao: the Gate-Splitting Cleave (watch for the gold ring) and his fall to one knee\n  • The Gathering and the first breakthrough at full quality; weapon arts raise dust at your feet; your own effects at half size in first person; big impacts at noon no longer wash the screen white\n  • Other mods' blocks (furniture, Create, Chipped and the rest) in the Conquest look\n  • With shaders: our tuned settings for Complementary Reimagined and BSL; set Mipmap Levels to 2 under a shader pack so far forests keep their leaves (the game tells you once)\n  • Please try: the sects' compounds and the city by day and by night, the sky and the weather, Karate and Re-Taekwondo, and the Door Guardian's trial",
+  "version": "0.1.0-test35",
+  "notes": "Dao Ascendant test build 0.1.0-test35 (the same jars as the main pack 2026.10.27-1): THE GREAT CITY REBORN, IN A FRESH WORLD\n  • The live server starts a fresh world, so the whole new city stands from the start\n  • Every district rebuilt: shops and houses with covered walks and carved brackets, wine houses with twin towers on flying bridges, temples and halls on red-lacquered columns under curved roofs (the lacquered column is a new block: any log and red dye), cargo boats under the quay cranes, stalls on the arched rainbow bridge, garrison yards and worked fields along the wall\n  • The pleasure quarter on the Bian River, behind its red gates: flower houses with galleries, the Hall of a Hundred Flowers, gambling dens and the House of the Golden Toad, wine and smoke houses, a fighting pit, a fence's pawnshop, painted pleasure boats\n  • The slums against the south-east wall: leaning shacks, the beggars' guild, the thieves' den, the paupers' graveyard\n  • The labyrinth under the whole city, three levels deep: the ghost market (open before dawn), cellars, smugglers' tunnels and gang hideouts; buried older cities, flooded streets and hidden treasure rooms; catacombs where the dead walk round a buried palace. Find the hidden ways down: a dry well, sewer grates, temple crypts, a burnt house, cellars, a loose stone, a pauper's grave\n  • Three gangs rule the underworld: the Red Lantern Society (Third Brother Lu), the Ditch Rats (One-Eye Pan) and the Black Salt Gang (Old Gao). The bounty clerk's wanted posters pay for their bosses (more with the gang's seal), their fixers offer shady jobs at a cost to your standing, and their collectors ask a little protection money for houses on their turf (pay it and their pickpockets leave you be). Earn the hunters' titles\n  • New people in the streets and below: gangsters, smugglers, thieves and pickpockets (catch a thief to get your shards back), beggars, ghost traders, pit fighters, boatwomen and mourners; the underworld's bosses, the vault keepers and the Buried General\n  • The city's own sounds and music: each level of the labyrinth, the ghost market, the quarter by night\n  • New players are safe while they make their character: foes no longer attack you in the character creator\n  • Light ki blasts fly their whole way, and every throw, deflect, special and charge plays in the air while you fly\n  • Please try: find a way down into the labyrinth, the ghost market before dawn, the pleasure quarter by night, a wanted poster at the bounty clerk, and ki blasts while flying",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "3bc1254ec6b69a9edba425563a4d53e8e57b0eea",
-    "size": 292157256,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/3bc1254ec6b69a9edba425563a4d53e8e57b0eea.jar",
+    "sha1": "3bd7d0a372d0007d523733a936b4878932dfee6a",
+    "size": 296047033,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/3bd7d0a372d0007d523733a936b4878932dfee6a.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
@@ -29784,9 +29784,9 @@
    },
    {
     "path": "config/openloader/resources/alantria_sounds.zip",
-    "sha1": "a7492c77892479eec46d0be789ad4f3cc3e9e19c",
-    "size": 102057624,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/a7492c77892479eec46d0be789ad4f3cc3e9e19c.zip",
+    "sha1": "3118bdbc909b384acdf9c8206f7b31f1dd1fea7a",
+    "size": 123922847,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/3118bdbc909b384acdf9c8206f7b31f1dd1fea7a.zip",
     "mode": "strict"
    },
    {
