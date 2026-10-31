@@ -29754,15 +29754,15 @@
  },
  "test": {
   "name": "Dao Ascendant test build",
-  "version": "0.1.0-test36",
-  "notes": "Dao Ascendant test build 0.1.0-test36 (the same jars as the main pack 2026.10.29-1): NEW LOOKS, LIVING SPIRITS, FIXES\n  • Sword of Heavenly Judgement in its new look: the sky tears open, a ring of twenty-four swords stabs down round the target, the great sword falls through the tear, the ground breaks into flying blocks, a flash of negative light on the blow, new sounds\n  • The Heavenly Tribulation in its new look: the storm gathers overhead with a countdown, bolts crack the court with violet lightning, Heaven's Wrath (the demonic and dragon storms too), new sounds\n  • Earth's Embrace: the Divine Realm's Earth art (it was called Gravity Well, the same name as a Stone spell): two giant hands of stone rise where you aim, hold while foes are dragged in, and clap shut on them\n  • The Dharma Avatar's spirits are alive: they tower behind you, breathe, follow your gaze and strike with your arts half a beat after you, glowing in their element; you can choose your Avatar's element if you hold more than one\n  • The character creator closes with one press of Done, and you're safe the whole time it's open (the barber's chair too)\n  • The Vatansever works on the server: its weapon moves, its spirit sword, and thrown blades come back\n  • The City Atlas is redrawn for the new city: the pleasure quarter, the slums and their people\n  • Our cutscenes hide the minimap and its markers\n  • Please try: Sword of Heavenly Judgement and a breakthrough's tribulation, Earth's Embrace in the Divine Realm, the Dharma Avatar with its spirit, the character creator, the Vatansever on the server",
+  "version": "0.1.0-test37",
+  "notes": "Dao Ascendant test build 0.1.0-test37 (the same jars as the main pack 2026.10.30-1): EVERY SPELL AND ART IN ITS NEW LOOK\n  • Every spell of every school, Common to Mythic, has a new look layered over the old: Metal, Void, True Fire, Air, Ice, Flying Swords, Water, Tides, Wood, Earth, Stone and Wind, and the six great Mythics (Nine Heavens Tribulation, Golden Lotus Ascension, Primordial Convocation, Void Step Through Heaven, Crimson Sea, Heart Demon Unbound)\n  • Every art remade from scratch around its own new piece: the Earth realm's arts and skills (a bronze qi bracer, acupuncture needles, the war banner, a ginseng spirit, the cloud ladder, crane-feather wings...), the five sects' arts (Tiger Fang, White Crane, Golden Leopard, Coiling Serpent, Cloud Dragon with the real azure dragon), the Wanderer's road (straw hat, bamboo staff, wine gourd, crescent moon), Hundred Schools and the merit arts, the Heaven, Golden Immortal, Divine and Dao realms' arts, and the Dharma Avatar's call and all seventeen of its arts\n  • Heavenly Tribulation's call: as the storm gathers, a green jade tablet bearing heaven's mandate comes down a pillar of light and hangs over you\n  • New sounds for every spell's new look, and for most arts' (the last arts' sounds follow in the next build)\n  • Fixes: Primordial Ocean's wave crests and Ten Thousand Sword Immortals' cuts no longer go on forever after a cast; Vanish's cicada husk and the Tribulation's tablet at their true size; Dragon's Breath pours from your hand; Mountain Crusher's boot and Gravity Well's halo redrawn\n  • Please try: your own school's spells in daylight and at night, a sect art, the Dharma Avatar, a breakthrough's tribulation",
   "guide": "https://github.com/Sedulous-Dev/alantria-pack/blob/main/test/TESTER_GUIDE.md",
   "files": [
    {
     "path": "mods/daoascendant-1.21.1-0.1.0.jar",
-    "sha1": "837fbe2e5d1ebb6f4ae9161eaf0f9e79170cc253",
-    "size": 322018729,
-    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/837fbe2e5d1ebb6f4ae9161eaf0f9e79170cc253.jar",
+    "sha1": "1dcbda0d20f74ee841d98bac2231187d1769dd31",
+    "size": 392849826,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/1dcbda0d20f74ee841d98bac2231187d1769dd31.jar",
     "mode": "strict",
     "name": "Dao Ascendant: The Path to Immortality",
     "version": "0.1.0"
