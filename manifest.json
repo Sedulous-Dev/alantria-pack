@@ -29747,9 +29747,9 @@
   ]
  },
  "launcher": {
-  "version": "1.4.2",
-  "sha1": "aa768f341c588b692085679b08dee0ab7fc7df2f",
-  "size": 28113952,
+  "version": "1.5.0",
+  "sha1": "352c8a0a6394a973090bc0c0b98d094e338f0e6e",
+  "size": 28116029,
   "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/launcher/AlantriaLauncher.exe"
  },
  "test": {
@@ -29796,5 +29796,2796 @@
     "mode": "strict"
    }
   ]
+ },
+ "pmd": {
+  "name": "Mystery Dungeon",
+  "version": "2026.11.01-1",
+  "minecraft": "1.21.1",
+  "loader": {
+   "type": "neoforge",
+   "version": "21.1.264"
+  },
+  "recommendedRamMB": 8192,
+  "changelog": "Version 2026.11.01-1  (Nov 1, 2026)\n  • The Mystery Dungeon tab: its own Cobblemon pack with the PmdCraft test build",
+  "files": [
+   {
+    "path": "mods/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar",
+    "sha1": "81974fbd6bb03193be8310b31b6879d0fe4169e4",
+    "size": 270853,
+    "url": "https://cdn.modrinth.com/data/BaR4ijFC/versions/xaWwatoU/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar",
+    "mode": "strict",
+    "project": "BaR4ijFC",
+    "name": "AdvancedCoreInfo",
+    "version": "1.5.0"
+   },
+   {
+    "path": "mods/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar",
+    "sha1": "d640286f05ff6417af467ba25e92f7f879cd888d",
+    "size": 730220,
+    "url": "https://cdn.modrinth.com/data/PEPVViac/versions/adxS0PUF/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar",
+    "mode": "strict",
+    "project": "PEPVViac",
+    "name": "AdvancedLootInfo",
+    "version": "2.5.0"
+   },
+   {
+    "path": "mods/AllTheMons [R5.0].jar",
+    "sha1": "305c15c6d05432505620c7dbce8cbdb582b49756",
+    "size": 13992464,
+    "url": "https://cdn.modrinth.com/data/JV5dvqVX/versions/zBvjSFAA/AllTheMons%20%5BR5.0%5D.jar",
+    "mode": "strict",
+    "project": "JV5dvqVX",
+    "name": "Cobblemon: AllTheMons",
+    "version": "5.0"
+   },
+   {
+    "path": "mods/almanac-neoforge-1.21.1-1.26.10.3.jar",
+    "sha1": "6ef67705ff70e57e2fb54aa3c6d9f563eddf1224",
+    "size": 402267,
+    "url": "https://cdn.modrinth.com/data/Gi02250Z/versions/e50qrv4Z/almanac-neoforge-1.21.1-1.26.10.3.jar",
+    "mode": "strict",
+    "project": "Gi02250Z",
+    "name": "Almanac",
+    "version": "1.26.10.3"
+   },
+   {
+    "path": "mods/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
+    "sha1": "3a00ec1170b38e75a502dcc46038397f8fd9b305",
+    "size": 50812,
+    "url": "https://cdn.modrinth.com/data/DyTvM1dv/versions/N7jam3SN/AmbientEnvironment-neoforge-1.21.1-18.0.0.2.jar",
+    "mode": "strict",
+    "project": "DyTvM1dv",
+    "name": "AmbientEnvironment",
+    "version": "18.0.0.2"
+   },
+   {
+    "path": "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+    "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+    "size": 75804,
+    "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+    "mode": "strict",
+    "project": "EsAfCjCV",
+    "name": "AppleSkin",
+    "version": "3.0.9+mc1.21"
+   },
+   {
+    "path": "mods/balm-neoforge-1.21.1-21.0.66.jar",
+    "sha1": "dd3606a349f4a3c8fb5bd0ab22905675c02b0d74",
+    "size": 783793,
+    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/CquiaiDj/balm-neoforge-1.21.1-21.0.66.jar",
+    "mode": "strict",
+    "project": "MBAkmtvl",
+    "name": "Balm",
+    "version": "21.0.66"
+   },
+   {
+    "path": "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+    "sha1": "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2",
+    "size": 98641,
+    "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
+    "mode": "strict",
+    "project": "Q2OqKxDG",
+    "name": "Better Advancements",
+    "version": "0.4.3.21"
+   },
+   {
+    "path": "mods/BetterPingDisplay-1.21.1-1.1.jar",
+    "sha1": "66702459c2a87b9943af3347c4df1ae6ff14c897",
+    "size": 13871,
+    "url": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
+    "mode": "strict",
+    "project": "ZvaHbwoZ",
+    "name": "Better Ping Display",
+    "version": "1.1"
+   },
+   {
+    "path": "mods/BetterThirdPerson-neoforge-1.9.0.jar",
+    "sha1": "e91af996b413bb498e276bf410d0deff52a34a74",
+    "size": 60941,
+    "url": "https://cdn.modrinth.com/data/G1s2WpNo/versions/aG5y4JUQ/BetterThirdPerson-neoforge-1.9.0.jar",
+    "mode": "strict",
+    "project": "G1s2WpNo",
+    "name": "Better Third Person",
+    "version": "1.9.0"
+   },
+   {
+    "path": "mods/better_tooltips-1.0.3.jar",
+    "sha1": "ac67bc12905121dc52d6403edd2c4cc8d39a6b67",
+    "size": 64441,
+    "url": "https://cdn.modrinth.com/data/Z7rKZJ8k/versions/cnt6F6VI/better_tooltips-1.0.3.jar",
+    "mode": "strict",
+    "project": "Z7rKZJ8k",
+    "name": "Better Tooltips",
+    "version": "1.0.3"
+   },
+   {
+    "path": "mods/BHMenu-NeoForge-1.21-2.4.4.jar",
+    "sha1": "5edcf2d9007e99c5030b6a525cd701ddfa62f10d",
+    "size": 163914,
+    "url": "https://cdn.modrinth.com/data/yWSAtnfH/versions/V1gN58O4/BHMenu-NeoForge-1.21-2.4.4.jar",
+    "mode": "strict",
+    "project": "yWSAtnfH",
+    "name": "BHMenu",
+    "version": "2.4.4"
+   },
+   {
+    "path": "mods/bookshelf-neoforge-1.21.1-21.1.81.jar",
+    "sha1": "efc4cda6da4dd879f24d057ed0a6413764c9ba40",
+    "size": 328813,
+    "url": "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar",
+    "mode": "strict",
+    "project": "uy4Cnpcm",
+    "name": "Bookshelf",
+    "version": "21.1.81"
+   },
+   {
+    "path": "mods/bwncr-neoforge-1.21.1-3.20.4.jar",
+    "sha1": "dd7920e114fbd066986ea1028aa201a5e0742875",
+    "size": 28573,
+    "url": "https://cdn.modrinth.com/data/lL2MtE37/versions/FRuLJsBp/bwncr-neoforge-1.21.1-3.20.4.jar",
+    "mode": "strict",
+    "project": "lL2MtE37",
+    "name": "Bad Wither No Cookie Reloaded",
+    "version": "3.20.4"
+   },
+   {
+    "path": "mods/cherishedworlds-neoforge-10.1.1+1.21.1.jar",
+    "sha1": "aefc8c79ba62606a71f509a9b3c881f3fc4cad5c",
+    "size": 61728,
+    "url": "https://cdn.modrinth.com/data/3azQ6p0W/versions/o5lwJaRU/cherishedworlds-neoforge-10.1.1%2B1.21.1.jar",
+    "mode": "strict",
+    "project": "3azQ6p0W",
+    "name": "Cherished Worlds",
+    "version": "10.1.1+1.21.1"
+   },
+   {
+    "path": "mods/citresewn-1.2.2+1.21.jar",
+    "sha1": "5569769f66eda6d51ca3ae56d58d5a4657f19ef9",
+    "size": 396723,
+    "url": "https://cdn.modrinth.com/data/otVJckYQ/versions/JUnP9V1A/citresewn-1.2.2%2B1.21.jar",
+    "mode": "strict",
+    "project": "otVJckYQ",
+    "name": "CIT Resewn",
+    "version": "1.2.2+1.21"
+   },
+   {
+    "path": "mods/citresewn_neopatcher-1.3.0-1.2.2.jar",
+    "sha1": "894f855e3ec06780a5f5d0d4c385ae8297b3d71a",
+    "size": 20846,
+    "url": "https://cdn.modrinth.com/data/yYE9h4iu/versions/me9WAzwe/citresewn_neopatcher-1.3.0-1.2.2.jar",
+    "mode": "strict",
+    "project": "yYE9h4iu"
+   },
+   {
+    "path": "mods/cloth-config-15.0.140-neoforge.jar",
+    "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2",
+    "size": 1163890,
+    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar",
+    "mode": "strict",
+    "project": "9s6osm5g",
+    "name": "Cloth Config v15 API",
+    "version": "15.0.140"
+   },
+   {
+    "path": "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+    "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+    "size": 18382,
+    "url": "https://cdn.modrinth.com/data/Wnxd13zP/versions/jo7lDoK4/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+    "mode": "strict",
+    "project": "Wnxd13zP",
+    "name": "Clumps",
+    "version": "19.0.0.1"
+   },
+   {
+    "path": "mods/Cobblemon-neoforge-1.8.4+1.21.1.jar",
+    "sha1": "33582bdfdf054c64fc114f81a4950bd23f937778",
+    "size": 141635727,
+    "url": "https://cdn.modrinth.com/data/MdwFAVRL/versions/xsVHrAsY/Cobblemon-neoforge-1.8.4%2B1.21.1.jar",
+    "mode": "strict",
+    "project": "MdwFAVRL",
+    "name": "Cobblemon",
+    "version": "1.8.4+1.21.1"
+   },
+   {
+    "path": "mods/connector-2.0.0-beta.17+1.21.1-full.jar",
+    "sha1": "15e652d3628b1bcb644b93576fcab154496f770a",
+    "size": 4573244,
+    "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/IITF0PRC/connector-2.0.0-beta.17%2B1.21.1-full.jar",
+    "mode": "strict",
+    "project": "u58R1TMW"
+   },
+   {
+    "path": "mods/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+    "sha1": "b6252039445978a742f439fc398f2a198b86bd4e",
+    "size": 256086,
+    "url": "https://cdn.modrinth.com/data/DMu0oBKf/versions/IhkQpEve/craftingtweaks-neoforge-1.21.1-21.1.11.jar",
+    "mode": "strict",
+    "project": "DMu0oBKf",
+    "name": "Crafting Tweaks",
+    "version": "21.1.11"
+   },
+   {
+    "path": "mods/CraftPresence-2.7.1+1.21.1-neoforge.jar",
+    "sha1": "a0629a26ec41099fad1c0f6143d15b5b2c4f3ab2",
+    "size": 1306084,
+    "url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/tjZKI2uh/CraftPresence-2.7.1%2B1.21.1-neoforge.jar",
+    "mode": "strict",
+    "project": "DFqQfIBR",
+    "name": "CraftPresence",
+    "version": "2.7.1"
+   },
+   {
+    "path": "mods/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+    "sha1": "d682687ec41236092c5206a21e2ed34bdb7f6b79",
+    "size": 105507,
+    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/1zt17WsC/defaultoptions-neoforge-1.21.1-21.1.8.jar",
+    "mode": "strict",
+    "project": "WEg59z5b",
+    "name": "Default Options",
+    "version": "21.1.8"
+   },
+   {
+    "path": "mods/dynamiccrosshair-9.11+1.21.1-neoforge.jar",
+    "sha1": "d35cddd8145a68029305b119af571ebf36e9cda5",
+    "size": 514029,
+    "url": "https://cdn.modrinth.com/data/ZcR9weSm/versions/RShcBQz5/dynamiccrosshair-9.11%2B1.21.1-neoforge.jar",
+    "mode": "strict",
+    "project": "ZcR9weSm",
+    "name": "Dynamic Crosshair",
+    "version": "9.11"
+   },
+   {
+    "path": "mods/emi-1.1.24+1.21.1+neoforge.jar",
+    "sha1": "3fd494b37027dfbc7f78414d7cbf251c9eb6738a",
+    "size": 1111538,
+    "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/5sIPA1To/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+    "mode": "strict",
+    "project": "fRiHVvU7",
+    "name": "EMI",
+    "version": "1.1.24+1.21.1+neoforge"
+   },
+   {
+    "path": "mods/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+    "sha1": "db869b08e5d86188a259b2dfeeece6f94ea17630",
+    "size": 23543,
+    "url": "https://cdn.modrinth.com/data/LGVihYcz/versions/wGOa5uxT/EMIProfessions-neoforge-1.21.1-1.0.3.jar",
+    "mode": "strict",
+    "project": "LGVihYcz",
+    "name": "EMI Professions (EMIP)",
+    "version": "1.0.3"
+   },
+   {
+    "path": "mods/emi_enchanting-0.1.2+1.21+neoforge.jar",
+    "sha1": "02ad74769ffcec259fd9bb14a1760593f6182b5c",
+    "size": 15680,
+    "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/ZyJ6TKvh/emi_enchanting-0.1.2%2B1.21%2Bneoforge.jar",
+    "mode": "strict",
+    "project": "wbWoo11W",
+    "name": "EMI Enchanting",
+    "version": "0.1.2+1.21+neoforge"
+   },
+   {
+    "path": "mods/emi_ores-1.3+1.21.1+neoforge.jar",
+    "sha1": "26e3f998295bae5178530d4bb217e824a2637121",
+    "size": 116663,
+    "url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/V2MXZKsX/emi_ores-1.3%2B1.21.1%2Bneoforge.jar",
+    "mode": "strict",
+    "project": "sG4TqDb8",
+    "name": "EMI Ores",
+    "version": "1.3+1.21.1+neoforge"
+   },
+   {
+    "path": "mods/enchdesc-neoforge-1.21.1-21.1.11.jar",
+    "sha1": "4d453df785ac21e0e7389cba949f4fa460c3e267",
+    "size": 82648,
+    "url": "https://cdn.modrinth.com/data/UVtY3ZAC/versions/IktklYWh/enchdesc-neoforge-1.21.1-21.1.11.jar",
+    "mode": "strict",
+    "project": "UVtY3ZAC",
+    "name": "EnchantmentDescriptions",
+    "version": "21.1.11"
+   },
+   {
+    "path": "mods/enhanced_attack_indicator-1.1.1+1.21-forge.jar",
+    "sha1": "6385328b41fedce7faedefe9c9e86b99b79e6918",
+    "size": 13371,
+    "url": "https://cdn.modrinth.com/data/eTy17BBS/versions/cmUdkoBd/enhanced_attack_indicator-1.1.1%2B1.21-forge.jar",
+    "mode": "strict",
+    "project": "eTy17BBS",
+    "name": "Enhanced Attack Indicator",
+    "version": "1.1.1+1.21-forge"
+   },
+   {
+    "path": "mods/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+    "sha1": "f122f84f329793675b2625d51b77f990d7de3579",
+    "size": 1510075,
+    "url": "https://cdn.modrinth.com/data/NNAgCjsB/versions/eieYbWYb/entityculling-neoforge-1.11.3-mc1.21.1.jar",
+    "mode": "strict",
+    "project": "NNAgCjsB",
+    "name": "EntityCulling",
+    "version": "1.11.3"
+   },
+   {
+    "path": "mods/entity_model_features-3.3.12-1.21-neoforge.jar",
+    "sha1": "e9a163b77243cdfcb0ad3d698dc48a60cb8710e9",
+    "size": 656382,
+    "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/197m3VoU/entity_model_features-3.3.12-1.21-neoforge.jar",
+    "mode": "strict",
+    "project": "4I1XuqiY",
+    "name": "Entity Model Features",
+    "version": "3.3.12"
+   },
+   {
+    "path": "mods/entity_texture_features-7.2.6-1.21-neoforge.jar",
+    "sha1": "1a77ddb156daa4125c205424f05f0fa861517d9c",
+    "size": 807089,
+    "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/lwNx1nD1/entity_texture_features-7.2.6-1.21-neoforge.jar",
+    "mode": "strict",
+    "project": "BVzZfTc1",
+    "name": "Entity Texture Features",
+    "version": "7.2.6"
+   },
+   {
+    "path": "mods/fallingleaves-1.21.1-2.6.0.jar",
+    "sha1": "c1ae4a2ca27be388d4c2fc75eff208059eaf4cc9",
+    "size": 153794,
+    "url": "https://cdn.modrinth.com/data/2JAUNCL4/versions/ZTfOTZtM/fallingleaves-1.21.1-2.6.0.jar",
+    "mode": "strict",
+    "project": "2JAUNCL4",
+    "name": "Fallingleaves",
+    "version": "1.21.1-2.6.0"
+   },
+   {
+    "path": "mods/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+    "sha1": "cafbef98afb4f60adea426b950c5452655040c40",
+    "size": 25922080,
+    "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/P9dDosz2/fancymenu_neoforge_3.9.14_MC_1.21.1.jar",
+    "mode": "strict",
+    "project": "Wq5SjeWM",
+    "name": "FancyMenu",
+    "version": "3.9.14"
+   },
+   {
+    "path": "mods/ferritecore-7.0.3-neoforge.jar",
+    "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+    "size": 121559,
+    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+    "mode": "strict",
+    "project": "uXXizFIs",
+    "name": "Ferrite Core",
+    "version": "7.0.3"
+   },
+   {
+    "path": "mods/forgified-fabric-api-0.116.15+2.3.6+1.21.1.jar",
+    "sha1": "1fe1ca9f440cd30c86186e42505694b70ececc11",
+    "size": 5612888,
+    "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/C4eskNuR/forgified-fabric-api-0.116.15%2B2.3.6%2B1.21.1.jar",
+    "mode": "strict",
+    "project": "Aqlf1Shp",
+    "name": "Forgified Fabric API",
+    "version": "0.116.15+2.3.6+1.21.1"
+   },
+   {
+    "path": "mods/InvMove-0.9.3+1.21.1-NeoForge.jar",
+    "sha1": "536c78c3b97beb0f947b9f3765842ec990a873d8",
+    "size": 87005,
+    "url": "https://cdn.modrinth.com/data/REfW2AEX/versions/C7ePwvWW/InvMove-0.9.3%2B1.21.1-NeoForge.jar",
+    "mode": "strict",
+    "project": "REfW2AEX",
+    "name": "InvMove",
+    "version": "0.9.3"
+   },
+   {
+    "path": "mods/InvMoveCompats-0.5.0+1.21.8-NeoForge.jar",
+    "sha1": "6cd72da74b8af439c3240e95ae9b0989a2509af1",
+    "size": 103185,
+    "url": "https://cdn.modrinth.com/data/6IpcGP7T/versions/GjTuFGdp/InvMoveCompats-0.5.0%2B1.21.8-NeoForge.jar",
+    "mode": "strict",
+    "project": "6IpcGP7T",
+    "name": "InvMoveCompats",
+    "version": "0.5.0"
+   },
+   {
+    "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+    "sha1": "1bd129cf7bce65d6b1c0543045f0620c98a0f885",
+    "size": 2540723,
+    "url": "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+    "mode": "strict",
+    "project": "YL57xq9U",
+    "name": "Iris",
+    "version": "1.8.14-beta.1+mc1.21.1"
+   },
+   {
+    "path": "mods/jeed-1.21-2.3.5-neoforge.jar",
+    "sha1": "4eadb48f3f19f0a42226b9617cdbb27e84543fcc",
+    "size": 166779,
+    "url": "https://cdn.modrinth.com/data/EO27GKs1/versions/3dTukOBl/jeed-1.21-2.3.5-neoforge.jar",
+    "mode": "strict",
+    "project": "EO27GKs1",
+    "name": "Just Enough Effects Descriptions",
+    "version": "1.21-2.3.5"
+   },
+   {
+    "path": "mods/jei-1.21.1-neoforge-19.70.0.460.jar",
+    "sha1": "28f60e82131464f4093f5400df6c0c04915ffb38",
+    "size": 4735620,
+    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/u8LQk1jf/jei-1.21.1-neoforge-19.70.0.460.jar",
+    "mode": "strict",
+    "project": "u6dRKJwZ",
+    "name": "Just Enough Items",
+    "version": "19.70.0.460"
+   },
+   {
+    "path": "mods/journeymap-neoforge-1.21.1-6.0.9.jar",
+    "sha1": "3a5c86e620a7d5aa53b6e42ca4a1577bbba1d332",
+    "size": 4320499,
+    "url": "https://cdn.modrinth.com/data/lfHFW1mp/versions/CtFE7hwT/journeymap-neoforge-1.21.1-6.0.9.jar",
+    "mode": "strict",
+    "project": "lfHFW1mp",
+    "name": "Journeymap",
+    "version": "1.21.1-6.0.9"
+   },
+   {
+    "path": "mods/konkrete_neoforge_1.9.9_MC_1.21.jar",
+    "sha1": "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa",
+    "size": 618842,
+    "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
+    "mode": "strict",
+    "project": "J81TRJWm",
+    "name": "Konkrete",
+    "version": "1.9.9"
+   },
+   {
+    "path": "mods/kotlinforforge-5.12.0-all.jar",
+    "sha1": "d10d062caf1aad9aec82d7852f2fee1781735c1f",
+    "size": 7279264,
+    "url": "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar",
+    "mode": "strict",
+    "project": "ordsPcFz"
+   },
+   {
+    "path": "mods/KryptonFoxified-0.1.0+mc1.21.jar",
+    "sha1": "b6912442dfb47b2cbcadb4085608636fced68af9",
+    "size": 189002,
+    "url": "https://cdn.modrinth.com/data/rmFH8I1v/versions/TFGMCLED/KryptonFoxified-0.1.0%2Bmc1.21.jar",
+    "mode": "strict",
+    "project": "rmFH8I1v",
+    "name": "KryptonFoxified",
+    "version": "0.1.0+mc1.21"
+   },
+   {
+    "path": "mods/lambdynamiclights-3.1.4-neo-0+1.21.1.jar",
+    "sha1": "1685ff10d75439cc2cc82a8c7885d05af263f51e",
+    "size": 440704,
+    "url": "https://cdn.modrinth.com/data/g1BboDNl/versions/quylAxP6/lambdynamiclights-3.1.4-neo-0%2B1.21.1.jar",
+    "mode": "strict",
+    "project": "g1BboDNl",
+    "name": "LambDynamicLights",
+    "version": "3.1.4-neo-0+1.21.1"
+   },
+   {
+    "path": "mods/languagereload-neoforge-1.21.1-1.0.2.jar",
+    "sha1": "4a9c4c762facbd9d4691763e0a6315c5b7ab3835",
+    "size": 68022,
+    "url": "https://cdn.modrinth.com/data/4zpN0syd/versions/qSdV3sEV/languagereload-neoforge-1.21.1-1.0.2.jar",
+    "mode": "strict",
+    "project": "4zpN0syd",
+    "name": "LanguageReload",
+    "version": "1.0.2"
+   },
+   {
+    "path": "mods/letmedespawn-neoforge-1.21.1-1.26.10.2.jar",
+    "sha1": "6e9b732a7ade6e3d2e7899b53821a8bcab1add1a",
+    "size": 29583,
+    "url": "https://cdn.modrinth.com/data/vE2FN5qn/versions/Ta6w35oG/letmedespawn-neoforge-1.21.1-1.26.10.2.jar",
+    "mode": "strict",
+    "project": "vE2FN5qn",
+    "name": "LetMeDespawn",
+    "version": "1.26.10.2"
+   },
+   {
+    "path": "mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+    "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+    "size": 774220,
+    "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+    "mode": "strict",
+    "project": "gvQqBUqZ",
+    "name": "Lithium",
+    "version": "0.15.4+mc1.21.1"
+   },
+   {
+    "path": "mods/melody_neoforge_1.0.10_MC_1.21.jar",
+    "sha1": "e83052a92c4ca0016bcfe7f0207273983dc84698",
+    "size": 36096,
+    "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
+    "mode": "strict",
+    "project": "CVT4pFB2",
+    "name": "Melody",
+    "version": "1.0.10"
+   },
+   {
+    "path": "mods/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+    "sha1": "a20ecb9978bd8eebd40f4548d14b0a360a63f8a4",
+    "size": 345479,
+    "url": "https://cdn.modrinth.com/data/7tEfOcA7/versions/RdGonQpr/mezz_config-1.21.1-neoforge-0.6.9-standalone.jar",
+    "mode": "strict",
+    "project": "7tEfOcA7"
+   },
+   {
+    "path": "mods/monsters_in_the_closet-1.0.3+1.21-forge.jar",
+    "sha1": "1baf3e2a2e45023e1db66e839e0c85e3daad5784",
+    "size": 10441,
+    "url": "https://cdn.modrinth.com/data/GMA8jFBD/versions/8nOX0cUH/monsters_in_the_closet-1.0.3%2B1.21-forge.jar",
+    "mode": "strict",
+    "project": "GMA8jFBD",
+    "name": "Monsters In The Closet",
+    "version": "1.0.3+1.21-forge"
+   },
+   {
+    "path": "mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+    "sha1": "9f1ba483216aebce1ee6185601231158684f5de8",
+    "size": 211972,
+    "url": "https://cdn.modrinth.com/data/nPZr02ET/versions/O09BGtgh/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+    "mode": "strict",
+    "project": "nPZr02ET",
+    "name": "NetherPortalFix",
+    "version": "21.1.1"
+   },
+   {
+    "path": "mods/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+    "sha1": "2098ae4965ebefb2dc8d5aec42a7d5282414fddc",
+    "size": 1866035,
+    "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/VCuMsK45/notenoughanimations-neoforge-1.12.6-mc1.21.1.jar",
+    "mode": "strict",
+    "project": "MPCX6s5C",
+    "name": "NotEnoughAnimations",
+    "version": "1.12.6"
+   },
+   {
+    "path": "mods/OpenLoader-neoforge-1.21.1-21.1.5.jar",
+    "sha1": "b4b49fa0bbefcecd41aaba60aca38c3658ac2c46",
+    "size": 35602,
+    "url": "https://cdn.modrinth.com/data/KwWsINvD/versions/Szobbnyh/OpenLoader-neoforge-1.21.1-21.1.5.jar",
+    "mode": "strict",
+    "project": "KwWsINvD",
+    "name": "OpenLoader",
+    "version": "21.1.5"
+   },
+   {
+    "path": "mods/particlerain-4.0.2+1.21.1-neoforge.jar",
+    "sha1": "444c6f221e57cca8e433702b18c4643faa82545a",
+    "size": 623257,
+    "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/RxfaR4ud/particlerain-4.0.2%2B1.21.1-neoforge.jar",
+    "mode": "strict",
+    "project": "nrikgvxm",
+    "name": "Particle Rain",
+    "version": "4.0.2"
+   },
+   {
+    "path": "mods/particular-1.21.1-NeoForge-1.5.7.jar",
+    "sha1": "d6d33e8233481ad8fc6f8c351f52783ed431a800",
+    "size": 315841,
+    "url": "https://cdn.modrinth.com/data/pYFUU6cq/versions/WyRBAcBf/particular-1.21.1-NeoForge-1.5.7.jar",
+    "mode": "strict",
+    "project": "pYFUU6cq",
+    "name": "Particular Reforged",
+    "version": "1.5.7"
+   },
+   {
+    "path": "mods/PresenceFootsteps-1.11.0+1.21.jar",
+    "sha1": "198ca0620e49f7fff2a9b34697223213e9ae6e5b",
+    "size": 5689995,
+    "url": "https://cdn.modrinth.com/data/rcTfTZr3/versions/VgtNc4Rg/PresenceFootsteps-1.11.0%2B1.21.jar",
+    "mode": "strict",
+    "project": "rcTfTZr3",
+    "name": "Presence Footsteps",
+    "version": "1.11.0+1.21"
+   },
+   {
+    "path": "mods/prickle-neoforge-1.21.1-21.1.11.jar",
+    "sha1": "5174059ecf97340a0de5ef211b938de26c4eaa36",
+    "size": 84812,
+    "url": "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar",
+    "mode": "strict",
+    "project": "aaRl8GiW",
+    "name": "PrickleMC",
+    "version": "21.1.11"
+   },
+   {
+    "path": "mods/reeses-sodium-options-neoforge-2.2.4+mc1.21.1.jar",
+    "sha1": "e9e6d101b31acb51539141937ad5b069ff2ccc4d",
+    "size": 258894,
+    "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/XjF2IkL8/reeses-sodium-options-neoforge-2.2.4%2Bmc1.21.1.jar",
+    "mode": "strict",
+    "project": "Bh37bMuy",
+    "name": "Reese's Sodium Options",
+    "version": "2.2.4+mc1.21.1"
+   },
+   {
+    "path": "mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
+    "sha1": "bddbccd689529f7f7ab04479e62c5e09b0be6be5",
+    "size": 381204,
+    "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/IuqNIoAi/shulkerboxtooltip-neoforge-5.1.9%2B1.21.1.jar",
+    "mode": "strict",
+    "project": "2M01OLQq",
+    "name": "ShulkerBoxTooltip",
+    "version": "5.1.9+1.21.1"
+   },
+   {
+    "path": "mods/sodium-extra-neoforge-0.9.5+mc1.21.1.jar",
+    "sha1": "6ca433df0ad08ce8413582e75dcae7619414a068",
+    "size": 483373,
+    "url": "https://cdn.modrinth.com/data/PtjYWJkn/versions/T819dLGI/sodium-extra-neoforge-0.9.5%2Bmc1.21.1.jar",
+    "mode": "strict",
+    "project": "PtjYWJkn",
+    "name": "Sodium Extra",
+    "version": "0.9.5+mc1.21.1"
+   },
+   {
+    "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+    "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+    "size": 1292934,
+    "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+    "mode": "strict",
+    "project": "AANobbMI",
+    "name": "Sodium",
+    "version": "0.8.13+mc1.21.1"
+   },
+   {
+    "path": "mods/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
+    "sha1": "315891dcf8459a53fe263d985073bef619c360d0",
+    "size": 79200,
+    "url": "https://cdn.modrinth.com/data/EIa1eiMm/versions/FpMmigWq/sodium-shadowy-path-blocks-neoforge-4.1.0.jar",
+    "mode": "strict",
+    "project": "EIa1eiMm",
+    "name": "Sodium Shadowy Path Blocks",
+    "version": "4.1.0"
+   },
+   {
+    "path": "mods/softimprints-neoforge-1.21.1-2.8.0.jar",
+    "sha1": "6f53ea381c6dd55a30e70bf147cb665f4e73a24b",
+    "size": 609547,
+    "url": "https://cdn.modrinth.com/data/UhxJgB1o/versions/cOfawGEr/softimprints-neoforge-1.21.1-2.8.0.jar",
+    "mode": "strict",
+    "project": "UhxJgB1o",
+    "name": "Soft Imprints",
+    "version": "2.8.0"
+   },
+   {
+    "path": "mods/swingthrough-1.0.5+1.21.jar",
+    "sha1": "26c5eee723332dd309879f176eadcc2871fbc2c5",
+    "size": 23523,
+    "url": "https://cdn.modrinth.com/data/JyKlunuD/versions/ELQQ49mK/swingthrough-1.0.5%2B1.21.jar",
+    "mode": "strict",
+    "project": "JyKlunuD",
+    "name": "SwingThrough",
+    "version": "1.0.5+1.21"
+   },
+   {
+    "path": "mods/tipsmod-neoforge-1.21.1-21.1.3.jar",
+    "sha1": "34db760aa9a1a8cec512e32b93e51525dbcb3597",
+    "size": 121037,
+    "url": "https://cdn.modrinth.com/data/AMCbgyVw/versions/dFBz1Le7/tipsmod-neoforge-1.21.1-21.1.3.jar",
+    "mode": "strict",
+    "project": "AMCbgyVw",
+    "name": "Tips",
+    "version": "21.1.3"
+   },
+   {
+    "path": "mods/UniLib-1.2.1+1.21.1-neoforge.jar",
+    "sha1": "4833a5685125ece15fed1108a5a7064527dc9d69",
+    "size": 1583972,
+    "url": "https://cdn.modrinth.com/data/nT86WUER/versions/ClsEQJGw/UniLib-1.2.1%2B1.21.1-neoforge.jar",
+    "mode": "strict",
+    "project": "nT86WUER",
+    "name": "UniLib",
+    "version": "1.2.1"
+   },
+   {
+    "path": "mods/visuality-forge-3.0.0.jar",
+    "sha1": "9786f023733a302b582b7349336e1ab47e93823e",
+    "size": 132898,
+    "url": "https://cdn.modrinth.com/data/z13R7Et1/versions/kOdevgPm/visuality-forge-3.0.0.jar",
+    "mode": "strict",
+    "project": "z13R7Et1",
+    "name": "Visuality: Reforged",
+    "version": "3.0.0"
+   },
+   {
+    "path": "mods/wakes-1.21.1-NeoForge-1.4.1.jar",
+    "sha1": "e55b63465e733b0faee50c9c336b82a5bca857a8",
+    "size": 222430,
+    "url": "https://cdn.modrinth.com/data/E0SdeAoH/versions/Z3Ic8n5N/wakes-1.21.1-NeoForge-1.4.1.jar",
+    "mode": "strict",
+    "project": "E0SdeAoH",
+    "name": "Wakes",
+    "version": "1.4.1"
+   },
+   {
+    "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+    "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+    "size": 1118651,
+    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+    "mode": "strict",
+    "project": "1eAoo2KR",
+    "name": "YetAnotherConfigLib",
+    "version": "3.8.2+1.21.1-neoforge"
+   },
+   {
+    "path": "resourcepacks/Better-Leaves-9.6.zip",
+    "sha1": "fa3a961b82a9f15a4e80b1f7f021bc121649f073",
+    "size": 1977146,
+    "url": "https://cdn.modrinth.com/data/uvpymuxq/versions/w4ReEpuG/Better-Leaves-9.6.zip",
+    "mode": "strict",
+    "project": "uvpymuxq"
+   },
+   {
+    "path": "resourcepacks/Maxi's-JM+CM_Pixel-U11.zip",
+    "sha1": "cbb056c64230b515ea2e5745320a32a2598c1226",
+    "size": 2784083,
+    "url": "https://cdn.modrinth.com/data/ENCwFpBk/versions/XeZeOIZW/Maxi%27s-JM%2BCM_Pixel-U11.zip",
+    "mode": "strict",
+    "project": "ENCwFpBk"
+   },
+   {
+    "path": "shaderpacks/ComplementaryReimagined_r5.9.3.zip",
+    "sha1": "838139b54cddb56b2e83cd260d8efd960ac536d6",
+    "size": 553397,
+    "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/Bqen1mJX/ComplementaryReimagined_r5.9.3.zip",
+    "mode": "strict",
+    "project": "HVnmMxH1"
+   },
+   {
+    "path": "config/almanac-common.toml.migrated",
+    "sha1": "f194c1d8369fb9b22696f472c20be7593cd71d30",
+    "size": 575,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/almanac-common.toml.migrated",
+    "mode": "soft"
+   },
+   {
+    "path": "config/appleskin-client.toml",
+    "sha1": "294982f3be1ecb7526b34e23c2939ec8c4f5da52",
+    "size": 1381,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/appleskin-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/balm-client.toml",
+    "sha1": "24d30218391a98e275557a07b93299b69f4e0f4f",
+    "size": 795,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/balm-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/balm-common.toml",
+    "sha1": "eb9815a0a0856be8d2098291a7dd3d090edc2697",
+    "size": 795,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/balm-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/betteradvancements-client.toml",
+    "sha1": "f3f092a0b21260802d10cc6abd83e2a6d33573c3",
+    "size": 939,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/betteradvancements-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/betterpingdisplay-client.toml",
+    "sha1": "734d536a1f2dc8355831603f42147db1a48e804b",
+    "size": 664,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/betterpingdisplay-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/betterthirdperson-common.toml",
+    "sha1": "86774c511b59294d8008f5ade4955d697a9263e5",
+    "size": 749,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/betterthirdperson-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/better_tooltips-client.toml",
+    "sha1": "0ed02a9f0cfaa1134d4a9daa29938bce9326befb",
+    "size": 761,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/better_tooltips-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/bhmenu-client.toml",
+    "sha1": "6e0a40f8b4356ce82733ff7db83e49931431eb58",
+    "size": 2076,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/bhmenu-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/bwncr-common.toml",
+    "sha1": "5ffdd9ee57a9b8d9fa0e81e34545c574874913b8",
+    "size": 680,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/bwncr-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/citresewn.json",
+    "sha1": "962b8fbc4f2e6dd6ae7f3c4074281276e3c332ed",
+    "size": 121,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/citresewn.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/connector.json",
+    "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0",
+    "size": 176,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/connector.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/craftingtweaks-common.toml",
+    "sha1": "e9bed7205a2a7ede1ea6ef3458a0551453b34c75",
+    "size": 1212,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/craftingtweaks-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/craftpresence.json",
+    "sha1": "84ae6ccb56f9ac9bdb77f01e85d5dae56e463c51",
+    "size": 16516,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/craftpresence.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions-common.toml",
+    "sha1": "94af7f4a2ede9a6130a40b29417acf777aceecbe",
+    "size": 471,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/dynamiccrosshair.json5",
+    "sha1": "dbd7e9e88c12e76c8309e3931d6ad13b04bf0657",
+    "size": 3682,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/dynamiccrosshair.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/emi.css",
+    "sha1": "ec800a18743cdb0b9a9832ea2ca4f6fa03256694",
+    "size": 10179,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/emi.css",
+    "mode": "soft"
+   },
+   {
+    "path": "config/emi_ores-client.json",
+    "sha1": "47f12bc9d15cdca075a06c5ba8c680a331283099",
+    "size": 97,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/emi_ores-client.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/enchdesc.json",
+    "sha1": "7afc913d0110cfd7e1379ab056448b76feb6900b",
+    "size": 2059,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/enchdesc.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/enhanced_attack_indicator-client.toml",
+    "sha1": "ad6bdf32b8f7e9e2bd7d4f9efd8c0a1ef9cdbb63",
+    "size": 288,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/enhanced_attack_indicator-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/entityculling.json",
+    "sha1": "1eb3c0764b2f13bde244149c98a91e1acfd65230",
+    "size": 2248,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/entityculling.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/entity_model_features.json",
+    "sha1": "a7427a1c2fbc000d00dcac43a4b85277aac4f148",
+    "size": 1257,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/entity_model_features.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/entity_texture_features.json",
+    "sha1": "5fc3d7567c74811f362b997baa24dc25c2163b6e",
+    "size": 1452,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/entity_texture_features.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/etf_warnings.json",
+    "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+    "size": 28,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/etf_warnings.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fallingleaves-client.toml",
+    "sha1": "ea4757d8be63cbca8a564823ff9c6c11d5859043",
+    "size": 1853,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fallingleaves-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/ferritecore-mixin.toml",
+    "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
+    "size": 1603,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/ferritecore-mixin.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fml.toml",
+    "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6",
+    "size": 1550,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fml.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove.json",
+    "sha1": "516a087fdc8695f05d7e2f405220ce3f8463b27c",
+    "size": 450,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/iris-excluded.json",
+    "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+    "size": 31,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/iris-excluded.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/iris.properties",
+    "sha1": "ded1993c394d2e71908074f72fc1eb917f0e9982",
+    "size": 281,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/iris.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jeed-client.toml",
+    "sha1": "5393eb64e747700beab26780223f0c9703367e46",
+    "size": 697,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jeed-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei-server.toml",
+    "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8",
+    "size": 324,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei-server.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/lambdynlights.toml",
+    "sha1": "63ac8f18c39c6a45d08a2960b2f96cd3fdf648f3",
+    "size": 4114,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/lambdynlights.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/languagereload-client.toml",
+    "sha1": "393e4f38f41cd1a7f43e96c68c74c867aa2f8a28",
+    "size": 114,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/languagereload-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/letmedespawn.json.migrated",
+    "sha1": "ba4cd7604f0df79fb6d4085e63db0ef169b9bdfd",
+    "size": 72,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/letmedespawn.json.migrated",
+    "mode": "soft"
+   },
+   {
+    "path": "config/libgui.json5",
+    "sha1": "aa2f828b3903fa48180cb314feb1107f4b4e42f2",
+    "size": 101,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/libgui.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/lithium.properties",
+    "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+    "size": 267,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/lithium.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/midnightlib.json",
+    "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
+    "size": 37,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/midnightlib.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/neoforge-client.toml",
+    "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+    "size": 578,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/neoforge-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/neoforge-common.toml",
+    "sha1": "2e904b9a9bf2c03e8dfe4d0b3b43dee9965c062b",
+    "size": 1050,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/neoforge-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/neoforge-server.toml",
+    "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
+    "size": 1177,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/neoforge-server.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/notenoughanimations.json",
+    "sha1": "a47b02b417ae52eb8b3fc7141d16901e44798155",
+    "size": 1388,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/notenoughanimations.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/particlerain.json",
+    "sha1": "37e9b3ce434f4d10e73dfeb34161b2e1c02fcc3c",
+    "size": 14274,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/particlerain.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/particular-common.toml",
+    "sha1": "d6a02f66468a8fe3ba8af76c6b18b39af42a084c",
+    "size": 5929,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/particular-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/sodium-extra-options.json",
+    "sha1": "d04e61628560b5986fade409b542eb55aad6317c",
+    "size": 2174,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/sodium-extra-options.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/sodium-extra.properties",
+    "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+    "size": 360,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/sodium-extra.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/sodium-fingerprint.json",
+    "sha1": "4d5bd955e269fd50bf2a26c1b8a1bffff9494f1c",
+    "size": 427,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/sodium-fingerprint.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/sodium-mixins.properties",
+    "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+    "size": 258,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/sodium-mixins.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/sodium-options.json",
+    "sha1": "f94c57d0a992e4201e71401c82e2de166bb9bd48",
+    "size": 762,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/sodium-options.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/sodium-shadowy-path-blocks-options.json",
+    "sha1": "712e4a76bfe3c8768d8786e4f1922094f9cf6f7c",
+    "size": 107,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/sodium-shadowy-path-blocks-options.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/tipsmod.json",
+    "sha1": "c23322fbfe6c0f9470192e849f9c50ce6276f03b",
+    "size": 905,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/tipsmod.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/transition.json",
+    "sha1": "175ef27df07234a2e37dfbda9766f8c947122e12",
+    "size": 62,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/transition.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/trender.json",
+    "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+    "size": 47,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/trender.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/wakes-client.toml",
+    "sha1": "dc3414cf1bc212b60335e762c058be463c2f4349",
+    "size": 3056,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/wakes-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaerohud.txt",
+    "sha1": "9edacae64bb44823d4ea52304953a6da124bca66",
+    "size": 124,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaerohud.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaerominimap.txt",
+    "sha1": "0b97deeaf25eb4a014c37add4ab5d4b61af970e0",
+    "size": 3655,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaerominimap.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaerominimap_entities.json",
+    "sha1": "a0dbe68eece9c129d7193099a34a803f95d43188",
+    "size": 7931,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaerominimap_entities.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaeropatreon.txt",
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 0,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaeropatreon.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaeroworldmap.txt",
+    "sha1": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c",
+    "size": 1218,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaeroworldmap.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/yacl.json5",
+    "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+    "size": 250,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/yacl.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/ali/ali_common.json",
+    "sha1": "4baa7fbe327439a04769cda55384f9eb807e2a79",
+    "size": 4436,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/ali/ali_common.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/almanac/almanac.json5",
+    "sha1": "ab52321591b47732f1cf7b2e5fa412f0263e4a87",
+    "size": 1499,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/almanac/almanac.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/cobblemon/main.json",
+    "sha1": "b20aeafbf1611d61573efc75b32a6a6c33a44ad4",
+    "size": 4128,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/cobblemon/main.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/keybindings.txt",
+    "sha1": "3980ee4c2ef9c44479e87c5145860d633d047e3e",
+    "size": 6386,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/keybindings.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/options.txt",
+    "sha1": "80a912149291274d998324d8e89c8f6fd595b138",
+    "size": 2356,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/options.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/almanac-common.toml",
+    "sha1": "f194c1d8369fb9b22696f472c20be7593cd71d30",
+    "size": 575,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/almanac-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/appleskin-client.toml",
+    "sha1": "294982f3be1ecb7526b34e23c2939ec8c4f5da52",
+    "size": 1381,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/appleskin-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/balm-client.toml",
+    "sha1": "24d30218391a98e275557a07b93299b69f4e0f4f",
+    "size": 795,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/balm-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/balm-common.toml",
+    "sha1": "eb9815a0a0856be8d2098291a7dd3d090edc2697",
+    "size": 795,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/balm-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/betteradvancements-client.toml",
+    "sha1": "f3f092a0b21260802d10cc6abd83e2a6d33573c3",
+    "size": 939,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/betteradvancements-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/betterpingdisplay-client.toml",
+    "sha1": "734d536a1f2dc8355831603f42147db1a48e804b",
+    "size": 664,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/betterpingdisplay-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/betterthirdperson-common.toml",
+    "sha1": "86774c511b59294d8008f5ade4955d697a9263e5",
+    "size": 749,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/betterthirdperson-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/better_tooltips-client.toml",
+    "sha1": "0ed02a9f0cfaa1134d4a9daa29938bce9326befb",
+    "size": 761,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/better_tooltips-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/bhmenu-client.toml",
+    "sha1": "6e0a40f8b4356ce82733ff7db83e49931431eb58",
+    "size": 2076,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/bhmenu-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/bwncr-common.toml",
+    "sha1": "5ffdd9ee57a9b8d9fa0e81e34545c574874913b8",
+    "size": 680,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/bwncr-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/citresewn.json",
+    "sha1": "962b8fbc4f2e6dd6ae7f3c4074281276e3c332ed",
+    "size": 121,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/citresewn.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/connector.json",
+    "sha1": "de7faf7cefdc6be41a7a828c2d39f15517cf58c0",
+    "size": 176,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/connector.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/craftingtweaks-common.toml",
+    "sha1": "e9bed7205a2a7ede1ea6ef3458a0551453b34c75",
+    "size": 1212,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/craftingtweaks-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/defaultoptions-common.toml",
+    "sha1": "94af7f4a2ede9a6130a40b29417acf777aceecbe",
+    "size": 471,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/defaultoptions-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/dynamiccrosshair.json5",
+    "sha1": "dbd7e9e88c12e76c8309e3931d6ad13b04bf0657",
+    "size": 3682,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/dynamiccrosshair.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/emi.css",
+    "sha1": "ec800a18743cdb0b9a9832ea2ca4f6fa03256694",
+    "size": 10179,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/emi.css",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/emi_ores-client.json",
+    "sha1": "47f12bc9d15cdca075a06c5ba8c680a331283099",
+    "size": 97,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/emi_ores-client.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/enchdesc.json",
+    "sha1": "7afc913d0110cfd7e1379ab056448b76feb6900b",
+    "size": 2059,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/enchdesc.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/enhanced_attack_indicator-client.toml",
+    "sha1": "ad6bdf32b8f7e9e2bd7d4f9efd8c0a1ef9cdbb63",
+    "size": 288,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/enhanced_attack_indicator-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/entityculling.json",
+    "sha1": "9f627499ebbf61d778349215b6b71087c0fbfdd0",
+    "size": 2228,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/entityculling.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/entity_model_features.json",
+    "sha1": "937f5d4b70520a1bea9eac99f98228bc3b37a347",
+    "size": 1206,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/entity_model_features.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/entity_texture_features.json",
+    "sha1": "448216485327fc2d8974687e6995a8502666dbb5",
+    "size": 1451,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/entity_texture_features.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/etf_warnings.json",
+    "sha1": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+    "size": 28,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/etf_warnings.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/fallingleaves-client.toml",
+    "sha1": "5ce435cdc8cae46aa45c765d52243cbbae1a2997",
+    "size": 1735,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/fallingleaves-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/ferritecore-mixin.toml",
+    "sha1": "117f758af35aac859c535d5d2da96c5747a87aea",
+    "size": 1603,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/ferritecore-mixin.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/fml.toml",
+    "sha1": "9fca24533100755c12e7d1a82f8c524d0a163ff6",
+    "size": 1550,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/fml.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove.json",
+    "sha1": "516a087fdc8695f05d7e2f405220ce3f8463b27c",
+    "size": 450,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/iris-excluded.json",
+    "sha1": "20bd3420b5c911402ac289c154b56ac1dd8f84ba",
+    "size": 31,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/iris-excluded.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/iris.properties",
+    "sha1": "9efb0b3d4b182c20a97dc48d6b6586791e9c99ae",
+    "size": 281,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/iris.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jeed-client.toml",
+    "sha1": "5393eb64e747700beab26780223f0c9703367e46",
+    "size": 697,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jeed-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei-server.toml",
+    "sha1": "91447001769dc0f239a44ffce274f7affa1bbaa8",
+    "size": 324,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei-server.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/lambdynlights.toml",
+    "sha1": "63ac8f18c39c6a45d08a2960b2f96cd3fdf648f3",
+    "size": 4114,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/lambdynlights.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/languagereload-client.toml",
+    "sha1": "393e4f38f41cd1a7f43e96c68c74c867aa2f8a28",
+    "size": 114,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/languagereload-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/letmedespawn.json",
+    "sha1": "ba4cd7604f0df79fb6d4085e63db0ef169b9bdfd",
+    "size": 72,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/letmedespawn.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/libgui.json5",
+    "sha1": "aa2f828b3903fa48180cb314feb1107f4b4e42f2",
+    "size": 101,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/libgui.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/lithium.properties",
+    "sha1": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+    "size": 267,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/lithium.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/midnightlib.json",
+    "sha1": "ef717d24a45baf1406cd1c5600b176cb8b3cb2db",
+    "size": 37,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/midnightlib.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/neoforge-client.toml",
+    "sha1": "b51515abb0c65a891514baffb4c78d2357ecd1ed",
+    "size": 578,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/neoforge-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/neoforge-common.toml",
+    "sha1": "6b10e4debbf06a33453f4e0ffb80281ff0752f9f",
+    "size": 772,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/neoforge-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/neoforge-server.toml",
+    "sha1": "536538f1f29efb49318318113530bd4fd74c235b",
+    "size": 1177,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/neoforge-server.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/notenoughanimations.json",
+    "sha1": "a47b02b417ae52eb8b3fc7141d16901e44798155",
+    "size": 1388,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/notenoughanimations.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/particlerain.json",
+    "sha1": "37e9b3ce434f4d10e73dfeb34161b2e1c02fcc3c",
+    "size": 14274,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/particlerain.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/particular-common.toml",
+    "sha1": "d6a02f66468a8fe3ba8af76c6b18b39af42a084c",
+    "size": 5929,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/particular-common.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/sodium-extra-options.json",
+    "sha1": "cf1fd437324e3e79b3c261d1d65eefed024768ba",
+    "size": 2136,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/sodium-extra-options.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/sodium-extra.properties",
+    "sha1": "e90b2514226a0624cf42112b42477f9872598b89",
+    "size": 360,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/sodium-extra.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/sodium-fingerprint.json",
+    "sha1": "e2c818aabb04cdbd14462e1d9c11c59661fb50e5",
+    "size": 427,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/sodium-fingerprint.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/sodium-mixins.properties",
+    "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c",
+    "size": 258,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/sodium-mixins.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/sodium-shadowy-path-blocks-options.json",
+    "sha1": "712e4a76bfe3c8768d8786e4f1922094f9cf6f7c",
+    "size": 107,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/sodium-shadowy-path-blocks-options.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/tipsmod.json",
+    "sha1": "c23322fbfe6c0f9470192e849f9c50ce6276f03b",
+    "size": 905,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/tipsmod.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/transition.json",
+    "sha1": "175ef27df07234a2e37dfbda9766f8c947122e12",
+    "size": 62,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/transition.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/trender.json",
+    "sha1": "1ecd2edb27bfbc69f24e0cd52d3a22f98bdce8f0",
+    "size": 47,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/trender.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/wakes-client.toml",
+    "sha1": "dc3414cf1bc212b60335e762c058be463c2f4349",
+    "size": 3056,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/wakes-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaerohud.txt",
+    "sha1": "9edacae64bb44823d4ea52304953a6da124bca66",
+    "size": 124,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaerohud.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaerominimap.txt",
+    "sha1": "0b97deeaf25eb4a014c37add4ab5d4b61af970e0",
+    "size": 3655,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaerominimap.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaerominimap_entities.json",
+    "sha1": "a0dbe68eece9c129d7193099a34a803f95d43188",
+    "size": 7931,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaerominimap_entities.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaeropatreon.txt",
+    "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "size": 0,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaeropatreon.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaeroworldmap.txt",
+    "sha1": "f9f3473c03a6dd44911db71f46a9bc8598b01e0c",
+    "size": 1218,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaeroworldmap.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/yacl.json5",
+    "sha1": "622920f29084efcd3a8d0b2a0ea0756fece182d2",
+    "size": 250,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/yacl.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/ali/ali_common.json",
+    "sha1": "6a06a55aa592c761586235e1345d7ea6df287634",
+    "size": 3543,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/ali/ali_common.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/fabric/indigo-renderer.properties",
+    "sha1": "61c5eb04ae72878971fb1b7f7ba0ceabffdf6944",
+    "size": 290,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/fabric/indigo-renderer.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove/cloth-config.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove/cloth-config.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove/emi.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove/emi.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove/jei.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove/jei.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove/rei.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove/rei.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove/unrecognized.json",
+    "sha1": "12f6e3c7b7cc73835035a90488b395f89f650220",
+    "size": 1299,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove/unrecognized.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/invmove/vanilla.json",
+    "sha1": "51cf39966b1142bde387fd02c270b3b09396c7c0",
+    "size": 1114,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/invmove/vanilla.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei/blacklist.json",
+    "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+    "size": 19,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei/blacklist.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei/jei-client.ini",
+    "sha1": "382da1191f3c0b0e6469b74bbe2547eab8444114",
+    "size": 12985,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei/jei-client.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei/jei-colors.ini",
+    "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
+    "size": 1362,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei/jei-colors.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei/jei-debug.ini",
+    "sha1": "e76a74cd66991a5a40b0a3cd7f1dfad000ff726c",
+    "size": 939,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei/jei-debug.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei/jei-mod-id-format.ini",
+    "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb",
+    "size": 489,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei/jei-mod-id-format.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/jei/recipe-category-sort-order.ini",
+    "sha1": "0add19f8c4871a367b6ab397506610384d9a0f8a",
+    "size": 320,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/jei/recipe-category-sort-order.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/konkrete/locals/de_de.local",
+    "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+    "size": 369,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/konkrete/locals/de_de.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/konkrete/locals/en_us.local",
+    "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+    "size": 426,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/konkrete/locals/en_us.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/konkrete/locals/pl_pl.local",
+    "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+    "size": 313,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/konkrete/locals/pl_pl.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/konkrete/locals/pt_br.local",
+    "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+    "size": 322,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/konkrete/locals/pt_br.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/loadmyresources/config.cfg",
+    "sha1": "b8ec3034afa0c08b831031696f10ad6e7ec64bdc",
+    "size": 79,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/loadmyresources/config.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/particlerain/config.json",
+    "sha1": "9446a028f725952b57f12ecde1ebb52776738b25",
+    "size": 1154,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/particlerain/config.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/presencefootsteps/updater.json",
+    "sha1": "75c10c3afddf1b1665036da06cd9c74d2ae84007",
+    "size": 68,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/presencefootsteps/updater.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/presencefootsteps/userconfig.json",
+    "sha1": "bebcca57e51dae13396fc62d0620638ae3eb1ffa",
+    "size": 427,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/presencefootsteps/userconfig.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/roughlyenoughitems/collapsible.json5",
+    "sha1": "d3ddda466e4e5fb9048711c0424c8970d474fc7c",
+    "size": 46,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/roughlyenoughitems/collapsible.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/roughlyenoughitems/config.json5",
+    "sha1": "6283fb54025c014a7c3c7185070be5807bae8b32",
+    "size": 5613,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/roughlyenoughitems/config.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/roughlyenoughitems/favorites.json5",
+    "sha1": "413c0d78b009c2e235966e3a9437bd89258724f9",
+    "size": 61,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/roughlyenoughitems/favorites.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/roughlyenoughitems/hints.json",
+    "sha1": "697dbea4a25fd813ca10d3cc976e2a08e534363d",
+    "size": 63,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/roughlyenoughitems/hints.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/roughlyenoughitems/pinyin.properties",
+    "sha1": "baff8a960f927ff1900fb659cc6f7dd303c5a389",
+    "size": 48,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/roughlyenoughitems/pinyin.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/roughlyenoughitems/pinyin_double.properties",
+    "sha1": "f0ffd3f31ad3395278ac60b7161acf2dda210072",
+    "size": 73,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/roughlyenoughitems/pinyin_double.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/softimprints/softimprints-client.toml",
+    "sha1": "e91b8c091fa16dbdb214dfeab9966394fcb3c371",
+    "size": 4695,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/softimprints/softimprints-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/visuality/config.toml",
+    "sha1": "e5a0e3274bf7a3f14f310b256a69795638f4ef09",
+    "size": 389,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/visuality/config.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/visuality/particle_emitters/block_ambient.json",
+    "sha1": "c433a34828dbc3b79f71563f13057289fa4b99b6",
+    "size": 244,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/visuality/particle_emitters/block_ambient.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/visuality/particle_emitters/block_step.json",
+    "sha1": "bd4788dd1998fac53045829328c1d3fa605a61e0",
+    "size": 219,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/visuality/particle_emitters/block_step.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/visuality/particle_emitters/entity_armor.json",
+    "sha1": "8c397a979a47654ef40cedfb177649b02346c3b4",
+    "size": 56,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/visuality/particle_emitters/entity_armor.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/visuality/particle_emitters/entity_hit.json",
+    "sha1": "5762a004803d76226e223a47e72779966b6cda23",
+    "size": 683,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/visuality/particle_emitters/entity_hit.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/lib/client.cfg",
+    "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+    "size": 26,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/lib/client.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/lib/common.cfg",
+    "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+    "size": 236,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/lib/common.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/lib/profiles/default.cfg",
+    "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+    "size": 121,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/lib/profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/lib/server_profiles/default.cfg",
+    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/lib/server_profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/client.cfg",
+    "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
+    "size": 235,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/client.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/common.cfg",
+    "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+    "size": 147,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/common.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/default_radar_categories_client.json",
+    "sha1": "a0dbe68eece9c129d7193099a34a803f95d43188",
+    "size": 7931,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/default_radar_categories_client.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/default_radar_categories_server.json",
+    "sha1": "c247867b018103357eb4015059fe209cc562de51",
+    "size": 4597,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/default_radar_categories_server.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/profiles/default.cfg",
+    "sha1": "621b7dff05f1e27b59be1d64d98c5bf6083f996d",
+    "size": 3832,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+    "sha1": "bdb567424f4ad8d835e68b6d5631799dc031f808",
+    "size": 683,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/minimap/server_profiles/default.cfg",
+    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/minimap/server_profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/world-map/client.cfg",
+    "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea",
+    "size": 521,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/world-map/client.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/world-map/common.cfg",
+    "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+    "size": 141,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/world-map/common.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/world-map/profiles/default.cfg",
+    "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
+    "size": 1619,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/world-map/profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/defaultoptions/extra/config/xaero/world-map/server_profiles/default.cfg",
+    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/defaultoptions/extra/config/xaero/world-map/server_profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/dungeonconfig/dungeonconfig.json5",
+    "sha1": "bea84d597f9727a8644001d7019462fec9e52806",
+    "size": 1007,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/dungeonconfig/dungeonconfig.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fabric/indigo-renderer.properties",
+    "sha1": "565d01a3decb0c257ccb84629fffce6b6c8d8cf3",
+    "size": 290,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fabric/indigo-renderer.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/audio_element_controller_metas.json",
+    "sha1": "c7ecf985dbb6a73b26a9fc3762585d4864cddb00",
+    "size": 109,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/audio_element_controller_metas.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/customizablemenus.txt",
+    "sha1": "df5d0e1cc5004bd41f832bbc9322b2b7bc384431",
+    "size": 172,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/customizablemenus.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/custom_gui_screens.txt",
+    "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+    "size": 51,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/custom_gui_screens.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/legacy_checklist.txt",
+    "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+    "size": 42,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/legacy_checklist.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/options.txt",
+    "sha1": "cbc72c46fb6af3171dab15433bebf9c090f83551",
+    "size": 4565,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/options.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/user_variables.db",
+    "sha1": "a9b32e8e1a7ef39329026b8b4627a94bae1326c0",
+    "size": 95,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/user_variables.db",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_audio/north_province.ogg",
+    "sha1": "f3d27ecd8d9e8aec4847e231f357728f5517a28a",
+    "size": 4930132,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_audio/north_province.ogg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/background.png",
+    "sha1": "c1bbe6d24ce458ac6c58f86d4395269723b12c4b",
+    "size": 1585081,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/background.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/button.png",
+    "sha1": "bd91d5ba557c60eef0e624cb47fb210320714742",
+    "size": 205,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/button.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/button_hover.png",
+    "sha1": "04a68a0955a1fa8136d0c23b5db51421f9d73e22",
+    "size": 205,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/button_hover.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/button_small.png",
+    "sha1": "e0aab86bd13cc4fb2c157fe3ecc8a0e177c5d6a5",
+    "size": 426,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/button_small.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/button_small_hover.png",
+    "sha1": "0c493f078653a7549b6c5a9b73bc9de0228fe25f",
+    "size": 426,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/button_small_hover.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/cm_menu.png",
+    "sha1": "6d2acfcd166c1cdb7434dd1bc7b530718fa40c41",
+    "size": 464,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/cm_menu.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/cm_title.png",
+    "sha1": "caeba8d6a9a8e9a7e4a83c2718f631581b3b560f",
+    "size": 49215,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/cm_title.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/exit_button.png",
+    "sha1": "b46d78f6059b1404efc8a04c85441a156b5516e1",
+    "size": 290,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/exit_button.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/exit_hover.png",
+    "sha1": "40a0d83f2dd40022da151e73dd00f21deb41e018",
+    "size": 290,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/exit_hover.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/grad.png",
+    "sha1": "e18484c94890fba6fe8e48d3647c92e46dd2f273",
+    "size": 493601,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/grad.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/icon16x16.png",
+    "sha1": "a5799451ba789792082b9fca2e2016f044b2afd3",
+    "size": 955,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/icon16x16.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/icon32x32.png",
+    "sha1": "55da22935abb7b1ba7561470dd2a62d2ec3ed71a",
+    "size": 934,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/icon32x32.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/iconmacos.icns",
+    "sha1": "d224bf99f0f086a74242da8eff27c256f1710be3",
+    "size": 2693,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/iconmacos.icns",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/music_button.png",
+    "sha1": "05d9cf50d8c82f6934438bf6b2e8b30b64155bc4",
+    "size": 218,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/music_button.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/music_hover.png",
+    "sha1": "00d65e95f6a3b7eca8848a9a911fad3180c82d0a",
+    "size": 218,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/music_hover.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/scroll.png",
+    "sha1": "0ec8b001d97aa14ac814c8699ab1cb3078fce864",
+    "size": 201,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/scroll.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/scroll_hover.png",
+    "sha1": "06e81dfe8671228db934482f417208cf27456f43",
+    "size": 201,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/scroll_hover.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/assets/cm_textures/sliderback.png",
+    "sha1": "d9d8f154ec1663f942c637707e69f534acfc4df7",
+    "size": 422,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/assets/cm_textures/sliderback.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/customization/cm_multiplayer.txt",
+    "sha1": "cc8cfba24983335810dca0ebcd62f1d0941e290e",
+    "size": 10771,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/customization/cm_multiplayer.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/customization/cm_music.txt",
+    "sha1": "e7ae5c0e6c078c9dea2e5dc383ae4c23d231da42",
+    "size": 1526,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/customization/cm_music.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/customization/cm_title.txt",
+    "sha1": "49e09670546260e7bd8f1567206d44940923b7b0",
+    "size": 80347,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/customization/cm_title.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+    "sha1": "ab37cda5a9c8aeb3c63b5ec60eadd493e65d4bb6",
+    "size": 201,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/properties.txt",
+    "sha1": "31a20ea32e45b46e162207a9eba7c451ba837fa3",
+    "size": 179,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/properties.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/alpha_pokemon.png",
+    "sha1": "365e9905b0d8a742cbb0fba63e85f59b1bfd9817",
+    "size": 200826,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/alpha_pokemon.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/habitats.png",
+    "sha1": "1a18c9aec1891ed184a962eea984306d50410603",
+    "size": 315021,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/habitats.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/habitat_blocks.png",
+    "sha1": "9d2dbffa04ef5aee789b25d22e78870fbd3f86a6",
+    "size": 331188,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/habitat_blocks.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/new_decor_blocks.png",
+    "sha1": "82cca8a31462ec85393ced493fa2f084b545c8c0",
+    "size": 259832,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/new_decor_blocks.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/new_pokemon.png",
+    "sha1": "42dedafcb6a6f26342cafb970b6dbe5f88fd4477",
+    "size": 333606,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/new_pokemon.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/new_ruin_structures.png",
+    "sha1": "3a0253b377678905da345a04fff4f925316ebafe",
+    "size": 255379,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/new_ruin_structures.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/pokedex_moves_tab.png",
+    "sha1": "e4a549bc2eb8694e1167347a31050e39bfbe8510",
+    "size": 184190,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/pokedex_moves_tab.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/slideshows/cm_showcase/images/tms_and_tm_machine.png",
+    "sha1": "49fc3e037f60d5bb381b73135d0bf3a1701b5fe5",
+    "size": 255821,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/slideshows/cm_showcase/images/tms_and_tm_machine.png",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/cherry_blossom.json",
+    "sha1": "9a453a566f041ddbc39e17918acdac90f6eaed38",
+    "size": 9349,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/cherry_blossom.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/cozy_campfire.json",
+    "sha1": "e7fbd4e11f3e969d20d7c713e61fa6d6cedd077e",
+    "size": 9347,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/cozy_campfire.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/dark.json",
+    "sha1": "b8793f498fc95000ab68a7d6b45d8575ad45d558",
+    "size": 9329,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/dark.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/dark_high_contrast.json",
+    "sha1": "9583fa877b286337557aae3429f91d66682091b7",
+    "size": 9359,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/dark_high_contrast.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/light.json",
+    "sha1": "5b9e9bc9d4d683584c919bcdae3b75581ae42f60",
+    "size": 9331,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/light.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/light_high_contrast.json",
+    "sha1": "8a290f6e1a0bdf2be972878e1c134a0c31f4a069",
+    "size": 9361,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/light_high_contrast.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/pumpkin_soup.json",
+    "sha1": "39c96a61bdeb936b151e38d0050b70abb78e3620",
+    "size": 9345,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/pumpkin_soup.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/purple_void.json",
+    "sha1": "9e38ca299adfe6ab2ad331c6adb80e26ff823da8",
+    "size": 9343,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/purple_void.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/fancymenu/ui_themes/spooky_season.json",
+    "sha1": "9fa05d2794bdec26dee5224075c98bd7da9c1a0d",
+    "size": 9347,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/fancymenu/ui_themes/spooky_season.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove/cloth-config.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove/cloth-config.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove/emi.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove/emi.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove/jei.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove/jei.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove/rei.json",
+    "sha1": "5ce8766d39cadbceb0466474b85d87cc6fd4993a",
+    "size": 44,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove/rei.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove/unrecognized.json",
+    "sha1": "c453ee12d48a9e751ddf527dd0ab78d4e0b2dc4b",
+    "size": 1347,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove/unrecognized.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/invmove/vanilla.json",
+    "sha1": "51cf39966b1142bde387fd02c270b3b09396c7c0",
+    "size": 1114,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/invmove/vanilla.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/blacklist.json",
+    "sha1": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+    "size": 19,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/blacklist.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-client.ini",
+    "sha1": "382da1191f3c0b0e6469b74bbe2547eab8444114",
+    "size": 12985,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-client.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-client.ini.bak.1",
+    "sha1": "382da1191f3c0b0e6469b74bbe2547eab8444114",
+    "size": 12985,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-client.ini.bak.1",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-colors.ini",
+    "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
+    "size": 1362,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-colors.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-colors.ini.bak.1",
+    "sha1": "46f80e4857aa8f8d9b0928e107c4391d54b3b313",
+    "size": 1362,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-colors.ini.bak.1",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-debug.ini",
+    "sha1": "e76a74cd66991a5a40b0a3cd7f1dfad000ff726c",
+    "size": 939,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-debug.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-debug.ini.bak.1",
+    "sha1": "e76a74cd66991a5a40b0a3cd7f1dfad000ff726c",
+    "size": 939,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-debug.ini.bak.1",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-mod-id-format.ini",
+    "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb",
+    "size": 489,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-mod-id-format.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/jei-mod-id-format.ini.bak.1",
+    "sha1": "2cd7853bd68950b2d61a80dd549ed65be0e0f6cb",
+    "size": 489,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/jei-mod-id-format.ini.bak.1",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/recipe-category-sort-order.ini",
+    "sha1": "0add19f8c4871a367b6ab397506610384d9a0f8a",
+    "size": 320,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/recipe-category-sort-order.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/recipe-category-sort-order.ini.bak.1",
+    "sha1": "0add19f8c4871a367b6ab397506610384d9a0f8a",
+    "size": 320,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/recipe-category-sort-order.ini.bak.1",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/jei-client.ini",
+    "sha1": "ba0d0dcd5ae6e7f55d49ec3d01052152cd2c8164",
+    "size": 17000,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/jei-client.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/jei-colors.ini",
+    "sha1": "1044f6310eb4e62253c9d9e1ba3a9313599b310e",
+    "size": 1655,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/jei-colors.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/jei-debug.ini",
+    "sha1": "d02dc7d7cf1c8ced3ef1f9253a0bbadb6580d56d",
+    "size": 1174,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/jei-debug.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/jei-mod-id-format.ini",
+    "sha1": "6106cc9c99906ea9da4854730887379ec1e8b256",
+    "size": 863,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/jei-mod-id-format.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/recipe-category-sort-order.ini",
+    "sha1": "13140d7fc8fc285a8b27cebc232b49655a3408bb",
+    "size": 371,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/recipe-category-sort-order.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/default/jei-client.ini",
+    "sha1": "4920613ec2328b4b11b2fc10427c6ad4ae302d17",
+    "size": 16999,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/default/jei-client.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/default/jei-colors.ini",
+    "sha1": "1044f6310eb4e62253c9d9e1ba3a9313599b310e",
+    "size": 1655,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/default/jei-colors.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/default/jei-debug.ini",
+    "sha1": "d02dc7d7cf1c8ced3ef1f9253a0bbadb6580d56d",
+    "size": 1174,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/default/jei-debug.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/client/default/jei-mod-id-format.ini",
+    "sha1": "6106cc9c99906ea9da4854730887379ec1e8b256",
+    "size": 863,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/client/default/jei-mod-id-format.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/jei/server/world/default/jei-server.ini",
+    "sha1": "3b29a935a0381ea91b117a759180362b33f2a732",
+    "size": 760,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/jei/server/world/default/jei-server.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/konkrete/locals/de_de.local",
+    "sha1": "02adaf2602f1ba03a9352db3d10a6fac3a02aea5",
+    "size": 369,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/konkrete/locals/de_de.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/konkrete/locals/en_us.local",
+    "sha1": "42badc338e767559db38a67bd3e8020a92000e56",
+    "size": 426,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/konkrete/locals/en_us.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/konkrete/locals/pl_pl.local",
+    "sha1": "adf2ded54b4952ca83af26a1217e2c5db8ac1429",
+    "size": 313,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/konkrete/locals/pl_pl.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/konkrete/locals/pt_br.local",
+    "sha1": "9c324fb4d33106366e6cbb5400c8c34f11539d34",
+    "size": 322,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/konkrete/locals/pt_br.local",
+    "mode": "soft"
+   },
+   {
+    "path": "config/letmedespawn/letmedespawn.json5",
+    "sha1": "986f0f77dae34b3fad5649a5c41ac928ee766455",
+    "size": 1449,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/letmedespawn/letmedespawn.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/loadmyresources/config.cfg",
+    "sha1": "b8ec3034afa0c08b831031696f10ad6e7ec64bdc",
+    "size": 79,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/loadmyresources/config.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/mezz_config/client/default/settings.ini",
+    "sha1": "37c6c10d605efbf78119e1fea0d6d0b06ba9ca77",
+    "size": 1452,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/mezz_config/client/default/settings.ini",
+    "mode": "soft"
+   },
+   {
+    "path": "config/openloader/options.json",
+    "sha1": "bfa4aceb6e5e555aa113fa56c4806c98dafcd226",
+    "size": 1111,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/openloader/options.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/openloader/resources/Cobblemon-Tips-3.0.zip",
+    "sha1": "80b10aaa8ddf4fe9524d51f498a43531cdfd1d85",
+    "size": 32174,
+    "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/80b10aaa8ddf4fe9524d51f498a43531cdfd1d85.zip",
+    "mode": "soft"
+   },
+   {
+    "path": "config/particlerain/config.json",
+    "sha1": "1676c71f3041cc4e42cbf5e2b53ea39be4fe5929",
+    "size": 984,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/particlerain/config.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/presencefootsteps/updater.json",
+    "sha1": "75c10c3afddf1b1665036da06cd9c74d2ae84007",
+    "size": 68,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/presencefootsteps/updater.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/presencefootsteps/userconfig.json",
+    "sha1": "bebcca57e51dae13396fc62d0620638ae3eb1ffa",
+    "size": 427,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/presencefootsteps/userconfig.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/roughlyenoughitems/collapsible.json5",
+    "sha1": "d3ddda466e4e5fb9048711c0424c8970d474fc7c",
+    "size": 46,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/roughlyenoughitems/collapsible.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/roughlyenoughitems/config.json5",
+    "sha1": "6283fb54025c014a7c3c7185070be5807bae8b32",
+    "size": 5613,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/roughlyenoughitems/config.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/roughlyenoughitems/favorites.json5",
+    "sha1": "413c0d78b009c2e235966e3a9437bd89258724f9",
+    "size": 61,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/roughlyenoughitems/favorites.json5",
+    "mode": "soft"
+   },
+   {
+    "path": "config/roughlyenoughitems/hints.json",
+    "sha1": "697dbea4a25fd813ca10d3cc976e2a08e534363d",
+    "size": 63,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/roughlyenoughitems/hints.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/roughlyenoughitems/pinyin.properties",
+    "sha1": "baff8a960f927ff1900fb659cc6f7dd303c5a389",
+    "size": 48,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/roughlyenoughitems/pinyin.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/roughlyenoughitems/pinyin_double.properties",
+    "sha1": "f0ffd3f31ad3395278ac60b7161acf2dda210072",
+    "size": 73,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/roughlyenoughitems/pinyin_double.properties",
+    "mode": "soft"
+   },
+   {
+    "path": "config/softimprints/softimprints-client.toml",
+    "sha1": "e91b8c091fa16dbdb214dfeab9966394fcb3c371",
+    "size": 4695,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/softimprints/softimprints-client.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/visuality/config.toml",
+    "sha1": "e5a0e3274bf7a3f14f310b256a69795638f4ef09",
+    "size": 389,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/visuality/config.toml",
+    "mode": "soft"
+   },
+   {
+    "path": "config/visuality/particle_emitters/block_ambient.json",
+    "sha1": "c433a34828dbc3b79f71563f13057289fa4b99b6",
+    "size": 244,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/visuality/particle_emitters/block_ambient.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/visuality/particle_emitters/block_step.json",
+    "sha1": "bd4788dd1998fac53045829328c1d3fa605a61e0",
+    "size": 219,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/visuality/particle_emitters/block_step.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/visuality/particle_emitters/entity_armor.json",
+    "sha1": "8c397a979a47654ef40cedfb177649b02346c3b4",
+    "size": 56,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/visuality/particle_emitters/entity_armor.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/visuality/particle_emitters/entity_hit.json",
+    "sha1": "5762a004803d76226e223a47e72779966b6cda23",
+    "size": 683,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/visuality/particle_emitters/entity_hit.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/lib/client.cfg",
+    "sha1": "45cccfb3eb8a7a784bd4c29539e5558445f90bcf",
+    "size": 26,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/lib/client.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/lib/common.cfg",
+    "sha1": "8ae8d6ea0330bec2c0db28b109a12443708f1e7b",
+    "size": 236,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/lib/common.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/lib/profiles/default.cfg",
+    "sha1": "253bac0f5181c8db8e488832c46a8d40018650cf",
+    "size": 121,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/lib/profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/lib/server_profiles/default.cfg",
+    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/lib/server_profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/client.cfg",
+    "sha1": "a18a4a75d6f033c35ecde56c14306760715a3a19",
+    "size": 235,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/client.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/common.cfg",
+    "sha1": "de09f45b29b264432b80d34bb0c336bd552fb9ee",
+    "size": 147,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/common.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/default_radar_categories_client.json",
+    "sha1": "a0dbe68eece9c129d7193099a34a803f95d43188",
+    "size": 7931,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/default_radar_categories_client.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/default_radar_categories_server.json",
+    "sha1": "c247867b018103357eb4015059fe209cc562de51",
+    "size": 4597,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/default_radar_categories_server.json",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/profiles/default.cfg",
+    "sha1": "621b7dff05f1e27b59be1d64d98c5bf6083f996d",
+    "size": 3832,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+    "sha1": "bdb567424f4ad8d835e68b6d5631799dc031f808",
+    "size": 683,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/minimap/server_profiles/default.cfg",
+    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/minimap/server_profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/world-map/client.cfg",
+    "sha1": "27b70648a1bccd0561ae94c0a1a978f283893dea",
+    "size": 521,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/world-map/client.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/world-map/common.cfg",
+    "sha1": "c3c64f24c8d33940264147473e4a1c8ba5c219ff",
+    "size": 141,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/world-map/common.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/world-map/profiles/default.cfg",
+    "sha1": "2f1680b1a14bf8cc756c5911c9b9f90e119a365e",
+    "size": 1619,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/world-map/profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "config/xaero/world-map/server_profiles/default.cfg",
+    "sha1": "8efdb5a6c4f4f41a36b531d54592321012491fb2",
+    "size": 75,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/config/xaero/world-map/server_profiles/default.cfg",
+    "mode": "soft"
+   },
+   {
+    "path": "options.txt",
+    "sha1": "16f3b47bd547584edb1f2f2e2d062233bb8535f0",
+    "size": 17407,
+    "url": "https://raw.githubusercontent.com/Sedulous-Dev/alantria-pack/917d6661ccdbb72c2e5cb7344e82181c87240bcc/files-pmd/options.txt",
+    "mode": "once"
+   }
+  ],
+  "test": {
+   "name": "PmdCraft test build",
+   "version": "0.1.0-test1",
+   "notes": "PmdCraft test build 0.1.0-test1: the first look at Pokemon Mystery Dungeon floors in Minecraft\n  • Real Mystery Dungeon floor layouts, made by Explorers of Sky's own floor-building method, built out of blocks in their own dungeon world (placeholder blocks for now)\n  • Coloured markers show where enemies, items, traps, stairs and the start would be\n  • Please try: make a singleplayer world with cheats on, then type /pmd floor layout 1 (any number from 0 to 15 gives a different kind of floor), and /pmd leave to come back. Add a number for the same floor again (/pmd floor layout 1 42), and 1 or 2 after it for blocks per tile (/pmd floor layout 1 42 1)\n  • Not in yet: Pokemon, turns, combat, items and the real dungeons' own floors",
+   "files": [
+    {
+     "path": "mods/pmdcraft-1.21.1-0.1.0.jar",
+     "sha1": "69b35a40a4f82b34ddbf3c26b6ac27ea197bf108",
+     "size": 79541,
+     "url": "https://github.com/Sedulous-Dev/alantria-pack/releases/download/pack-files/69b35a40a4f82b34ddbf3c26b6ac27ea197bf108.jar",
+     "mode": "strict",
+     "name": "PmdCraft",
+     "version": "0.1.0"
+    }
+   ]
+  }
  }
 }
